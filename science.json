@@ -58,7 +58,7 @@
   {
     "id": "science_08",
     "questionText_en": "What is the study of living organisms called?",
-    "questionText_ar": "ماذا يُسمى علم دراسة الكائنات الحية؟",
+    "questionText_ar": "ماذا يُسمى علم دراسة الكائنات الحية？",
     "options_en": ["Chemistry", "Physics", "Biology", "Geology"],
     "options_ar": ["الكيمياء", "الفيزياء", "الأحياء", "الجيولوجيا"],
     "correctAnswerIndex": 2
@@ -78,5 +78,85 @@
     "options_en": ["Gold", "Iron", "Diamond", "Quartz"],
     "options_ar": ["الذهب", "الحديد", "الألماس", "الكوارتز"],
     "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_11",
+    "questionText_en": "What is the speed of light in a vacuum approximately?",
+    "questionText_ar": "ما هي سرعة الضوء التقريبية في الفراغ؟",
+    "options_en": ["150,000 km/s", "300,000 km/s", "450,000 km/s", "600,000 km/s"],
+    "options_ar": ["150,000 كم/ث", "300,000 كم/ث", "450,000 كم/ث", "600,000 كم/ث"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_12",
+    "questionText_en": "Which human blood type is known as the universal donor?",
+    "questionText_ar": "ما هي فصيلة الدم البشري التي تُعرف بالمتبرع العام؟",
+    "options_en": ["A+", "B-", "AB+", "O-"],
+    "options_ar": ["A+", "B-", "AB+", "O-"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "science_13",
+    "questionText_en": "What is the chemical formula for water?",
+    "questionText_ar": "ما هي الصيغة الكيميائية للماء؟",
+    "options_en": ["CO2", "H2O", "HO2", "H2O2"],
+    "options_ar": ["CO2", "H2O", "HO2", "H2O2"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_14",
+    "questionText_en": "Which instrument is used to measure atmospheric pressure?",
+    "questionText_ar": "ما هو الجهاز المستخدم لقياس الضغط الجوي؟",
+    "options_en": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+    "options_ar": ["الترمومتر", "البارومتر", "الهيجروماتر", "الأنيمومتر"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_15",
+    "questionText_en": "What is the primary source of energy for Earth's climate system?",
+    "questionText_ar": "ما هو المصدر الرئيسي للطاقة لنظام المناخ على كوكب الأرض؟",
+    "options_en": ["The Moon", "The Sun", "Earth's Core", "Volcanoes"],
+    "options_ar": ["القمر", "الشمس", "نواة الأرض", "البراكين"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_16",
+    "questionText_en": "How many bones are there in an adult human body?",
+    "questionText_ar": "كم عدد العظام الموجودة في جسم الإنسان البالغ؟",
+    "options_en": ["106", "206", "306", "406"],
+    "options_ar": ["106", "206", "306", "406"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_17",
+    "questionText_en": "What is the center of an atom called?",
+    "questionText_ar": "ماذا يسمى مركز الذرة؟",
+    "options_en": ["Electron", "Proton", "Nucleus", "Neutron"],
+    "options_ar": ["الإلكترون", "البروتون", "النواة", "النيوترون"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_18",
+    "questionText_en": "Which planet in our solar system has the most moons?",
+    "questionText_ar": "أي كوكب في مجموعتنا الشمسية يمتلك أكبر عدد من الأقمار؟",
+    "options_en": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "options_ar": ["الأرض", "المريخ", "المشتري", "زحل"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "science_19",
+    "questionText_en": "What type of energy is stored in a battery?",
+    "questionText_ar": "ما هو نوع الطاقة المخزنة داخل البطارية؟",
+    "options_en": ["Thermal energy", "Kinetic energy", "Chemical energy", "Nuclear energy"],
+    "options_ar": ["طاقة حرارية", "طاقة حركية", "طاقة كيميائية", "طاقة نووية"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_20",
+    "questionText_en": "What is the process of a liquid changing into a gas called?",
+    "questionText_ar": "ماذا تسمى عملية تحول السائل إلى غاز؟",
+    "options_en": ["Condensation", "Evaporation", "Freezing", "Sublimation"],
+    "options_ar": ["التكثف", "التبخر", "التجمد", "التسامي"],
+    "correctAnswerIndex": 1
   }
 ]
