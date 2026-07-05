@@ -1,0 +1,82 @@
+[
+  {
+    "id": "science_01",
+    "questionText_en": "What is the chemical symbol for the element Gold?",
+    "questionText_ar": "ما هو الرمز الكيميائي لعنصر الذهب؟",
+    "options_en": ["Gd", "Au", "Ag", "Go"],
+    "options_ar": ["Gd", "Au", "Ag", "Go"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_02",
+    "questionText_en": "Which planet is known as the 'Red Planet'?",
+    "questionText_ar": "أي كوكب يُعرف بـ 'الكوكب الأحمر'؟",
+    "options_en": ["Venus", "Jupiter", "Mars", "Saturn"],
+    "options_ar": ["الزهرة", "المشتري", "المريخ", "زحل"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_03",
+    "questionText_en": "What is the most abundant gas in Earth's atmosphere?",
+    "questionText_ar": "ما هو الغاز الأكثر وفرة في الغلاف الجوي للأرض؟",
+    "options_en": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+    "options_ar": ["الأكسجين", "النيتروجين", "ثاني أكسيد الكربون", "الأرجون"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_04",
+    "questionText_en": "Which part of the cell is known as the 'powerhouse'?",
+    "questionText_ar": "أي جزء من الخلية يُعرف بـ 'محطة الطاقة'؟",
+    "options_en": ["Nucleus", "Ribosome", "Mitochondria", "Golgi Apparatus"],
+    "options_ar": ["النواة", "الريبوسوم", "الميتوكوندريا", "جهاز جولجي"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_05",
+    "questionText_en": "What is the boiling point of water at sea level in degrees Celsius?",
+    "questionText_ar": "ما هي درجة غليان الماء عند مستوى سطح البحر بالدرجات المئوية؟",
+    "options_en": ["90", "100", "110", "212"],
+    "options_ar": ["90", "100", "110", "212"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_06",
+    "questionText_en": "Which force keeps us on the ground?",
+    "questionText_ar": "ما هي القوة التي تبقينا على الأرض؟",
+    "options_en": ["Magnetism", "Gravity", "Friction", "Inertia"],
+    "options_ar": ["المغناطيسية", "الجاذبية", "الاحتكاك", "القصور الذاتي"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_07",
+    "questionText_en": "What is the chemical formula for table salt?",
+    "questionText_ar": "ما هي الصيغة الكيميائية لملح الطعام؟",
+    "options_en": ["KCl", "NaCl", "NaCO3", "HCl"],
+    "options_ar": ["KCl", "NaCl", "NaCO3", "HCl"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_08",
+    "questionText_en": "What is the study of living organisms called?",
+    "questionText_ar": "ماذا يُسمى علم دراسة الكائنات الحية؟",
+    "options_en": ["Chemistry", "Physics", "Biology", "Geology"],
+    "options_ar": ["الكيمياء", "الفيزياء", "الأحياء", "الجيولوجيا"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_09",
+    "questionText_en": "Which organ is responsible for pumping blood throughout the human body?",
+    "questionText_ar": "أي عضو مسؤول عن ضخ الدم في جميع أنحاء جسم الإنسان؟",
+    "options_en": ["Liver", "Lungs", "Heart", "Kidneys"],
+    "options_ar": ["الكبد", "الرئتان", "القلب", "الكلى"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_10",
+    "questionText_en": "What is the hardest natural substance on Earth?",
+    "questionText_ar": "ما هي أصلب مادة طبيعية على الأرض؟",
+    "options_en": ["Gold", "Iron", "Diamond", "Quartz"],
+    "options_ar": ["الذهب", "الحديد", "الألماس", "الكوارتز"],
+    "correctAnswerIndex": 2
+  }
+]

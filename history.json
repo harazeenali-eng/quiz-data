@@ -1,0 +1,82 @@
+[
+  {
+    "id": "history_01",
+    "questionText_en": "Who was the first President of the United States?",
+    "questionText_ar": "من كان أول رئيس للولايات المتحدة؟",
+    "options_en": ["Thomas Jefferson", "John Adams", "George Washington", "Benjamin Franklin"],
+    "options_ar": ["توماس جيفرسون", "جون آدامز", "جورج واشنطن", "بنيامين فرانكلين"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_02",
+    "questionText_en": "In which year did the Titanic sink?",
+    "questionText_ar": "في أي عام غرقت سفينة تيتانيك؟",
+    "options_en": ["1910", "1912", "1914", "1918"],
+    "options_ar": ["1910", "1912", "1914", "1918"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_03",
+    "questionText_en": "Which ancient civilization built the pyramids of Giza?",
+    "questionText_ar": "أي حضارة قديمة بنت أهرامات الجيزة؟",
+    "options_en": ["Mesopotamians", "Romans", "Greeks", "Egyptians"],
+    "options_ar": ["بلاد ما بين النهرين", "الرومان", "اليونانيون", "المصريون"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "history_04",
+    "questionText_en": "Who was the leader of Nazi Germany during World War II?",
+    "questionText_ar": "من كان زعيم ألمانيا النازية خلال الحرب العالمية الثانية؟",
+    "options_en": ["Joseph Stalin", "Benito Mussolini", "Adolf Hitler", "Winston Churchill"],
+    "options_ar": ["جوزيف ستالين", "بينيتو موسوليني", "أدولف هتلر", "وينستون تشرشل"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_05",
+    "questionText_en": "The Magna Carta was signed in which country?",
+    "questionText_ar": "في أي بلد تم توقيع الماغنا كارتا (الميثاق الأعظم)؟",
+    "options_en": ["France", "England", "Spain", "Germany"],
+    "options_ar": ["فرنسا", "إنجلترا", "إسبانيا", "ألمانيا"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_06",
+    "questionText_en": "Who is often called the 'Father of Modern Physics'?",
+    "questionText_ar": "من يُلقب غالباً بـ 'أب الفيزياء الحديثة'؟",
+    "options_en": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "options_ar": ["إسحاق نيوتن", "ألبرت أينشتاين", "غاليليو غاليلي", "نيكولا تسلا"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_07",
+    "questionText_en": "Which war was fought between the North and South regions of the United States?",
+    "questionText_ar": "ما هي الحرب التي دارت بين منطقتي الشمال والجنوب في الولايات المتحدة؟",
+    "options_en": ["World War I", "The Revolutionary War", "The Civil War", "The Vietnam War"],
+    "options_ar": ["الحرب العالمية الأولى", "حرب الاستقلال", "الحرب الأهلية", "حرب فيتنام"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_08",
+    "questionText_en": "What was the name of the ship on which the Pilgrims traveled to America in 1620?",
+    "questionText_ar": "ما هو اسم السفينة التي سافر على متنها الحجاج إلى أمريكا عام 1620؟",
+    "options_en": ["Santa Maria", "Mayflower", "Endeavour", "Beagle"],
+    "options_ar": ["سانتا ماريا", "مايفلاور", "إنديفور", "بيغل"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_09",
+    "questionText_en": "Who was the legendary queen of ancient Egypt known for her beauty and intellect?",
+    "questionText_ar": "من هي ملكة مصر القديمة الأسطورية المعروفة بجمالها وذكائها؟",
+    "options_en": ["Nefertiti", "Hatshepsut", "Cleopatra", "Zenobia"],
+    "options_ar": ["نفرتيتي", "حتشبسوت", "كليوباترا", "زنوبيا"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_10",
+    "questionText_en": "The Berlin Wall fell in which year?",
+    "questionText_ar": "في أي عام سقط جدار برلين؟",
+    "options_en": ["1987", "1989", "1991", "1993"],
+    "options_ar": ["1987", "1989", "1991", "1993"],
+    "correctAnswerIndex": 1
+  }
+]
