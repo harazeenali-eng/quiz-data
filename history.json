@@ -26,7 +26,7 @@
   {
     "id": "history_04",
     "questionText_en": "Who was the leader of Nazi Germany during World War II?",
-    "questionText_ar": "من كان زعيم ألمانيا النازية خلال الحرب العالمية الثانية؟",
+    "questionText_ar": "من كان زعيم ألمانيا النازية خلال الحرب العالمية الثانية？",
     "options_en": ["Joseph Stalin", "Benito Mussolini", "Adolf Hitler", "Winston Churchill"],
     "options_ar": ["جوزيف ستالين", "بينيتو موسوليني", "أدولف هتلر", "وينستون تشرشل"],
     "correctAnswerIndex": 2
@@ -68,7 +68,7 @@
     "questionText_en": "Who was the legendary queen of ancient Egypt known for her beauty and intellect?",
     "questionText_ar": "من هي ملكة مصر القديمة الأسطورية المعروفة بجمالها وذكائها؟",
     "options_en": ["Nefertiti", "Hatshepsut", "Cleopatra", "Zenobia"],
-    "options_ar": ["نفرتيتي", "حتشبسوت", "كليوباترا", "زنوبيا"],
+    "options_ar": ["نفرتيتي", "حتشبسوت", "كلياباترا", "زنوبيا"],
     "correctAnswerIndex": 2
   },
   {
@@ -77,6 +77,86 @@
     "questionText_ar": "في أي عام سقط جدار برلين؟",
     "options_en": ["1987", "1989", "1991", "1993"],
     "options_ar": ["1987", "1989", "1991", "1993"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_11",
+    "questionText_en": "Who was the first emperor of the Roman Empire?",
+    "questionText_ar": "من كان أول إمبراطور للإمبراطورية الرومانية؟",
+    "options_en": ["Julius Caesar", "Nero", "Augustus", "Marcus Aurelius"],
+    "options_ar": ["يوليوس قيصر", "نيرون", "أوغسطس", "ماركوس أوريليوس"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_12",
+    "questionText_en": "In which year did World War I begin?",
+    "questionText_ar": "في أي عام بدأت الحرب العالمية الأولى؟",
+    "options_en": ["1912", "1914", "1916", "1918"],
+    "options_ar": ["1912", "1914", "1916", "1918"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_13",
+    "questionText_en": "Who discovered America in 1892 or historically sailed across the Atlantic in 1492?",
+    "questionText_ar": "من هو المكتشف الذي أبحر عبر المحيط الأطلسي ووصل لأمريكا عام 1492؟",
+    "options_en": ["Vasco da Gama", "Ferdinand Magellan", "Christopher Columbus", "Marco Polo"],
+    "options_ar": ["فاسكو دا غاما", "فرديناند ماجلان", "كريستوفر كولومبوس", "ماركو بولو"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_14",
+    "questionText_en": "Which famous conqueror created one of the largest empires in history stretching from Greece to India?",
+    "questionText_ar": "من هو الفاتح الشهير الذي أنشأ واحدة من أكبر الإمبراطوريات عبر التاريخ الممتدة من اليونان للهند؟",
+    "options_en": ["Julius Caesar", "Alexander the Great", "Genghis Khan", "Napoleon Bonaparte"],
+    "options_ar": ["يوليوس قيصر", "الإسكندر الأكبر", "جنكيز خان", "نابليون بونابرت"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_15",
+    "questionText_en": "The ancient city of Petra is located in which modern country?",
+    "questionText_ar": "في أي دولة حديثة تقع مدينة البتراء الأثرية القديمة؟",
+    "options_en": ["Egypt", "Jordan", "Syria", "Iraq"],
+    "options_ar": ["مصر", "الأردن", "سوريا", "العراق"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_16",
+    "questionText_en": "Who was the main author of the United States Declaration of Independence?",
+    "questionText_ar": "من كان الكاتب الرئيسي لإعلان الاستقلال الأمريكي؟",
+    "options_en": ["George Washington", "Thomas Jefferson", "John Adams", "Benjamin Franklin"],
+    "options_ar": ["جورج واشنطن", "توماس جيفرسون", "جون آدامز", "بنيامين فرانكلين"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_17",
+    "pushText_en": "Which French heroine played a major role in the Hundred Years' War and was later made a saint?",
+    "questionText_en": "من هي البطلة الفرنسية التي لعبت دوراً كبيراً في حرب المائة عام وحُكم عليها حرقاً ثم قُدست لاحقاً؟",
+    "options_en": ["Joan of Arc", "Marie Antoinette", "Catherine de' Medici", "Eleanor of Aquitaine"],
+    "options_ar": ["جان دارك", "ماري أنطوانيت", "كاترين دي ميتشي", "إليانور آكيتين"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_18",
+    "questionText_en": "Which revolution began in 1789 and overthrew the absolute monarchy in France?",
+    "questionText_ar": "أي ثورة بدأت عام 1789 وأطاحت بالحكم الملكي المطلق في فرنسا؟",
+    "options_en": ["The American Revolution", "The Russian Revolution", "The French Revolution", "The Industrial Revolution"],
+    "options_ar": ["الثورة الأمريكية", "الثورة الروسية", "الثورة الفرنسية", "الثورة الصناعية"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_19",
+    "questionText_en": "Who was the first human to journey into outer space in 1961?",
+    "questionText_ar": "من هو أول إنسان يسافر إلى الفضاء الخارجي عام 1961؟",
+    "options_en": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "John Glenn"],
+    "options_ar": ["نيل آرمسترونغ", "يوري غاغارين", "بز ألدرين", "جون غلين"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_20",
+    "questionText_en": "The ancient code of laws known as the 'Code of Hammurabi' originated in which civilization?",
+    "questionText_ar": "مجموعة القوانين القديمة المعروفة بـ 'قوانين حمورابي' نشأت في أي حضارة؟",
+    "options_en": ["Ancient Egypt", "Babylon", "Ancient Greece", "The Roman Empire"],
+    "options_ar": ["مصر القديمة", "بابل", "اليونان القديمة", "الإمبراطورية الرومانية"],
     "correctAnswerIndex": 1
   }
 ]
