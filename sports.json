@@ -1,4 +1,84 @@
 [
+   {
+    "id": "sports_01",
+    "questionText_en": "How many players are on a football team on the pitch?",
+    "questionText_ar": "كم عدد لاعبي فريق كرة القدم داخل الملعب؟",
+    "options_en": ["11 Players", "9 Players", "7 Players", "5 Players"],
+    "options_ar": ["11 لاعباً", "9 لاعبين", "7 لاعبين", "5 لاعبين"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_02",
+    "questionText_en": "How long is a standard football match without extra time?",
+    "questionText_ar": "ما هي مدة مباراة كرة القدم القياسية بدون وقت إضافي؟",
+    "options_en": ["80 minutes", "90 minutes", "100 minutes", "120 minutes"],
+    "options_ar": ["80 دقيقة", "90 دقيقة", "100 دقيقة", "120 دقيقة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_03",
+    "questionText_en": "Which country won the most FIFA World Cup titles?",
+    "questionText_ar": "أي دولة فازت بأكبر عدد من ألقاب كأس العالم؟",
+    "options_en": ["Germany", "Argentina", "Brazil", "Italy"],
+    "options_ar": ["ألمانيا", "الأرجنتين", "البرازيل", "إيطاليا"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sports_04",
+    "questionText_en": "In tennis, what score comes after 'deuce'?",
+    "questionText_ar": "في التنس، ما هي النتيجة التي تأتي بعد 'ديوس' (التعادل)؟",
+    "options_en": ["Advantage", "Game", "Break point", "Tie-break"],
+    "options_ar": ["أفضلية", "جيم", "نقطة كسر الإرسال", "شوط فاصل"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_05",
+    "questionText_en": "How many rings are there on the Olympic flag?",
+    "questionText_ar": "كم عدد الحلقات الموجودة في العلم الأولمبي؟",
+    "options_en": ["4", "5", "6", "7"],
+    "options_ar": ["4", "5", "6", "7"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_06",
+    "questionText_en": "In basketball, how many points is a shot from outside the three-point line worth?",
+    "questionText_ar": "في كرة السلة، كم نقطة تساوي التسديدة من خارج خط الثلاث نقاط؟",
+    "options_en": ["1", "2", "3", "4"],
+    "options_ar": ["1", "2", "3", "4"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sports_07",
+    "questionText_en": "Which sport is played at Wimbledon?",
+    "questionText_ar": "ما هي الرياضة التي تُلعب في ويمبلدون؟",
+    "options_en": ["Cricket", "Golf", "Rugby", "Tennis"],
+    "options_ar": ["الكريكيت", "الجولف", "الرجبي", "التنس"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sports_08",
+    "questionText_en": "How long is a marathon race?",
+    "questionText_ar": "كم تبلغ مسافة سباق الماراثون؟",
+    "options_en": ["21.1 km", "42.2 km", "50.0 km", "10.0 km"],
+    "options_ar": ["21.1 كم", "42.2 كم", "50.0 كم", "10.0 كم"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_09",
+    "questionText_en": "Which swimming stroke is considered the fastest?",
+    "questionText_ar": "أي أسلوب في السباحة يعتبر الأسرع؟",
+    "options_en": ["Breaststroke", "Backstroke", "Butterfly", "Freestyle"],
+    "options_ar": ["الصدر", "الظهر", "الفراشة", "الحرة"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sports_10",
+    "questionText_en": "In baseball, how many strikes does a batter get before they are out?",
+    "questionText_ar": "في البيسبول، كم عدد الضربات الخاطئة (Strikes) قبل أن يخرج اللاعب؟",
+    "options_en": ["2", "3", "4", "5"],
+    "options_ar": ["2", "3", "4", "5"],
+    "correctAnswerIndex": 1
+  }
   {
     "id": "sports_11",
     "questionText_en": "Which country hosted the FIFA World Cup in 2022?",
