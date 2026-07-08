@@ -1,162 +1,1582 @@
+
+ [
+
+  {
+
+    "id": "edu_01",
+
+    "questionText_en": "What is the capital letter of the English alphabet?",
+
+    "questionText_ar": "ما هو الحرف الكبير في الأبجدية الإنجليزية؟",
+
+    "options_en": ["A", "a", "b", "c"],
+
+    "options_ar": ["A", "a", "b", "c"],
+
+    "correctAnswerIndex": 0
+
+  },
+
+  {
+
+    "id": "edu_02",
+
+    "questionText_en": "What is 15 plus 27?",
+
+    "questionText_ar": "ما هو حاصل جمع 15 زائد 27؟",
+
+    "options_en": ["32", "42", "45", "52"],
+
+    "options_ar": ["32", "42", "45", "52"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "edu_03",
+
+    "questionText_en": "Which of these is a primary color?",
+
+    "questionText_ar": "أي من هذه الألوان يعتبر لوناً أساسياً؟",
+
+    "options_en": ["Green", "Purple", "Orange", "Blue"],
+
+    "options_ar": ["أخضر", "أرجواني", "برتقالي", "أزرق"],
+
+    "correctAnswerIndex": 3
+
+  },
+
+  {
+
+    "id": "edu_04",
+
+    "questionText_en": "How many continents are there on Earth?",
+
+    "questionText_ar": "كم عدد القارات على سطح الأرض؟",
+
+    "options_en": ["5", "6", "7", "8"],
+
+    "options_ar": ["5", "6", "7", "8"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "edu_05",
+
+    "questionText_en": "Which planet is closest to the Sun?",
+
+    "questionText_ar": "أي كوكب هو الأقرب إلى الشمس؟",
+
+    "options_en": ["Venus", "Earth", "Mars", "Mercury"],
+
+    "options_ar": ["الزهرة", "الأرض", "المريخ", "عطارد"],
+
+    "correctAnswerIndex": 3
+
+  },
+
+  {
+
+    "id": "education_06",
+
+    "questionText_en": "What is the square root of 64?",
+
+    "questionText_ar": "ما هو الجذر التربيعي للعدد 64؟",
+
+    "options_en": ["6", "7", "8", "9"],
+
+    "options_ar": ["6", "7", "8", "9"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "education_07",
+
+    "questionText_en": "Which language is spoken in Brazil?",
+
+    "questionText_ar": "ما هي اللغة التي يتم التحدث بها في البرازيل؟",
+
+    "options_en": ["Spanish", "Portuguese", "French", "English"],
+
+    "options_ar": ["الإسبانية", "البرتغالية", "الفرنسية", "الإنجليزية"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "education_08",
+
+    "questionText_en": "What is the largest mammal in the world?",
+
+    "questionText_ar": "ما هو أكبر حيوان ثديي في العالم؟",
+
+    "options_en": ["Elephant", "Blue Whale", "Giraffe", "Shark"],
+
+    "options_ar": ["فيل", "الحوت الأزرق", "زرافة", "قرش"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "education_09",
+
+    "questionText_en": "What is the main function of the lungs?",
+
+    "questionText_ar": "ما هي الوظيفة الرئيسية للرئتين؟",
+
+    "options_en": ["Digestion", "Blood circulation", "Respiration", "Filtering water"],
+
+    "options_ar": ["الهضم", "دورة الدم", "التنفس", "ترشيح الماء"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "education_10",
+
+    "questionText_en": "In a sentence, what word describes an action?",
+
+    "questionText_ar": "في الجملة، ما هي الكلمة التي تصف حدثاً أو فعلاً؟",
+
+    "options_en": ["Noun", "Adjective", "Verb", "Preposition"],
+
+    "options_ar": ["اسم", "صفة", "فعل", "حرف جر"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "education_11",
+
+    "questionText_en": "Which water body connects the Mediterranean Sea to the Red Sea?",
+
+    "questionText_ar": "ما هو الممر المائي الذي يربط البحر الأبيض المتوسط بالبحر الأحمر؟",
+
+    "options_en": ["Panama Canal", "Suez Canal", "Kiel Canal", "English Channel"],
+
+    "options_ar": ["قناة بنما", "قناة السويس", "قناة كيل", "بحر المانش"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "education_12",
+
+    "questionText_en": "What is the value of Pi (π) rounded to two decimal places?",
+
+    "questionText_ar": "ما هي قيمة باي (π) مقربة لمرتبتين عشريتين؟",
+
+    "options_en": ["3.12", "3.14", "3.16", "3.18"],
+
+    "options_ar": ["3.12", "3.14", "3.16", "3.18"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "education_13",
+
+    "questionText_en": "How many teeth does an adult human typically have?",
+
+    "questionText_ar": "كم عدد الأسنان لدى الإنسان البالغ عادة؟",
+
+    "options_en": ["28", "30", "32", "36"],
+
+    "options_ar": ["28", "30", "32", "36"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "education_14",
+
+    "questionText_en": "Which country is famous for the ancient monument Stonehenge?",
+
+    "questionText_ar": "أي دولة تشتهر بنصب ستونهنج الأثري القديم؟",
+
+    "options_en": ["France", "England", "Germany", "Egypt"],
+
+    "options_ar": ["فرنسا", "إنجلترا", "ألمانيا", "مصر"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "education_15",
+
+    "questionText_en": "What type of angle measures exactly 90 degrees?",
+
+    "questionText_ar": "ما هو نوع الزاوية التي قياسها 90 درجة تماماً؟",
+
+    "options_en": ["Acute Angle", "Obtuse Angle", "Right Angle", "Straight Angle"],
+
+    "options_ar": ["زاوية حادة", "زاوية منفرجة", "زاوية قائمة", "زاوية مستقيمة"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "education_16",
+
+    "questionText_en": "Which layer of Earth's atmosphere protects us from harmful UV rays?",
+
+    "questionText_ar": "أي طبقة من الغلاف الجوي للأرض تحمينا من الأشعة فوق البنفسجية الضارة؟",
+
+    "options_en": ["Troposphere", "Ozone Layer", "Mesosphere", "Thermosphere"],
+
+    "options_ar": ["التروبوسفير", "طبقة الأوزون", "الميزوسفير", "الثرموسفير"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "education_17",
+
+    "questionText_en": "What is the longest river in the world?",
+
+    "questionText_ar": "ما هو أطول نهر في العالم؟",
+
+    "options_en": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+
+    "options_ar": ["نهر الأمازون", "نهر النيل", "نهر يانغتسي", "نهر المسيسيبي"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "education_18",
+
+    "questionText_en": "How many days are in a leap year?",
+
+    "questionText_ar": "كم عدد الأيام في السنة الكبيسة؟",
+
+    "options_en": ["364", "365", "366", "367"],
+
+    "options_ar": ["364", "365", "366", "367"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "education_19",
+
+    "questionText_en": "What basic component makes up all organic matter?",
+
+    "questionText_ar": "ما هو العنصر الأساسي الذي تتكون منه جميع المواد العضوية؟",
+
+    "options_en": ["Carbon", "Hydrogen", "Oxygen", "Nitrogen"],
+
+    "options_ar": ["الكربون", "الهيدروجين", "الأكسجين", "النيتروجين"],
+
+    "correctAnswerIndex": 0
+
+  },
+
+  {
+
+    "id": "education_20",
+
+    "questionText_en": "Which musical instrument has 88 keys?",
+
+    "questionText_ar": "ما هي الآلة الموسيقية التي تحتوي على 88 مفتاحاً؟",
+
+    "options_en": ["Guitar", "Violin", "Piano", "Flute"],
+
+    "options_ar": ["الغيتار", "الكمان", "البيانو", "الناي"],
+
+    "correctAnswerIndex": 2
+
+  }
+
+]
+
+إليك مجموعة من 50 سؤالاً تعليمياً عاماً مصممة بنفس نمط التنسيق الذي طلبته، لتغطية مواضيع متنوعة.
+اختبار المعرفة العامة - 50 سؤالاً
+8 يوليو، 10:21 ص
+
+لقد قمت بإعداد أول 10 أسئلة من أصل 50 طلبتها، ويمكننا الاستمرار في إضافة المزيد بنفس الطريقة. أتمنى لك تجربة ممتعة ومفيدة في التعلم! هل تود أن ننتقل للأسئلة العشرة التالية؟
+
+no i want in file json pls
+
+تم إنشاء ملف يحتوي على 50 سؤالاً تعليمياً بالتنسيق الذي طلبته، متضمنةً الأسئلة باللغتين الإنجليزية والعربية وخيارات الإجابة.
+
+Your JSON file is ready
+رمز JSON
+questions_50
+ JSON 
+فتح
+
+AND FOR THIS ? [
+
+  {
+
+    "id": "history_01",
+
+    "questionText_en": "Who was the first President of the United States?",
+
+    "questionText_ar": "من كان أول رئيس للولايات المتحدة؟",
+
+    "options_en": ["Thomas Jefferson", "John Adams", "George Washington", "Benjamin Franklin"],
+
+    "options_ar": ["توماس جيفرسون", "جون آدامز", "جورج واشنطن", "بنيامين فرانكلين"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "history_02",
+
+    "questionText_en": "In which year did the Titanic sink?",
+
+    "questionText_ar": "في أي عام غرقت سفينة تيتانيك؟",
+
+    "options_en": ["1910", "1912", "1914", "1918"],
+
+    "options_ar": ["1910", "1912", "1914", "1918"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "history_03",
+
+    "questionText_en": "Which ancient civilization built the pyramids of Giza?",
+
+    "questionText_ar": "أي حضارة قديمة بنت أهرامات الجيزة؟",
+
+    "options_en": ["Mesopotamians", "Romans", "Greeks", "Egyptians"],
+
+    "options_ar": ["بلاد ما بين النهرين", "الرومان", "اليونانيون", "المصريون"],
+
+    "correctAnswerIndex": 3
+
+  },
+
+  {
+
+    "id": "history_04",
+
+    "questionText_en": "Who was the leader of Nazi Germany during World War II?",
+
+    "questionText_ar": "من كان زعيم ألمانيا النازية خلال الحرب العالمية الثانية？",
+
+    "options_en": ["Joseph Stalin", "Benito Mussolini", "Adolf Hitler", "Winston Churchill"],
+
+    "options_ar": ["جوزيف ستالين", "بينيتو موسوليني", "أدولف هتلر", "وينستون تشرشل"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "history_05",
+
+    "questionText_en": "The Magna Carta was signed in which country?",
+
+    "questionText_ar": "في أي بلد تم توقيع الماغنا كارتا (الميثاق الأعظم)؟",
+
+    "options_en": ["France", "England", "Spain", "Germany"],
+
+    "options_ar": ["فرنسا", "إنجلترا", "إسبانيا", "ألمانيا"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "history_06",
+
+    "questionText_en": "Who is often called the 'Father of Modern Physics'?",
+
+    "questionText_ar": "من يُلقب غالباً بـ 'أب الفيزياء الحديثة'؟",
+
+    "options_en": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+
+    "options_ar": ["إسحاق نيوتن", "ألبرت أينشتاين", "غاليليو غاليلي", "نيكولا تسلا"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "history_07",
+
+    "questionText_en": "Which war was fought between the North and South regions of the United States?",
+
+    "questionText_ar": "ما هي الحرب التي دارت بين منطقتي الشمال والجنوب في الولايات المتحدة؟",
+
+    "options_en": ["World War I", "The Revolutionary War", "The Civil War", "The Vietnam War"],
+
+    "options_ar": ["الحرب العالمية الأولى", "حرب الاستقلال", "الحرب الأهلية", "حرب فيتنام"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "history_08",
+
+    "questionText_en": "What was the name of the ship on which the Pilgrims traveled to America in 1620?",
+
+    "questionText_ar": "ما هو اسم السفينة التي سافر على متنها الحجاج إلى أمريكا عام 1620؟",
+
+    "options_en": ["Santa Maria", "Mayflower", "Endeavour", "Beagle"],
+
+    "options_ar": ["سانتا ماريا", "مايفلاور", "إنديفور", "بيغل"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "history_09",
+
+    "questionText_en": "Who was the legendary queen of ancient Egypt known for her beauty and intellect?",
+
+    "questionText_ar": "من هي ملكة مصر القديمة الأسطورية المعروفة بجمالها وذكائها؟",
+
+    "options_en": ["Nefertiti", "Hatshepsut", "Cleopatra", "Zenobia"],
+
+    "options_ar": ["نفرتيتي", "حتشبسوت", "كلياباترا", "زنوبيا"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "history_10",
+
+    "questionText_en": "The Berlin Wall fell in which year?",
+
+    "questionText_ar": "في أي عام سقط جدار برلين؟",
+
+    "options_en": ["1987", "1989", "1991", "1993"],
+
+    "options_ar": ["1987", "1989", "1991", "1993"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "history_11",
+
+    "questionText_en": "Who was the first emperor of the Roman Empire?",
+
+    "questionText_ar": "من كان أول إمبراطور للإمبراطورية الرومانية؟",
+
+    "options_en": ["Julius Caesar", "Nero", "Augustus", "Marcus Aurelius"],
+
+    "options_ar": ["يوليوس قيصر", "نيرون", "أوغسطس", "ماركوس أوريليوس"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "history_12",
+
+    "questionText_en": "In which year did World War I begin?",
+
+    "questionText_ar": "في أي عام بدأت الحرب العالمية الأولى؟",
+
+    "options_en": ["1912", "1914", "1916", "1918"],
+
+    "options_ar": ["1912", "1914", "1916", "1918"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "history_13",
+
+    "questionText_en": "Who discovered America in 1892 or historically sailed across the Atlantic in 1492?",
+
+    "questionText_ar": "من هو المكتشف الذي أبحر عبر المحيط الأطلسي ووصل لأمريكا عام 1492؟",
+
+    "options_en": ["Vasco da Gama", "Ferdinand Magellan", "Christopher Columbus", "Marco Polo"],
+
+    "options_ar": ["فاسكو دا غاما", "فرديناند ماجلان", "كريستوفر كولومبوس", "ماركو بولو"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "history_14",
+
+    "questionText_en": "Which famous conqueror created one of the largest empires in history stretching from Greece to India?",
+
+    "questionText_ar": "من هو الفاتح الشهير الذي أنشأ واحدة من أكبر الإمبراطوريات عبر التاريخ الممتدة من اليونان للهند؟",
+
+    "options_en": ["Julius Caesar", "Alexander the Great", "Genghis Khan", "Napoleon Bonaparte"],
+
+    "options_ar": ["يوليوس قيصر", "الإسكندر الأكبر", "جنكيز خان", "نابليون بونابرت"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "history_15",
+
+    "questionText_en": "The ancient city of Petra is located in which modern country?",
+
+    "questionText_ar": "في أي دولة حديثة تقع مدينة البتراء الأثرية القديمة؟",
+
+    "options_en": ["Egypt", "Jordan", "Syria", "Iraq"],
+
+    "options_ar": ["مصر", "الأردن", "سوريا", "العراق"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "history_16",
+
+    "questionText_en": "Who was the main author of the United States Declaration of Independence?",
+
+    "questionText_ar": "من كان الكاتب الرئيسي لإعلان الاستقلال الأمريكي؟",
+
+    "options_en": ["George Washington", "Thomas Jefferson", "John Adams", "Benjamin Franklin"],
+
+    "options_ar": ["جورج واشنطن", "توماس جيفرسون", "جون آدامز", "بنيامين فرانكلين"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "history_17",
+
+    "pushText_en": "Which French heroine played a major role in the Hundred Years' War and was later made a saint?",
+
+    "questionText_en": "من هي البطلة الفرنسية التي لعبت دوراً كبيراً في حرب المائة عام وحُكم عليها حرقاً ثم قُدست لاحقاً؟",
+
+    "options_en": ["Joan of Arc", "Marie Antoinette", "Catherine de' Medici", "Eleanor of Aquitaine"],
+
+    "options_ar": ["جان دارك", "ماري أنطوانيت", "كاترين دي ميتشي", "إليانور آكيتين"],
+
+    "correctAnswerIndex": 0
+
+  },
+
+  {
+
+    "id": "history_18",
+
+    "questionText_en": "Which revolution began in 1789 and overthrew the absolute monarchy in France?",
+
+    "questionText_ar": "أي ثورة بدأت عام 1789 وأطاحت بالحكم الملكي المطلق في فرنسا؟",
+
+    "options_en": ["The American Revolution", "The Russian Revolution", "The French Revolution", "The Industrial Revolution"],
+
+    "options_ar": ["الثورة الأمريكية", "الثورة الروسية", "الثورة الفرنسية", "الثورة الصناعية"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "history_19",
+
+    "questionText_en": "Who was the first human to journey into outer space in 1961?",
+
+    "questionText_ar": "من هو أول إنسان يسافر إلى الفضاء الخارجي عام 1961؟",
+
+    "options_en": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "John Glenn"],
+
+    "options_ar": ["نيل آرمسترونغ", "يوري غاغارين", "بز ألدرين", "جون غلين"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "history_20",
+
+    "questionText_en": "The ancient code of laws known as the 'Code of Hammurabi' originated in which civilization?",
+
+    "questionText_ar": "مجموعة القوانين القديمة المعروفة بـ 'قوانين حمورابي' نشأت في أي حضارة؟",
+
+    "options_en": ["Ancient Egypt", "Babylon", "Ancient Greece", "The Roman Empire"],
+
+    "options_ar": ["مصر القديمة", "بابل", "اليونان القديمة", "الإمبراطورية الرومانية"],
+
+    "correctAnswerIndex": 1
+
+  }
+
+]
+
+لقد قمت بإعداد ملف JSON يحتوي على 50 سؤالاً تاريخياً، يتضمن الأسئلة العشرين التي قدمتها بالإضافة إلى 30 سؤالاً إضافياً تم إنشاؤها بنفس التنسيق.
+
+يمكنك تحميل الملف من الرابط أدناه:
+رمز JSON
+history_50
+ JSON 
+فتح
+
+
+
+
+‫Gemini هو نموذج ذكاء اصطناعي وقد ينتج عنه أخطاء.
+
 [
   {
     "id": "history_01",
     "questionText_en": "Who was the first President of the United States?",
     "questionText_ar": "من كان أول رئيس للولايات المتحدة؟",
-    "options_en": ["Thomas Jefferson", "John Adams", "George Washington", "Benjamin Franklin"],
-    "options_ar": ["توماس جيفرسون", "جون آدامز", "جورج واشنطن", "بنيامين فرانكلين"],
+    "options_en": [
+      "Thomas Jefferson",
+      "John Adams",
+      "George Washington",
+      "Benjamin Franklin"
+    ],
+    "options_ar": [
+      "توماس جيفرسون",
+      "جون آدامز",
+      "جورج واشنطن",
+      "بنيامين فرانكلين"
+    ],
     "correctAnswerIndex": 2
   },
   {
     "id": "history_02",
     "questionText_en": "In which year did the Titanic sink?",
     "questionText_ar": "في أي عام غرقت سفينة تيتانيك؟",
-    "options_en": ["1910", "1912", "1914", "1918"],
-    "options_ar": ["1910", "1912", "1914", "1918"],
+    "options_en": [
+      "1910",
+      "1912",
+      "1914",
+      "1918"
+    ],
+    "options_ar": [
+      "1910",
+      "1912",
+      "1914",
+      "1918"
+    ],
     "correctAnswerIndex": 1
   },
   {
     "id": "history_03",
     "questionText_en": "Which ancient civilization built the pyramids of Giza?",
     "questionText_ar": "أي حضارة قديمة بنت أهرامات الجيزة؟",
-    "options_en": ["Mesopotamians", "Romans", "Greeks", "Egyptians"],
-    "options_ar": ["بلاد ما بين النهرين", "الرومان", "اليونانيون", "المصريون"],
+    "options_en": [
+      "Mesopotamians",
+      "Romans",
+      "Greeks",
+      "Egyptians"
+    ],
+    "options_ar": [
+      "بلاد ما بين النهرين",
+      "الرومان",
+      "اليونانيون",
+      "المصريون"
+    ],
     "correctAnswerIndex": 3
   },
   {
     "id": "history_04",
     "questionText_en": "Who was the leader of Nazi Germany during World War II?",
-    "questionText_ar": "من كان زعيم ألمانيا النازية خلال الحرب العالمية الثانية？",
-    "options_en": ["Joseph Stalin", "Benito Mussolini", "Adolf Hitler", "Winston Churchill"],
-    "options_ar": ["جوزيف ستالين", "بينيتو موسوليني", "أدولف هتلر", "وينستون تشرشل"],
+    "questionText_ar": "من كان زعيم ألمانيا النازية خلال الحرب العالمية الثانية؟",
+    "options_en": [
+      "Joseph Stalin",
+      "Benito Mussolini",
+      "Adolf Hitler",
+      "Winston Churchill"
+    ],
+    "options_ar": [
+      "جوزيف ستالين",
+      "بينيتو موسوليني",
+      "أدولف هتلر",
+      "وينستون تشرشل"
+    ],
     "correctAnswerIndex": 2
   },
   {
     "id": "history_05",
     "questionText_en": "The Magna Carta was signed in which country?",
     "questionText_ar": "في أي بلد تم توقيع الماغنا كارتا (الميثاق الأعظم)؟",
-    "options_en": ["France", "England", "Spain", "Germany"],
-    "options_ar": ["فرنسا", "إنجلترا", "إسبانيا", "ألمانيا"],
+    "options_en": [
+      "France",
+      "England",
+      "Spain",
+      "Germany"
+    ],
+    "options_ar": [
+      "فرنسا",
+      "إنجلترا",
+      "إسبانيا",
+      "ألمانيا"
+    ],
     "correctAnswerIndex": 1
   },
   {
     "id": "history_06",
     "questionText_en": "Who is often called the 'Father of Modern Physics'?",
     "questionText_ar": "من يُلقب غالباً بـ 'أب الفيزياء الحديثة'؟",
-    "options_en": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
-    "options_ar": ["إسحاق نيوتن", "ألبرت أينشتاين", "غاليليو غاليلي", "نيكولا تسلا"],
+    "options_en": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "options_ar": [
+      "إسحاق نيوتن",
+      "ألبرت أينشتاين",
+      "غاليليو غاليلي",
+      "نيكولا تسلا"
+    ],
     "correctAnswerIndex": 1
   },
   {
     "id": "history_07",
     "questionText_en": "Which war was fought between the North and South regions of the United States?",
     "questionText_ar": "ما هي الحرب التي دارت بين منطقتي الشمال والجنوب في الولايات المتحدة؟",
-    "options_en": ["World War I", "The Revolutionary War", "The Civil War", "The Vietnam War"],
-    "options_ar": ["الحرب العالمية الأولى", "حرب الاستقلال", "الحرب الأهلية", "حرب فيتنام"],
+    "options_en": [
+      "World War I",
+      "The Revolutionary War",
+      "The Civil War",
+      "The Vietnam War"
+    ],
+    "options_ar": [
+      "الحرب العالمية الأولى",
+      "حرب الاستقلال",
+      "الحرب الأهلية",
+      "حرب فيتنام"
+    ],
     "correctAnswerIndex": 2
   },
   {
     "id": "history_08",
     "questionText_en": "What was the name of the ship on which the Pilgrims traveled to America in 1620?",
     "questionText_ar": "ما هو اسم السفينة التي سافر على متنها الحجاج إلى أمريكا عام 1620؟",
-    "options_en": ["Santa Maria", "Mayflower", "Endeavour", "Beagle"],
-    "options_ar": ["سانتا ماريا", "مايفلاور", "إنديفور", "بيغل"],
+    "options_en": [
+      "Santa Maria",
+      "Mayflower",
+      "Endeavour",
+      "Beagle"
+    ],
+    "options_ar": [
+      "سانتا ماريا",
+      "مايفلاور",
+      "إنديفور",
+      "بيغل"
+    ],
     "correctAnswerIndex": 1
   },
   {
     "id": "history_09",
     "questionText_en": "Who was the legendary queen of ancient Egypt known for her beauty and intellect?",
     "questionText_ar": "من هي ملكة مصر القديمة الأسطورية المعروفة بجمالها وذكائها؟",
-    "options_en": ["Nefertiti", "Hatshepsut", "Cleopatra", "Zenobia"],
-    "options_ar": ["نفرتيتي", "حتشبسوت", "كلياباترا", "زنوبيا"],
+    "options_en": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Cleopatra",
+      "Zenobia"
+    ],
+    "options_ar": [
+      "نفرتيتي",
+      "حتشبسوت",
+      "كلياباترا",
+      "زنوبيا"
+    ],
     "correctAnswerIndex": 2
   },
   {
     "id": "history_10",
     "questionText_en": "The Berlin Wall fell in which year?",
     "questionText_ar": "في أي عام سقط جدار برلين؟",
-    "options_en": ["1987", "1989", "1991", "1993"],
-    "options_ar": ["1987", "1989", "1991", "1993"],
+    "options_en": [
+      "1987",
+      "1989",
+      "1991",
+      "1993"
+    ],
+    "options_ar": [
+      "1987",
+      "1989",
+      "1991",
+      "1993"
+    ],
     "correctAnswerIndex": 1
   },
   {
     "id": "history_11",
     "questionText_en": "Who was the first emperor of the Roman Empire?",
     "questionText_ar": "من كان أول إمبراطور للإمبراطورية الرومانية؟",
-    "options_en": ["Julius Caesar", "Nero", "Augustus", "Marcus Aurelius"],
-    "options_ar": ["يوليوس قيصر", "نيرون", "أوغسطس", "ماركوس أوريليوس"],
+    "options_en": [
+      "Julius Caesar",
+      "Nero",
+      "Augustus",
+      "Marcus Aurelius"
+    ],
+    "options_ar": [
+      "يوليوس قيصر",
+      "نيرون",
+      "أوغسطس",
+      "ماركوس أوريليوس"
+    ],
     "correctAnswerIndex": 2
   },
   {
     "id": "history_12",
     "questionText_en": "In which year did World War I begin?",
     "questionText_ar": "في أي عام بدأت الحرب العالمية الأولى؟",
-    "options_en": ["1912", "1914", "1916", "1918"],
-    "options_ar": ["1912", "1914", "1916", "1918"],
+    "options_en": [
+      "1912",
+      "1914",
+      "1916",
+      "1918"
+    ],
+    "options_ar": [
+      "1912",
+      "1914",
+      "1916",
+      "1918"
+    ],
     "correctAnswerIndex": 1
   },
   {
     "id": "history_13",
     "questionText_en": "Who discovered America in 1892 or historically sailed across the Atlantic in 1492?",
     "questionText_ar": "من هو المكتشف الذي أبحر عبر المحيط الأطلسي ووصل لأمريكا عام 1492؟",
-    "options_en": ["Vasco da Gama", "Ferdinand Magellan", "Christopher Columbus", "Marco Polo"],
-    "options_ar": ["فاسكو دا غاما", "فرديناند ماجلان", "كريستوفر كولومبوس", "ماركو بولو"],
+    "options_en": [
+      "Vasco da Gama",
+      "Ferdinand Magellan",
+      "Christopher Columbus",
+      "Marco Polo"
+    ],
+    "options_ar": [
+      "فاسكو دا غاما",
+      "فرديناند ماجلان",
+      "كريستوفر كولومبوس",
+      "ماركو بولو"
+    ],
     "correctAnswerIndex": 2
   },
   {
     "id": "history_14",
     "questionText_en": "Which famous conqueror created one of the largest empires in history stretching from Greece to India?",
     "questionText_ar": "من هو الفاتح الشهير الذي أنشأ واحدة من أكبر الإمبراطوريات عبر التاريخ الممتدة من اليونان للهند؟",
-    "options_en": ["Julius Caesar", "Alexander the Great", "Genghis Khan", "Napoleon Bonaparte"],
-    "options_ar": ["يوليوس قيصر", "الإسكندر الأكبر", "جنكيز خان", "نابليون بونابرت"],
+    "options_en": [
+      "Julius Caesar",
+      "Alexander the Great",
+      "Genghis Khan",
+      "Napoleon Bonaparte"
+    ],
+    "options_ar": [
+      "يوليوس قيصر",
+      "الإسكندر الأكبر",
+      "جنكيز خان",
+      "نابليون بونابرت"
+    ],
     "correctAnswerIndex": 1
   },
   {
     "id": "history_15",
     "questionText_en": "The ancient city of Petra is located in which modern country?",
     "questionText_ar": "في أي دولة حديثة تقع مدينة البتراء الأثرية القديمة؟",
-    "options_en": ["Egypt", "Jordan", "Syria", "Iraq"],
-    "options_ar": ["مصر", "الأردن", "سوريا", "العراق"],
+    "options_en": [
+      "Egypt",
+      "Jordan",
+      "Syria",
+      "Iraq"
+    ],
+    "options_ar": [
+      "مصر",
+      "الأردن",
+      "سوريا",
+      "العراق"
+    ],
     "correctAnswerIndex": 1
   },
   {
     "id": "history_16",
     "questionText_en": "Who was the main author of the United States Declaration of Independence?",
     "questionText_ar": "من كان الكاتب الرئيسي لإعلان الاستقلال الأمريكي؟",
-    "options_en": ["George Washington", "Thomas Jefferson", "John Adams", "Benjamin Franklin"],
-    "options_ar": ["جورج واشنطن", "توماس جيفرسون", "جون آدامز", "بنيامين فرانكلين"],
+    "options_en": [
+      "George Washington",
+      "Thomas Jefferson",
+      "John Adams",
+      "Benjamin Franklin"
+    ],
+    "options_ar": [
+      "جورج واشنطن",
+      "توماس جيفرسون",
+      "جون آدامز",
+      "بنيامين فرانكلين"
+    ],
     "correctAnswerIndex": 1
   },
   {
     "id": "history_17",
-    "pushText_en": "Which French heroine played a major role in the Hundred Years' War and was later made a saint?",
-    "questionText_en": "من هي البطلة الفرنسية التي لعبت دوراً كبيراً في حرب المائة عام وحُكم عليها حرقاً ثم قُدست لاحقاً؟",
-    "options_en": ["Joan of Arc", "Marie Antoinette", "Catherine de' Medici", "Eleanor of Aquitaine"],
-    "options_ar": ["جان دارك", "ماري أنطوانيت", "كاترين دي ميتشي", "إليانور آكيتين"],
+    "questionText_en": "Which French heroine played a major role in the Hundred Years' War and was later made a saint?",
+    "questionText_ar": "من هي البطلة الفرنسية التي لعبت دوراً كبيراً في حرب المائة عام وحُكم عليها حرقاً ثم قُدست لاحقاً؟",
+    "options_en": [
+      "Joan of Arc",
+      "Marie Antoinette",
+      "Catherine de' Medici",
+      "Eleanor of Aquitaine"
+    ],
+    "options_ar": [
+      "جان دارك",
+      "ماري أنطوانيت",
+      "كاترين دي ميتشي",
+      "إليانور آكيتين"
+    ],
     "correctAnswerIndex": 0
   },
   {
     "id": "history_18",
     "questionText_en": "Which revolution began in 1789 and overthrew the absolute monarchy in France?",
     "questionText_ar": "أي ثورة بدأت عام 1789 وأطاحت بالحكم الملكي المطلق في فرنسا؟",
-    "options_en": ["The American Revolution", "The Russian Revolution", "The French Revolution", "The Industrial Revolution"],
-    "options_ar": ["الثورة الأمريكية", "الثورة الروسية", "الثورة الفرنسية", "الثورة الصناعية"],
+    "options_en": [
+      "The American Revolution",
+      "The Russian Revolution",
+      "The French Revolution",
+      "The Industrial Revolution"
+    ],
+    "options_ar": [
+      "الثورة الأمريكية",
+      "الثورة الروسية",
+      "الثورة الفرنسية",
+      "الثورة الصناعية"
+    ],
     "correctAnswerIndex": 2
   },
   {
     "id": "history_19",
     "questionText_en": "Who was the first human to journey into outer space in 1961?",
     "questionText_ar": "من هو أول إنسان يسافر إلى الفضاء الخارجي عام 1961؟",
-    "options_en": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "John Glenn"],
-    "options_ar": ["نيل آرمسترونغ", "يوري غاغارين", "بز ألدرين", "جون غلين"],
+    "options_en": [
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Buzz Aldrin",
+      "John Glenn"
+    ],
+    "options_ar": [
+      "نيل آرمسترونغ",
+      "يوري غاغارين",
+      "بز ألدرين",
+      "جون غلين"
+    ],
     "correctAnswerIndex": 1
   },
   {
     "id": "history_20",
     "questionText_en": "The ancient code of laws known as the 'Code of Hammurabi' originated in which civilization?",
     "questionText_ar": "مجموعة القوانين القديمة المعروفة بـ 'قوانين حمورابي' نشأت في أي حضارة؟",
-    "options_en": ["Ancient Egypt", "Babylon", "Ancient Greece", "The Roman Empire"],
-    "options_ar": ["مصر القديمة", "بابل", "اليونان القديمة", "الإمبراطورية الرومانية"],
+    "options_en": [
+      "Ancient Egypt",
+      "Babylon",
+      "Ancient Greece",
+      "The Roman Empire"
+    ],
+    "options_ar": [
+      "مصر القديمة",
+      "بابل",
+      "اليونان القديمة",
+      "الإمبراطورية الرومانية"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_21",
+    "questionText_en": "Who was the British Prime Minister during most of WWII?",
+    "questionText_ar": "من كان رئيس وزراء بريطانيا خلال معظم فترة الحرب العالمية الثانية؟",
+    "options_en": [
+      "Winston Churchill",
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "Anthony Eden"
+    ],
+    "options_ar": [
+      "Winston Churchill",
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "Anthony Eden"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_22",
+    "questionText_en": "What was the primary cause of the American Civil War?",
+    "questionText_ar": "ما هو السبب الرئيسي للحرب الأهلية الأمريكية؟",
+    "options_en": [
+      "Taxes",
+      "Slavery",
+      "Religion",
+      "Land dispute"
+    ],
+    "options_ar": [
+      "Taxes",
+      "Slavery",
+      "Religion",
+      "Land dispute"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_23",
+    "questionText_en": "Who invented the printing press?",
+    "questionText_ar": "من اخترع آلة الطباعة؟",
+    "options_en": [
+      "Johannes Gutenberg",
+      "Leonardo da Vinci",
+      "Isaac Newton",
+      "Galileo"
+    ],
+    "options_ar": [
+      "Johannes Gutenberg",
+      "Leonardo da Vinci",
+      "Isaac Newton",
+      "Galileo"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_24",
+    "questionText_en": "In which country did the Industrial Revolution begin?",
+    "questionText_ar": "في أي دولة بدأت الثورة الصناعية؟",
+    "options_en": [
+      "France",
+      "USA",
+      "Great Britain",
+      "Germany"
+    ],
+    "options_ar": [
+      "France",
+      "USA",
+      "Great Britain",
+      "Germany"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_25",
+    "questionText_en": "Who was the last Tsar of Russia?",
+    "questionText_ar": "من كان آخر قياصرة روسيا؟",
+    "options_en": [
+      "Peter the Great",
+      "Ivan the Terrible",
+      "Nicholas II",
+      "Alexander I"
+    ],
+    "options_ar": [
+      "Peter the Great",
+      "Ivan the Terrible",
+      "Nicholas II",
+      "Alexander I"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_26",
+    "questionText_en": "Which empire was ruled by Suleiman the Magnificent?",
+    "questionText_ar": "أي إمبراطورية حكمها سليمان القانوني؟",
+    "options_en": [
+      "Persian",
+      "Ottoman",
+      "Byzantine",
+      "Mongol"
+    ],
+    "options_ar": [
+      "Persian",
+      "Ottoman",
+      "Byzantine",
+      "Mongol"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_27",
+    "questionText_en": "The Wright brothers are famous for?",
+    "questionText_ar": "الأخوين رايت مشهوران بـ؟",
+    "options_en": [
+      "Inventing the telephone",
+      "Inventing the airplane",
+      "Discovering electricity",
+      "Building the pyramids"
+    ],
+    "options_ar": [
+      "Inventing the telephone",
+      "Inventing the airplane",
+      "Discovering electricity",
+      "Building the pyramids"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_28",
+    "questionText_en": "Who signed the Emancipation Proclamation?",
+    "questionText_ar": "من وقع إعلان تحرير العبيد؟",
+    "options_en": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "Franklin Roosevelt"
+    ],
+    "options_ar": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "Franklin Roosevelt"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_29",
+    "questionText_en": "Which city was the capital of the Byzantine Empire?",
+    "questionText_ar": "ما هي المدينة التي كانت عاصمة الإمبراطورية البيزنطية؟",
+    "options_en": [
+      "Rome",
+      "Athens",
+      "Constantinople",
+      "Alexandria"
+    ],
+    "options_ar": [
+      "Rome",
+      "Athens",
+      "Constantinople",
+      "Alexandria"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_30",
+    "questionText_en": "Who was known as the 'Maid of Orleans'?",
+    "questionText_ar": "من كانت تُعرف بـ 'عذراء أورليان'؟",
+    "options_en": [
+      "Queen Victoria",
+      "Joan of Arc",
+      "Marie Curie",
+      "Florence Nightingale"
+    ],
+    "options_ar": [
+      "Queen Victoria",
+      "Joan of Arc",
+      "Marie Curie",
+      "Florence Nightingale"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_31",
+    "questionText_en": "When did the Cold War end?",
+    "questionText_ar": "متى انتهت الحرب الباردة؟",
+    "options_en": [
+      "1985",
+      "1989",
+      "1991",
+      "1995"
+    ],
+    "options_ar": [
+      "1985",
+      "1989",
+      "1991",
+      "1995"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_32",
+    "questionText_en": "Who was the Queen of England during the Spanish Armada?",
+    "questionText_ar": "من كانت ملكة إنجلترا خلال غزو الأرمادا الإسبانية؟",
+    "options_en": [
+      "Elizabeth I",
+      "Mary I",
+      "Victoria",
+      "Anne"
+    ],
+    "options_ar": [
+      "Elizabeth I",
+      "Mary I",
+      "Victoria",
+      "Anne"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_33",
+    "questionText_en": "The Great Fire of London occurred in which year?",
+    "questionText_ar": "في أي عام وقع حريق لندن الكبير؟",
+    "options_en": [
+      "1660",
+      "1666",
+      "1670",
+      "1680"
+    ],
+    "options_ar": [
+      "1660",
+      "1666",
+      "1670",
+      "1680"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_34",
+    "questionText_en": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+    "questionText_ar": "من كان زعيم الاتحاد السوفيتي خلال أزمة الصواريخ الكوبية؟",
+    "options_en": [
+      "Stalin",
+      "Khrushchev",
+      "Brezhnev",
+      "Gorbachev"
+    ],
+    "options_ar": [
+      "Stalin",
+      "Khrushchev",
+      "Brezhnev",
+      "Gorbachev"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_35",
+    "questionText_en": "Which civilization developed the concept of 'zero'?",
+    "questionText_ar": "أي حضارة طورت مفهوم 'الصفر'؟",
+    "options_en": [
+      "Mayan",
+      "Indian",
+      "Greek",
+      "Egyptian"
+    ],
+    "options_ar": [
+      "Mayan",
+      "Indian",
+      "Greek",
+      "Egyptian"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_36",
+    "questionText_en": "What was the name of the agreement that ended World War I?",
+    "questionText_ar": "ما اسم الاتفاقية التي أنهت الحرب العالمية الأولى؟",
+    "options_en": [
+      "Treaty of Versailles",
+      "Treaty of Paris",
+      "Treaty of Ghent",
+      "Treaty of London"
+    ],
+    "options_ar": [
+      "Treaty of Versailles",
+      "Treaty of Paris",
+      "Treaty of Ghent",
+      "Treaty of London"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_37",
+    "questionText_en": "Who was the first female Prime Minister of the UK?",
+    "questionText_ar": "من كانت أول رئيسة وزراء لبريطانيا؟",
+    "options_en": [
+      "Theresa May",
+      "Margaret Thatcher",
+      "Angela Merkel",
+      "Indira Gandhi"
+    ],
+    "options_ar": [
+      "Theresa May",
+      "Margaret Thatcher",
+      "Angela Merkel",
+      "Indira Gandhi"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_38",
+    "questionText_en": "The Titanic sank in the?",
+    "questionText_ar": "سفينة تيتانيك غرقت في؟",
+    "options_en": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "options_ar": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_39",
+    "questionText_en": "Which dynasty ruled China for the longest time?",
+    "questionText_ar": "أي سلالة حكمت الصين لأطول فترة؟",
+    "options_en": [
+      "Ming",
+      "Han",
+      "Zhou",
+      "Qing"
+    ],
+    "options_ar": [
+      "Ming",
+      "Han",
+      "Zhou",
+      "Qing"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "history_40",
+    "questionText_en": "Who was the dictator of Italy during WWII?",
+    "questionText_ar": "من كان دكتاتور إيطاليا خلال الحرب العالمية الثانية؟",
+    "options_en": [
+      "Mussolini",
+      "Hitler",
+      "Franco",
+      "Stalin"
+    ],
+    "options_ar": [
+      "Mussolini",
+      "Hitler",
+      "Franco",
+      "Stalin"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_41",
+    "questionText_en": "Which country was divided after WWII?",
+    "questionText_ar": "أي دولة تم تقسيمها بعد الحرب العالمية الثانية؟",
+    "options_en": [
+      "Germany",
+      "France",
+      "Italy",
+      "Japan"
+    ],
+    "options_ar": [
+      "Germany",
+      "France",
+      "Italy",
+      "Japan"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_42",
+    "questionText_en": "Who was the explorer who led the first voyage around the world?",
+    "questionText_ar": "من هو المستكشف الذي قاد أول رحلة حول العالم؟",
+    "options_en": [
+      "Columbus",
+      "Magellan",
+      "Cook",
+      "Drake"
+    ],
+    "options_ar": [
+      "Columbus",
+      "Magellan",
+      "Cook",
+      "Drake"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_43",
+    "questionText_en": "The Aztec civilization was located in?",
+    "questionText_ar": "حضارة الأزتيك كانت تقع في؟",
+    "options_en": [
+      "Peru",
+      "Mexico",
+      "Chile",
+      "Brazil"
+    ],
+    "options_ar": [
+      "Peru",
+      "Mexico",
+      "Chile",
+      "Brazil"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_44",
+    "questionText_en": "Who was the US President during the Great Depression?",
+    "questionText_ar": "من كان رئيس الولايات المتحدة خلال الكساد الكبير؟",
+    "options_en": [
+      "Hoover",
+      "FDR",
+      "Truman",
+      "Eisenhower"
+    ],
+    "options_ar": [
+      "Hoover",
+      "FDR",
+      "Truman",
+      "Eisenhower"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_45",
+    "questionText_en": "What was the main cause of the French Revolution?",
+    "questionText_ar": "ما هو السبب الرئيسي للثورة الفرنسية؟",
+    "options_en": [
+      "War",
+      "Inequality",
+      "Religion",
+      "Invention"
+    ],
+    "options_ar": [
+      "War",
+      "Inequality",
+      "Religion",
+      "Invention"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_46",
+    "questionText_en": "Who were the Allied powers in WWII?",
+    "questionText_ar": "من كانوا الحلفاء في الحرب العالمية الثانية؟",
+    "options_en": [
+      "UK, USA, USSR",
+      "Germany, Italy, Japan",
+      "France, Spain, Portugal",
+      "China, India, Brazil"
+    ],
+    "options_ar": [
+      "UK, USA, USSR",
+      "Germany, Italy, Japan",
+      "France, Spain, Portugal",
+      "China, India, Brazil"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_47",
+    "questionText_en": "What was the purpose of the Great Wall of China?",
+    "questionText_ar": "ما هو الغرض من سور الصين العظيم؟",
+    "options_en": [
+      "Trade",
+      "Protection",
+      "Housing",
+      "Travel"
+    ],
+    "options_ar": [
+      "Trade",
+      "Protection",
+      "Housing",
+      "Travel"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_48",
+    "questionText_en": "Which ancient library was one of the largest in history?",
+    "questionText_ar": "أي مكتبة قديمة كانت واحدة من أكبر المكتبات في التاريخ؟",
+    "options_en": [
+      "Alexandria",
+      "Athens",
+      "Rome",
+      "Babylon"
+    ],
+    "options_ar": [
+      "Alexandria",
+      "Athens",
+      "Rome",
+      "Babylon"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "history_49",
+    "questionText_en": "Who was the Japanese Emperor during WWII?",
+    "questionText_ar": "من كان إمبراطور اليابان خلال الحرب العالمية الثانية؟",
+    "options_en": [
+      "Meiji",
+      "Hirohito",
+      "Akihito",
+      "Tokugawa"
+    ],
+    "options_ar": [
+      "Meiji",
+      "Hirohito",
+      "Akihito",
+      "Tokugawa"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "history_50",
+    "questionText_en": "When did the American Revolution end?",
+    "questionText_ar": "متى انتهت الثورة الأمريكية؟",
+    "options_en": [
+      "1776",
+      "1783",
+      "1789",
+      "1800"
+    ],
+    "options_ar": [
+      "1776",
+      "1783",
+      "1789",
+      "1800"
+    ],
     "correctAnswerIndex": 1
   }
 ]
+history_50.json
+جارٍ عرض "history_50.json".
