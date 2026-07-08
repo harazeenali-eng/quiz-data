@@ -1,162 +1,1251 @@
+
+محادثة مع Gemini
+i want 50 q for This jsom ?? can help me  By that pls [
+
+  {
+
+    "id": "edu_01",
+
+    "questionText_en": "What is the capital letter of the English alphabet?",
+
+    "questionText_ar": "ما هو الحرف الكبير في الأبجدية الإنجليزية؟",
+
+    "options_en": ["A", "a", "b", "c"],
+
+    "options_ar": ["A", "a", "b", "c"],
+
+    "correctAnswerIndex": 0
+
+  },
+
+  {
+
+    "id": "edu_02",
+
+    "questionText_en": "What is 15 plus 27?",
+
+    "questionText_ar": "ما هو حاصل جمع 15 زائد 27؟",
+
+    "options_en": ["32", "42", "45", "52"],
+
+    "options_ar": ["32", "42", "45", "52"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "edu_03",
+
+    "questionText_en": "Which of these is a primary color?",
+
+    "questionText_ar": "أي من هذه الألوان يعتبر لوناً أساسياً؟",
+
+    "options_en": ["Green", "Purple", "Orange", "Blue"],
+
+    "options_ar": ["أخضر", "أرجواني", "برتقالي", "أزرق"],
+
+    "correctAnswerIndex": 3
+
+  },
+
+  {
+
+    "id": "edu_04",
+
+    "questionText_en": "How many continents are there on Earth?",
+
+    "questionText_ar": "كم عدد القارات على سطح الأرض؟",
+
+    "options_en": ["5", "6", "7", "8"],
+
+    "options_ar": ["5", "6", "7", "8"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "edu_05",
+
+    "questionText_en": "Which planet is closest to the Sun?",
+
+    "questionText_ar": "أي كوكب هو الأقرب إلى الشمس؟",
+
+    "options_en": ["Venus", "Earth", "Mars", "Mercury"],
+
+    "options_ar": ["الزهرة", "الأرض", "المريخ", "عطارد"],
+
+    "correctAnswerIndex": 3
+
+  },
+
+  {
+
+    "id": "education_06",
+
+    "questionText_en": "What is the square root of 64?",
+
+    "questionText_ar": "ما هو الجذر التربيعي للعدد 64؟",
+
+    "options_en": ["6", "7", "8", "9"],
+
+    "options_ar": ["6", "7", "8", "9"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "education_07",
+
+    "questionText_en": "Which language is spoken in Brazil?",
+
+    "questionText_ar": "ما هي اللغة التي يتم التحدث بها في البرازيل؟",
+
+    "options_en": ["Spanish", "Portuguese", "French", "English"],
+
+    "options_ar": ["الإسبانية", "البرتغالية", "الفرنسية", "الإنجليزية"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "education_08",
+
+    "questionText_en": "What is the largest mammal in the world?",
+
+    "questionText_ar": "ما هو أكبر حيوان ثديي في العالم؟",
+
+    "options_en": ["Elephant", "Blue Whale", "Giraffe", "Shark"],
+
+    "options_ar": ["فيل", "الحوت الأزرق", "زرافة", "قرش"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "education_09",
+
+    "questionText_en": "What is the main function of the lungs?",
+
+    "questionText_ar": "ما هي الوظيفة الرئيسية للرئتين؟",
+
+    "options_en": ["Digestion", "Blood circulation", "Respiration", "Filtering water"],
+
+    "options_ar": ["الهضم", "دورة الدم", "التنفس", "ترشيح الماء"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "education_10",
+
+    "questionText_en": "In a sentence, what word describes an action?",
+
+    "questionText_ar": "في الجملة، ما هي الكلمة التي تصف حدثاً أو فعلاً؟",
+
+    "options_en": ["Noun", "Adjective", "Verb", "Preposition"],
+
+    "options_ar": ["اسم", "صفة", "فعل", "حرف جر"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "education_11",
+
+    "questionText_en": "Which water body connects the Mediterranean Sea to the Red Sea?",
+
+    "questionText_ar": "ما هو الممر المائي الذي يربط البحر الأبيض المتوسط بالبحر الأحمر؟",
+
+    "options_en": ["Panama Canal", "Suez Canal", "Kiel Canal", "English Channel"],
+
+    "options_ar": ["قناة بنما", "قناة السويس", "قناة كيل", "بحر المانش"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "education_12",
+
+    "questionText_en": "What is the value of Pi (π) rounded to two decimal places?",
+
+    "questionText_ar": "ما هي قيمة باي (π) مقربة لمرتبتين عشريتين؟",
+
+    "options_en": ["3.12", "3.14", "3.16", "3.18"],
+
+    "options_ar": ["3.12", "3.14", "3.16", "3.18"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "education_13",
+
+    "questionText_en": "How many teeth does an adult human typically have?",
+
+    "questionText_ar": "كم عدد الأسنان لدى الإنسان البالغ عادة؟",
+
+    "options_en": ["28", "30", "32", "36"],
+
+    "options_ar": ["28", "30", "32", "36"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "education_14",
+
+    "questionText_en": "Which country is famous for the ancient monument Stonehenge?",
+
+    "questionText_ar": "أي دولة تشتهر بنصب ستونهنج الأثري القديم؟",
+
+    "options_en": ["France", "England", "Germany", "Egypt"],
+
+    "options_ar": ["فرنسا", "إنجلترا", "ألمانيا", "مصر"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "education_15",
+
+    "questionText_en": "What type of angle measures exactly 90 degrees?",
+
+    "questionText_ar": "ما هو نوع الزاوية التي قياسها 90 درجة تماماً؟",
+
+    "options_en": ["Acute Angle", "Obtuse Angle", "Right Angle", "Straight Angle"],
+
+    "options_ar": ["زاوية حادة", "زاوية منفرجة", "زاوية قائمة", "زاوية مستقيمة"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "education_16",
+
+    "questionText_en": "Which layer of Earth's atmosphere protects us from harmful UV rays?",
+
+    "questionText_ar": "أي طبقة من الغلاف الجوي للأرض تحمينا من الأشعة فوق البنفسجية الضارة؟",
+
+    "options_en": ["Troposphere", "Ozone Layer", "Mesosphere", "Thermosphere"],
+
+    "options_ar": ["التروبوسفير", "طبقة الأوزون", "الميزوسفير", "الثرموسفير"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "education_17",
+
+    "questionText_en": "What is the longest river in the world?",
+
+    "questionText_ar": "ما هو أطول نهر في العالم؟",
+
+    "options_en": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+
+    "options_ar": ["نهر الأمازون", "نهر النيل", "نهر يانغتسي", "نهر المسيسيبي"],
+
+    "correctAnswerIndex": 1
+
+  },
+
+  {
+
+    "id": "education_18",
+
+    "questionText_en": "How many days are in a leap year?",
+
+    "questionText_ar": "كم عدد الأيام في السنة الكبيسة؟",
+
+    "options_en": ["364", "365", "366", "367"],
+
+    "options_ar": ["364", "365", "366", "367"],
+
+    "correctAnswerIndex": 2
+
+  },
+
+  {
+
+    "id": "education_19",
+
+    "questionText_en": "What basic component makes up all organic matter?",
+
+    "questionText_ar": "ما هو العنصر الأساسي الذي تتكون منه جميع المواد العضوية؟",
+
+    "options_en": ["Carbon", "Hydrogen", "Oxygen", "Nitrogen"],
+
+    "options_ar": ["الكربون", "الهيدروجين", "الأكسجين", "النيتروجين"],
+
+    "correctAnswerIndex": 0
+
+  },
+
+  {
+
+    "id": "education_20",
+
+    "questionText_en": "Which musical instrument has 88 keys?",
+
+    "questionText_ar": "ما هي الآلة الموسيقية التي تحتوي على 88 مفتاحاً؟",
+
+    "options_en": ["Guitar", "Violin", "Piano", "Flute"],
+
+    "options_ar": ["الغيتار", "الكمان", "البيانو", "الناي"],
+
+    "correctAnswerIndex": 2
+
+  }
+
+]
+
+إليك مجموعة من 50 سؤالاً تعليمياً عاماً مصممة بنفس نمط التنسيق الذي طلبته، لتغطية مواضيع متنوعة.
+اختبار المعرفة العامة - 50 سؤالاً
+8 يوليو، 10:21 ص
+
+لقد قمت بإعداد أول 10 أسئلة من أصل 50 طلبتها، ويمكننا الاستمرار في إضافة المزيد بنفس الطريقة. أتمنى لك تجربة ممتعة ومفيدة في التعلم! هل تود أن ننتقل للأسئلة العشرة التالية؟
+
+no i want in file json pls
+
+تم إنشاء ملف يحتوي على 50 سؤالاً تعليمياً بالتنسيق الذي طلبته، متضمنةً الأسئلة باللغتين الإنجليزية والعربية وخيارات الإجابة.
+
+Your JSON file is ready
+رمز JSON
+questions_50
+ JSON 
+فتح
+
+
+
+
+‫Gemini هو نموذج ذكاء اصطناعي وقد ينتج عنه أخطاء.
+
 [
   {
     "id": "edu_01",
-    "questionText_en": "What is the capital letter of the English alphabet?",
-    "questionText_ar": "ما هو الحرف الكبير في الأبجدية الإنجليزية؟",
-    "options_en": ["A", "a", "b", "c"],
-    "options_ar": ["A", "a", "b", "c"],
-    "correctAnswerIndex": 0
+    "questionText_en": "What is 5 x 6?",
+    "questionText_ar": "ما هو حاصل ضرب 5 في 6؟",
+    "options_en": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "options_ar": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "correctAnswerIndex": 1
   },
   {
     "id": "edu_02",
-    "questionText_en": "What is 15 plus 27?",
-    "questionText_ar": "ما هو حاصل جمع 15 زائد 27؟",
-    "options_en": ["32", "42", "45", "52"],
-    "options_ar": ["32", "42", "45", "52"],
+    "questionText_en": "Which gas do plants absorb from the atmosphere?",
+    "questionText_ar": "ما هو الغاز الذي تمتصه النباتات من الجو؟",
+    "options_en": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "options_ar": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
     "correctAnswerIndex": 1
   },
   {
     "id": "edu_03",
-    "questionText_en": "Which of these is a primary color?",
-    "questionText_ar": "أي من هذه الألوان يعتبر لوناً أساسياً؟",
-    "options_en": ["Green", "Purple", "Orange", "Blue"],
-    "options_ar": ["أخضر", "أرجواني", "برتقالي", "أزرق"],
-    "correctAnswerIndex": 3
+    "questionText_en": "Who painted the Mona Lisa?",
+    "questionText_ar": "من هو رسام لوحة الموناليزا؟",
+    "options_en": [
+      "Van Gogh",
+      "Picasso",
+      "Leonardo da Vinci",
+      "Dalí"
+    ],
+    "options_ar": [
+      "Van Gogh",
+      "Picasso",
+      "Leonardo da Vinci",
+      "Dalí"
+    ],
+    "correctAnswerIndex": 2
   },
   {
     "id": "edu_04",
-    "questionText_en": "How many continents are there on Earth?",
-    "questionText_ar": "كم عدد القارات على سطح الأرض؟",
-    "options_en": ["5", "6", "7", "8"],
-    "options_ar": ["5", "6", "7", "8"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": "edu_05",
-    "questionText_en": "Which planet is closest to the Sun?",
-    "questionText_ar": "أي كوكب هو الأقرب إلى الشمس؟",
-    "options_en": ["Venus", "Earth", "Mars", "Mercury"],
-    "options_ar": ["الزهرة", "الأرض", "المريخ", "عطارد"],
-    "correctAnswerIndex": 3
-  },
-  {
-    "id": "education_06",
-    "questionText_en": "What is the square root of 64?",
-    "questionText_ar": "ما هو الجذر التربيعي للعدد 64؟",
-    "options_en": ["6", "7", "8", "9"],
-    "options_ar": ["6", "7", "8", "9"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": "education_07",
-    "questionText_en": "Which language is spoken in Brazil?",
-    "questionText_ar": "ما هي اللغة التي يتم التحدث بها في البرازيل؟",
-    "options_en": ["Spanish", "Portuguese", "French", "English"],
-    "options_ar": ["الإسبانية", "البرتغالية", "الفرنسية", "الإنجليزية"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": "education_08",
-    "questionText_en": "What is the largest mammal in the world?",
-    "questionText_ar": "ما هو أكبر حيوان ثديي في العالم؟",
-    "options_en": ["Elephant", "Blue Whale", "Giraffe", "Shark"],
-    "options_ar": ["فيل", "الحوت الأزرق", "زرافة", "قرش"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": "education_09",
-    "questionText_en": "What is the main function of the lungs?",
-    "questionText_ar": "ما هي الوظيفة الرئيسية للرئتين؟",
-    "options_en": ["Digestion", "Blood circulation", "Respiration", "Filtering water"],
-    "options_ar": ["الهضم", "دورة الدم", "التنفس", "ترشيح الماء"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": "education_10",
-    "questionText_en": "In a sentence, what word describes an action?",
-    "questionText_ar": "في الجملة، ما هي الكلمة التي تصف حدثاً أو فعلاً؟",
-    "options_en": ["Noun", "Adjective", "Verb", "Preposition"],
-    "options_ar": ["اسم", "صفة", "فعل", "حرف جر"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": "education_11",
-    "questionText_en": "Which water body connects the Mediterranean Sea to the Red Sea?",
-    "questionText_ar": "ما هو الممر المائي الذي يربط البحر الأبيض المتوسط بالبحر الأحمر؟",
-    "options_en": ["Panama Canal", "Suez Canal", "Kiel Canal", "English Channel"],
-    "options_ar": ["قناة بنما", "قناة السويس", "قناة كيل", "بحر المانش"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": "education_12",
-    "questionText_en": "What is the value of Pi (π) rounded to two decimal places?",
-    "questionText_ar": "ما هي قيمة باي (π) مقربة لمرتبتين عشريتين؟",
-    "options_en": ["3.12", "3.14", "3.16", "3.18"],
-    "options_ar": ["3.12", "3.14", "3.16", "3.18"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": "education_13",
-    "questionText_en": "How many teeth does an adult human typically have?",
-    "questionText_ar": "كم عدد الأسنان لدى الإنسان البالغ عادة؟",
-    "options_en": ["28", "30", "32", "36"],
-    "options_ar": ["28", "30", "32", "36"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": "education_14",
-    "questionText_en": "Which country is famous for the ancient monument Stonehenge?",
-    "questionText_ar": "أي دولة تشتهر بنصب ستونهنج الأثري القديم؟",
-    "options_en": ["France", "England", "Germany", "Egypt"],
-    "options_ar": ["فرنسا", "إنجلترا", "ألمانيا", "مصر"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": "education_15",
-    "questionText_en": "What type of angle measures exactly 90 degrees?",
-    "questionText_ar": "ما هو نوع الزاوية التي قياسها 90 درجة تماماً؟",
-    "options_en": ["Acute Angle", "Obtuse Angle", "Right Angle", "Straight Angle"],
-    "options_ar": ["زاوية حادة", "زاوية منفرجة", "زاوية قائمة", "زاوية مستقيمة"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": "education_16",
-    "questionText_en": "Which layer of Earth's atmosphere protects us from harmful UV rays?",
-    "questionText_ar": "أي طبقة من الغلاف الجوي للأرض تحمينا من الأشعة فوق البنفسجية الضارة؟",
-    "options_en": ["Troposphere", "Ozone Layer", "Mesosphere", "Thermosphere"],
-    "options_ar": ["التروبوسفير", "طبقة الأوزون", "الميزوسفير", "الثرموسفير"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": "education_17",
-    "questionText_en": "What is the longest river in the world?",
-    "questionText_ar": "ما هو أطول نهر في العالم؟",
-    "options_en": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
-    "options_ar": ["نهر الأمازون", "نهر النيل", "نهر يانغتسي", "نهر المسيسيبي"],
-    "correctAnswerIndex": 1
-  },
-  {
-    "id": "education_18",
-    "questionText_en": "How many days are in a leap year?",
-    "questionText_ar": "كم عدد الأيام في السنة الكبيسة؟",
-    "options_en": ["364", "365", "366", "367"],
-    "options_ar": ["364", "365", "366", "367"],
-    "correctAnswerIndex": 2
-  },
-  {
-    "id": "education_19",
-    "questionText_en": "What basic component makes up all organic matter?",
-    "questionText_ar": "ما هو العنصر الأساسي الذي تتكون منه جميع المواد العضوية؟",
-    "options_en": ["Carbon", "Hydrogen", "Oxygen", "Nitrogen"],
-    "options_ar": ["الكربون", "الهيدروجين", "الأكسجين", "النيتروجين"],
+    "questionText_en": "What is the freezing point of water in Celsius?",
+    "questionText_ar": "ما هي درجة تجمد الماء بالدرجة المئوية؟",
+    "options_en": [
+      "0",
+      "10",
+      "32",
+      "100"
+    ],
+    "options_ar": [
+      "0",
+      "10",
+      "32",
+      "100"
+    ],
     "correctAnswerIndex": 0
   },
   {
-    "id": "education_20",
-    "questionText_en": "Which musical instrument has 88 keys?",
-    "questionText_ar": "ما هي الآلة الموسيقية التي تحتوي على 88 مفتاحاً؟",
-    "options_en": ["Guitar", "Violin", "Piano", "Flute"],
-    "options_ar": ["الغيتار", "الكمان", "البيانو", "الناي"],
+    "id": "edu_05",
+    "questionText_en": "Which planet is known as the Red Planet?",
+    "questionText_ar": "أي كوكب يعرف بالكوكب الأحمر؟",
+    "options_en": [
+      "Jupiter",
+      "Mars",
+      "Saturn",
+      "Venus"
+    ],
+    "options_ar": [
+      "Jupiter",
+      "Mars",
+      "Saturn",
+      "Venus"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_06",
+    "questionText_en": "How many legs does a spider have?",
+    "questionText_ar": "كم عدد أرجل العنكبوت؟",
+    "options_en": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "options_ar": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_07",
+    "questionText_en": "What is the largest ocean on Earth?",
+    "questionText_ar": "ما هو أكبر محيط على الأرض؟",
+    "options_en": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "options_ar": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "edu_08",
+    "questionText_en": "Which continent is the Sahara Desert located in?",
+    "questionText_ar": "في أي قارة تقع الصحراء الكبرى؟",
+    "options_en": [
+      "Asia",
+      "Africa",
+      "Australia",
+      "South America"
+    ],
+    "options_ar": [
+      "Asia",
+      "Africa",
+      "Australia",
+      "South America"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_09",
+    "questionText_en": "What is the chemical symbol for gold?",
+    "questionText_ar": "ما هو الرمز الكيميائي للذهب؟",
+    "options_en": [
+      "Ag",
+      "Au",
+      "Fe",
+      "Cu"
+    ],
+    "options_ar": [
+      "Ag",
+      "Au",
+      "Fe",
+      "Cu"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_10",
+    "questionText_en": "How many minutes are in an hour?",
+    "questionText_ar": "كم دقيقة في الساعة الواحدة؟",
+    "options_en": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "options_ar": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_11",
+    "questionText_en": "What is the capital of Japan?",
+    "questionText_ar": "ما هي عاصمة اليابان؟",
+    "options_en": [
+      "Seoul",
+      "Beijing",
+      "Tokyo",
+      "Bangkok"
+    ],
+    "options_ar": [
+      "Seoul",
+      "Beijing",
+      "Tokyo",
+      "Bangkok"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_12",
+    "questionText_en": "Which organ pumps blood throughout the body?",
+    "questionText_ar": "أي عضو يضخ الدم في جميع أنحاء الجسم؟",
+    "options_en": [
+      "Brain",
+      "Lungs",
+      "Heart",
+      "Liver"
+    ],
+    "options_ar": [
+      "Brain",
+      "Lungs",
+      "Heart",
+      "Liver"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_13",
+    "questionText_en": "What is the hardest natural substance on Earth?",
+    "questionText_ar": "ما هي أصلب مادة طبيعية على الأرض؟",
+    "options_en": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Quartz"
+    ],
+    "options_ar": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Quartz"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_14",
+    "questionText_en": "What year did World War II end?",
+    "questionText_ar": "في أي عام انتهت الحرب العالمية الثانية؟",
+    "options_en": [
+      "1940",
+      "1945",
+      "1950",
+      "1955"
+    ],
+    "options_ar": [
+      "1940",
+      "1945",
+      "1950",
+      "1955"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_15",
+    "questionText_en": "What is the speed of light approximately?",
+    "questionText_ar": "ما هي سرعة الضوء التقريبية؟",
+    "options_en": [
+      "300 km/s",
+      "300,000 km/s",
+      "3,000,000 km/s",
+      "30,000 km/s"
+    ],
+    "options_ar": [
+      "300 km/s",
+      "300,000 km/s",
+      "3,000,000 km/s",
+      "30,000 km/s"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_16",
+    "questionText_en": "Which animal is known as the 'Ship of the Desert'?",
+    "questionText_ar": "أي حيوان يُعرف بسفينة الصحراء؟",
+    "options_en": [
+      "Horse",
+      "Camel",
+      "Donkey",
+      "Elephant"
+    ],
+    "options_ar": [
+      "Horse",
+      "Camel",
+      "Donkey",
+      "Elephant"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_17",
+    "questionText_en": "What is the boiling point of water?",
+    "questionText_ar": "ما هي درجة غليان الماء؟",
+    "options_en": [
+      "50°C",
+      "80°C",
+      "100°C",
+      "120°C"
+    ],
+    "options_ar": [
+      "50°C",
+      "80°C",
+      "100°C",
+      "120°C"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_18",
+    "questionText_en": "How many players are there in a standard soccer team on the field?",
+    "questionText_ar": "كم عدد اللاعبين في فريق كرة القدم على أرض الملعب؟",
+    "options_en": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "options_ar": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_19",
+    "questionText_en": "What is the main ingredient in guacamole?",
+    "questionText_ar": "ما هو المكون الرئيسي في الجواكامولي؟",
+    "options_en": [
+      "Tomato",
+      "Onion",
+      "Avocado",
+      "Lime"
+    ],
+    "options_ar": [
+      "Tomato",
+      "Onion",
+      "Avocado",
+      "Lime"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_20",
+    "questionText_en": "Which gas do humans need to breathe to survive?",
+    "questionText_ar": "أي غاز يحتاج البشر لتنفسه للبقاء على قيد الحياة؟",
+    "options_en": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Helium",
+      "Nitrogen"
+    ],
+    "options_ar": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Helium",
+      "Nitrogen"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "edu_21",
+    "questionText_en": "What is the currency of the United Kingdom?",
+    "questionText_ar": "ما هي عملة المملكة المتحدة؟",
+    "options_en": [
+      "Dollar",
+      "Euro",
+      "Pound",
+      "Yen"
+    ],
+    "options_ar": [
+      "Dollar",
+      "Euro",
+      "Pound",
+      "Yen"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_22",
+    "questionText_en": "Who wrote 'Romeo and Juliet'?",
+    "questionText_ar": "من كتب مسرحية روميو وجولييت؟",
+    "options_en": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Mark Twain",
+      "Jane Austen"
+    ],
+    "options_ar": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Mark Twain",
+      "Jane Austen"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_23",
+    "questionText_en": "What is the smallest prime number?",
+    "questionText_ar": "ما هو أصغر عدد أولي؟",
+    "options_en": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "options_ar": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_24",
+    "questionText_en": "Which metal is liquid at room temperature?",
+    "questionText_ar": "أي معدن يكون في حالة سائلة في درجة حرارة الغرفة؟",
+    "options_en": [
+      "Gold",
+      "Mercury",
+      "Silver",
+      "Iron"
+    ],
+    "options_ar": [
+      "Gold",
+      "Mercury",
+      "Silver",
+      "Iron"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_25",
+    "questionText_en": "What does 'HTTP' stand for?",
+    "questionText_ar": "ماذا يعني اختصار HTTP؟",
+    "options_en": [
+      "HyperText Transfer Protocol",
+      "High Transfer Text Protocol",
+      "HyperText Tool Protocol",
+      "Hyper Transfer Tool Program"
+    ],
+    "options_ar": [
+      "HyperText Transfer Protocol",
+      "High Transfer Text Protocol",
+      "HyperText Tool Protocol",
+      "Hyper Transfer Tool Program"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "edu_26",
+    "questionText_en": "How many sides does a hexagon have?",
+    "questionText_ar": "كم ضلعاً للشكل السداسي؟",
+    "options_en": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "options_ar": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_27",
+    "questionText_en": "What is the capital of Italy?",
+    "questionText_ar": "ما هي عاصمة إيطاليا؟",
+    "options_en": [
+      "Rome",
+      "Milan",
+      "Venice",
+      "Florence"
+    ],
+    "options_ar": [
+      "Rome",
+      "Milan",
+      "Venice",
+      "Florence"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "edu_28",
+    "questionText_en": "What is the name of the galaxy we live in?",
+    "questionText_ar": "ما هو اسم المجرة التي نعيش فيها؟",
+    "options_en": [
+      "Andromeda",
+      "Milky Way",
+      "Sombrero",
+      "Triangulum"
+    ],
+    "options_ar": [
+      "Andromeda",
+      "Milky Way",
+      "Sombrero",
+      "Triangulum"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_29",
+    "questionText_en": "Which vitamin is produced by sunlight?",
+    "questionText_ar": "أي فيتامين ينتج عن طريق أشعة الشمس؟",
+    "options_en": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "options_ar": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "edu_30",
+    "questionText_en": "What is the largest country in the world by area?",
+    "questionText_ar": "ما هي أكبر دولة في العالم من حيث المساحة؟",
+    "options_en": [
+      "China",
+      "USA",
+      "Russia",
+      "Canada"
+    ],
+    "options_ar": [
+      "China",
+      "USA",
+      "Russia",
+      "Canada"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_31",
+    "questionText_en": "What is the main language spoken in Mexico?",
+    "questionText_ar": "ما هي اللغة الرئيسية التي يتم التحدث بها في المكسيك؟",
+    "options_en": [
+      "Portuguese",
+      "Spanish",
+      "English",
+      "French"
+    ],
+    "options_ar": [
+      "Portuguese",
+      "Spanish",
+      "English",
+      "French"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_32",
+    "questionText_en": "How many weeks are in a year?",
+    "questionText_ar": "كم أسبوعاً في السنة؟",
+    "options_en": [
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "options_ar": [
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_33",
+    "questionText_en": "What is the chemical formula for water?",
+    "questionText_ar": "ما هي الصيغة الكيميائية للماء؟",
+    "options_en": [
+      "CO2",
+      "H2O",
+      "O2",
+      "NaCl"
+    ],
+    "options_ar": [
+      "CO2",
+      "H2O",
+      "O2",
+      "NaCl"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_34",
+    "questionText_en": "Which instrument has keys and strings?",
+    "questionText_ar": "أي آلة موسيقية تحتوي على مفاتيح وأوتار؟",
+    "options_en": [
+      "Flute",
+      "Trumpet",
+      "Piano",
+      "Drum"
+    ],
+    "options_ar": [
+      "Flute",
+      "Trumpet",
+      "Piano",
+      "Drum"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_35",
+    "questionText_en": "What is the most common gas in Earth's atmosphere?",
+    "questionText_ar": "ما هو الغاز الأكثر شيوعاً في الغلاف الجوي للأرض؟",
+    "options_en": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "options_ar": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_36",
+    "questionText_en": "Who discovered gravity?",
+    "questionText_ar": "من اكتشف الجاذبية؟",
+    "options_en": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo",
+      "Nikola Tesla"
+    ],
+    "options_ar": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo",
+      "Nikola Tesla"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_37",
+    "questionText_en": "What is the smallest continent by land area?",
+    "questionText_ar": "ما هي أصغر قارة من حيث مساحة الأرض؟",
+    "options_en": [
+      "Europe",
+      "Australia",
+      "Antarctica",
+      "South America"
+    ],
+    "options_ar": [
+      "Europe",
+      "Australia",
+      "Antarctica",
+      "South America"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_38",
+    "questionText_en": "Which sea is located between Saudi Arabia and Egypt?",
+    "questionText_ar": "أي بحر يقع بين السعودية ومصر؟",
+    "options_en": [
+      "Red Sea",
+      "Black Sea",
+      "Mediterranean Sea",
+      "Dead Sea"
+    ],
+    "options_ar": [
+      "Red Sea",
+      "Black Sea",
+      "Mediterranean Sea",
+      "Dead Sea"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "edu_39",
+    "questionText_en": "What is 100 divided by 4?",
+    "questionText_ar": "ما هو حاصل قسمة 100 على 4؟",
+    "options_en": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "options_ar": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_40",
+    "questionText_en": "Which part of the plant conducts photosynthesis?",
+    "questionText_ar": "أي جزء من النبات يقوم بعملية البناء الضوئي؟",
+    "options_en": [
+      "Roots",
+      "Stem",
+      "Leaves",
+      "Flower"
+    ],
+    "options_ar": [
+      "Roots",
+      "Stem",
+      "Leaves",
+      "Flower"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_41",
+    "questionText_en": "What is the capital of Canada?",
+    "questionText_ar": "ما هي عاصمة كندا؟",
+    "options_en": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "options_ar": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_42",
+    "questionText_en": "Which animal is known as the 'King of the Jungle'?",
+    "questionText_ar": "أي حيوان يُعرف بملك الغابة؟",
+    "options_en": [
+      "Tiger",
+      "Lion",
+      "Bear",
+      "Elephant"
+    ],
+    "options_ar": [
+      "Tiger",
+      "Lion",
+      "Bear",
+      "Elephant"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_43",
+    "questionText_en": "What color do you get if you mix red and yellow?",
+    "questionText_ar": "ما اللون الذي تحصل عليه عند خلط الأحمر والأصفر؟",
+    "options_en": [
+      "Green",
+      "Orange",
+      "Purple",
+      "Pink"
+    ],
+    "options_ar": [
+      "Green",
+      "Orange",
+      "Purple",
+      "Pink"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_44",
+    "questionText_en": "How many states are there in the USA?",
+    "questionText_ar": "كم عدد الولايات في الولايات المتحدة؟",
+    "options_en": [
+      "48",
+      "50",
+      "52",
+      "55"
+    ],
+    "options_ar": [
+      "48",
+      "50",
+      "52",
+      "55"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_45",
+    "questionText_en": "What is the powerhouse of the cell?",
+    "questionText_ar": "ما هو مركز الطاقة في الخلية؟",
+    "options_en": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Cytoplasm"
+    ],
+    "options_ar": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Cytoplasm"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_46",
+    "questionText_en": "What is the freezing point of water in Fahrenheit?",
+    "questionText_ar": "ما هي درجة تجمد الماء بالفهرنهايت؟",
+    "options_en": [
+      "0",
+      "32",
+      "100",
+      "212"
+    ],
+    "options_ar": [
+      "0",
+      "32",
+      "100",
+      "212"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_47",
+    "questionText_en": "Which planet is the largest in our solar system?",
+    "questionText_ar": "أي كوكب هو الأكبر في نظامنا الشمسي؟",
+    "options_en": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "options_ar": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_48",
+    "questionText_en": "Who painted the 'Starry Night'?",
+    "questionText_ar": "من رسم لوحة 'ليلة النجوم'؟",
+    "options_en": [
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Pablo Picasso",
+      "Salvador Dalí"
+    ],
+    "options_ar": [
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Pablo Picasso",
+      "Salvador Dalí"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "edu_49",
+    "questionText_en": "What is the tallest mountain in the world?",
+    "questionText_ar": "ما هو أعلى جبل في العالم؟",
+    "options_en": [
+      "K2",
+      "Mount Everest",
+      "Kilimanjaro",
+      "Mount Fuji"
+    ],
+    "options_ar": [
+      "K2",
+      "Mount Everest",
+      "Kilimanjaro",
+      "Mount Fuji"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_50",
+    "questionText_en": "What is the capital of Spain?",
+    "questionText_ar": "ما هي عاصمة إسبانيا؟",
+    "options_en": [
+      "Barcelona",
+      "Seville",
+      "Madrid",
+      "Valencia"
+    ],
+    "options_ar": [
+      "Barcelona",
+      "Seville",
+      "Madrid",
+      "Valencia"
+    ],
     "correctAnswerIndex": 2
   }
 ]
+questions_50.json
+جارٍ عرض "questions_50.json".
