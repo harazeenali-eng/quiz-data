@@ -319,10 +319,8 @@
 
     "correctAnswerIndex": 2
 
-  }
+  },
 
-]
-[
 
   {
 
@@ -642,11 +640,8 @@
 
     "correctAnswerIndex": 1
 
-  }
+  },
 
-]
-
-[
   {
     "id": "history_01",
     "questionText_en": "Who was the first President of the United States?",
