@@ -1,5 +1,4 @@
  [
-
   {
     "id": "edu_01",
     "questionText_en": "What is 5 x 6?",
@@ -1280,7 +1279,13 @@
   { "id": "edu_147", "questionText_en": "Who painted Mona Lisa?", "questionText_ar": "من رسم الموناليزا؟", "options_en": ["Da Vinci", "Van Gogh", "Picasso", "Monet"], "options_ar": ["دا فينشي", "فان جوخ", "بيكاسو", "مونيه"], "correctAnswerIndex": 0 },
   { "id": "edu_148", "questionText_en": "What is the capital of China?", "questionText_ar": "ما هي عاصمة الصين؟", "options_en": ["Beijing", "Shanghai", "Hong Kong", "Macau"], "options_ar": ["بكين", "شنغهاي", "هونج كونج", "ماكاو"], "correctAnswerIndex": 0 },
   { "id": "edu_149", "questionText_en": "Which metal is liquid?", "questionText_ar": "أي معدن هو سائل؟", "options_en": ["Iron", "Mercury", "Copper", "Gold"], "options_ar": ["الحديد", "الزئبق", "النحاس", "الذهب"], "correctAnswerIndex": 1 },
-  { "id": "edu_150", "questionText_en": "How many sides in a triangle?", "questionText_ar": "كم ضلعاً في المثلث؟", "options_en": ["2", "3", "4", "5"], "options_ar": ["2", "3", "4", "5"], "correctAnswerIndex": 1 },
+  
+  { "id": "edu_150", 
+   "questionText_en": "How many sides in a triangle?", 
+   "questionText_ar": "كم ضلعاً في المثلث؟", 
+   "options_en": ["2", "3", "4", "5"],
+   "options_ar": ["2", "3", "4", "5"], 
+   "correctAnswerIndex": 1 }
   
 ]
 
