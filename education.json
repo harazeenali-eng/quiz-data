@@ -899,6 +899,388 @@
       "Valencia"
     ],
     "correctAnswerIndex": 2
-  }
+  },
+  {
+    "id": "edu_51",
+    "questionText_en": "Which insect produces silk?",
+    "questionText_ar": "أي حشرة تنتج الحرير؟",
+    "options_en": ["Ant", "Bee", "Silkworm", "Butterfly"],
+    "options_ar": ["النمل", "النحل", "دودة القز", "الفراشة"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_52",
+    "questionText_en": "What is the square of 9?",
+    "questionText_ar": "ما هو مربع العدد 9؟",
+    "options_en": ["18", "72", "81", "90"],
+    "options_ar": ["18", "72", "81", "90"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_53",
+    "questionText_en": "Which continent is the largest by area?",
+    "questionText_ar": "أي قارة هي الأكبر من حيث المساحة؟",
+    "options_en": ["Africa", "Asia", "Europe", "North America"],
+    "options_ar": ["أفريقيا", "آسيا", "أوروبا", "أمريكا الشمالية"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_54",
+    "questionText_en": "What is the chemical formula for water?",
+    "questionText_ar": "ما هي الصيغة الكيميائية للماء؟",
+    "options_en": ["HO", "H2O", "O2H", "H2O2"],
+    "options_ar": ["HO", "H2O", "O2H", "H2O2"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_55",
+    "questionText_en": "Who discovered gravity?",
+    "questionText_ar": "من الذي اكتشف الجاذبية؟",
+    "options_en": ["Isaac Newton", "Albert Einstein", "Galileo", "Stephen Hawking"],
+    "options_ar": ["إسحاق نيوتن", "ألبرت أينشتاين", "جاليليو", "ستيفن هوكينج"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "edu_56",
+    "questionText_en": "Which bird can fly backwards?",
+    "questionText_ar": "أي طائر يمكنه الطيران للخلف؟",
+    "options_en": ["Eagle", "Hummingbird", "Parrot", "Owl"],
+    "options_ar": ["النسر", "الطنان", "الببغاء", "البومة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_57",
+    "questionText_en": "How many states in the world?",
+    "questionText_ar": "تقريباً، كم عدد دول العالم المعترف بها؟",
+    "options_en": ["50", "100", "195", "300"],
+    "options_ar": ["50", "100", "195", "300"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_58",
+    "questionText_en": "What is the main language in France?",
+    "questionText_ar": "ما هي اللغة الرئيسية في فرنسا؟",
+    "options_en": ["English", "Spanish", "French", "German"],
+    "options_ar": ["الإنجليزية", "الإسبانية", "الفرنسية", "الألمانية"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_59",
+    "questionText_en": "Which ocean lies between Africa and America?",
+    "questionText_ar": "أي محيط يقع بين أفريقيا وأمريكا؟",
+    "options_en": ["Pacific", "Atlantic", "Indian", "Arctic"],
+    "options_ar": ["الهادئ", "الأطلسي", "الهندي", "المتجمد الشمالي"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_60",
+    "questionText_en": "What is the capital of Spain?",
+    "questionText_ar": "ما هي عاصمة إسبانيا؟",
+    "options_en": ["Barcelona", "Madrid", "Valencia", "Seville"],
+    "options_ar": ["برشلونة", "مدريد", "فالنسيا", "إشبيلية"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_61",
+    "questionText_en": "What is 100 divided by 5?",
+    "questionText_ar": "ما هو ناتج قسمة 100 على 5؟",
+    "options_en": ["10", "15", "20", "25"],
+    "options_ar": ["10", "15", "20", "25"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_62",
+    "questionText_en": "Which organ is responsible for breathing?",
+    "questionText_ar": "أي عضو مسؤول عن التنفس؟",
+    "options_en": ["Stomach", "Lungs", "Heart", "Kidney"],
+    "options_ar": ["المعدة", "الرئتين", "القلب", "الكلية"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_63",
+    "questionText_en": "Who wrote 'Hamlet'?",
+    "questionText_ar": "من الذي كتب مسرحية 'هاملت'؟",
+    "options_en": ["Shakespeare", "Hemingway", "Dante", "Homer"],
+    "options_ar": ["شكسبير", "همنغواي", "دانتي", "هوميروس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "edu_64",
+    "questionText_en": "How many states are in Australia?",
+    "questionText_ar": "كم عدد الولايات في أستراليا؟",
+    "options_en": ["4", "5", "6", "7"],
+    "options_ar": ["4", "5", "6", "7"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_65",
+    "questionText_en": "Which gas makes up the majority of Earth's atmosphere?",
+    "questionText_ar": "أي غاز يشكل الجزء الأكبر من الغلاف الجوي للأرض؟",
+    "options_en": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "options_ar": ["الأكسجين", "النيتروجين", "ثاني أكسيد الكربون", "الهيدروجين"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_66",
+    "questionText_en": "What is the capital of Canada?",
+    "questionText_ar": "ما هي عاصمة كندا؟",
+    "options_en": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "options_ar": ["تورونتو", "فانكوفر", "أوتاوا", "مونتريال"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_67",
+    "questionText_en": "Which planet is known as the 'Ringed Planet'?",
+    "questionText_ar": "أي كوكب يُعرف بـ 'الكوكب ذو الحلقات'؟",
+    "options_en": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "options_ar": ["المشتري", "زحل", "أورانوس", "نبتون"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_68",
+    "questionText_en": "How many sides does a hexagon have?",
+    "questionText_ar": "كم عدد أضلاع الشكل السداسي؟",
+    "options_en": ["5", "6", "7", "8"],
+    "options_ar": ["5", "6", "7", "8"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_69",
+    "questionText_en": "Who discovered America?",
+    "questionText_ar": "من الذي اكتشف أمريكا (بشكل عام تاريخياً)؟",
+    "options_en": ["Columbus", "Magellan", "Cook", "Vasco da Gama"],
+    "options_ar": ["كولومبوس", "ماجلان", "كوك", "فاسكو دا جاما"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "edu_70",
+    "questionText_en": "Which continent is the coldest?",
+    "questionText_ar": "أي قارة هي الأكثر برودة؟",
+    "options_en": ["Europe", "Antarctica", "Asia", "North America"],
+    "options_ar": ["أوروبا", "أنتاركتيكا (القارة القطبية الجنوبية)", "آسيا", "أمريكا الشمالية"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_71",
+    "questionText_en": "What is 15 x 3?",
+    "questionText_ar": "ما هو حاصل ضرب 15 في 3؟",
+    "options_en": ["35", "40", "45", "50"],
+    "options_ar": ["35", "40", "45", "50"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_72",
+    "questionText_en": "What is the capital of China?",
+    "questionText_ar": "ما هي عاصمة الصين؟",
+    "options_en": ["Shanghai", "Beijing", "Hong Kong", "Guangzhou"],
+    "options_ar": ["شنغهاي", "بكين", "هونج كونج", "جوانزو"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_73",
+    "questionText_en": "Which animal has the longest neck?",
+    "questionText_ar": "أي حيوان يمتلك أطول رقبة؟",
+    "options_en": ["Elephant", "Giraffe", "Ostrich", "Camel"],
+    "options_ar": ["الفيل", "الزرافة", "النعامة", "الجمل"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_74",
+    "questionText_en": "What is the study of plants called?",
+    "questionText_ar": "ماذا يُسمى علم دراسة النباتات؟",
+    "options_en": ["Zoology", "Biology", "Botany", "Geology"],
+    "options_ar": ["علم الحيوان", "علم الأحياء", "علم النبات", "علم الجيولوجيا"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_75",
+    "questionText_en": "Which planet is known as the Earth's twin?",
+    "questionText_ar": "أي كوكب يُعرف بـ 'توأم الأرض'؟",
+    "options_en": ["Mars", "Venus", "Mercury", "Saturn"],
+    "options_ar": ["المريخ", "الزهرة", "عطارد", "زحل"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_76",
+    "questionText_en": "What is 8 x 6?",
+    "questionText_ar": "ما هو حاصل ضرب 8 في 6؟",
+    "options_en": ["42", "48", "54", "56"],
+    "options_ar": ["42", "48", "54", "56"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_77",
+    "questionText_en": "Which planet is the largest in our solar system?",
+    "questionText_ar": "أي كوكب هو الأكبر في نظامنا الشمسي؟",
+    "options_en": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "options_ar": ["الأرض", "المريخ", "المشتري", "زحل"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_78",
+    "questionText_en": "What is the capital of Australia?",
+    "questionText_ar": "ما هي عاصمة أستراليا؟",
+    "options_en": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "options_ar": ["سيدني", "ملبورن", "كانبيرا", "بيرث"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_79",
+    "questionText_en": "Which gas do we need to breathe to survive?",
+    "questionText_ar": "أي غاز نحتاج للتنفس من أجل البقاء؟",
+    "options_en": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Helium"],
+    "options_ar": ["ثاني أكسيد الكربون", "الأكسجين", "النيتروجين", "الهيليوم"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_80",
+    "questionText_en": "How many days are in a standard year?",
+    "questionText_ar": "كم عدد الأيام في السنة العادية؟",
+    "options_en": ["360", "365", "366", "370"],
+    "options_ar": ["360", "365", "366", "370"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_81",
+    "questionText_en": "Who is known for the theory of relativity?",
+    "questionText_ar": "من المعروف بنظرية النسبية؟",
+    "options_en": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Marie Curie"],
+    "options_ar": ["إسحاق نيوتن", "ألبرت أينشتاين", "نيكولا تسلا", "ماري كوري"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_82",
+    "questionText_en": "What is the capital of Russia?",
+    "questionText_ar": "ما هي عاصمة روسيا؟",
+    "options_en": ["Saint Petersburg", "Moscow", "Kazan", "Sochi"],
+    "options_ar": ["سانت بطرسبرغ", "موسكو", "قازان", "سوتشي"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_83",
+    "questionText_en": "Which shape has four equal sides?",
+    "questionText_ar": "أي شكل له أربعة أضلاع متساوية؟",
+    "options_en": ["Triangle", "Rectangle", "Square", "Pentagon"],
+    "options_ar": ["مثلث", "مستطيل", "مربع", "خماسي"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_84",
+    "questionText_en": "Which is the smallest planet in the solar system?",
+    "questionText_ar": "أي كوكب هو الأصغر في النظام الشمسي؟",
+    "options_en": ["Venus", "Earth", "Mercury", "Mars"],
+    "options_ar": ["الزهرة", "الأرض", "عطارد", "المريخ"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_85",
+    "questionText_en": "What is 50 minus 15?",
+    "questionText_ar": "ما هو ناتج طرح 50 من 15؟",
+    "options_en": ["30", "35", "40", "45"],
+    "options_ar": ["30", "35", "40", "45"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "edu_86",
+    "questionText_en": "Which animal is known for its long trunk?",
+    "questionText_ar": "أي حيوان معروف بخرطومه الطويل؟",
+    "options_en": ["Lion", "Tiger", "Elephant", "Monkey"],
+    "options_ar": ["الأسد", "النمر", "الفيل", "القرد"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_87",
+    "questionText_en": "Who wrote the Odyssey?",
+    "questionText_ar": "من الذي كتب الأوديسة؟",
+    "options_en": ["Homer", "Virgil", "Sophocles", "Plato"],
+    "options_ar": ["هوميروس", "فيرجيل", "سوفوكليس", "أفلاطون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "edu_88",
+    "questionText_en": "What is the boiling point of water?",
+    "questionText_ar": "ما هي درجة غليان الماء؟",
+    "options_en": ["50°C", "80°C", "100°C", "120°C"],
+    "options_ar": ["50°م", "80°م", "100°م", "120°م"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_89",
+    "questionText_en": "Which continent is home to the Amazon Rainforest?",
+    "questionText_ar": "أي قارة تضم غابات الأمازون المطيرة؟",
+    "options_en": ["Africa", "Asia", "South America", "Australia"],
+    "options_ar": ["أفريقيا", "آسيا", "أمريكا الجنوبية", "أستراليا"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "edu_90",
+    "questionText_en": "How many players are on a soccer team on the field?",
+    "questionText_ar": "كم عدد لاعبي فريق كرة القدم على أرض الملعب؟",
+    "options_en": ["9", "10", "11", "12"],
+    "options_ar": ["9", "10", "11", "12"],
+    "correctAnswerIndex": 2
+  },
+  { "id": "edu_91", "questionText_en": "What is 12 x 12?", "questionText_ar": "ما هو حاصل ضرب 12 في 12؟", "options_en": ["124", "144", "164", "142"], "options_ar": ["124", "144", "164", "142"], "correctAnswerIndex": 1 },
+  { "id": "edu_92", "questionText_en": "Which planet is famous for its rings?", "questionText_ar": "أي كوكب يشتهر بحلقاته؟", "options_en": ["Mars", "Saturn", "Jupiter", "Venus"], "options_ar": ["المريخ", "زحل", "المشتري", "الزهرة"], "correctAnswerIndex": 1 },
+  { "id": "edu_93", "questionText_en": "What is the capital of Japan?", "questionText_ar": "ما هي عاصمة اليابان؟", "options_en": ["Kyoto", "Tokyo", "Osaka", "Nagoya"], "options_ar": ["كيوتو", "طوكيو", "أوساكا", "ناغويا"], "correctAnswerIndex": 1 },
+  { "id": "edu_94", "questionText_en": "Which organ cleans the blood?", "questionText_ar": "أي عضو يقوم بتنقية الدم؟", "options_en": ["Liver", "Kidney", "Heart", "Stomach"], "options_ar": ["الكبد", "الكلية", "القلب", "المعدة"], "correctAnswerIndex": 1 },
+  { "id": "edu_95", "questionText_en": "How many states in the USA?", "questionText_ar": "كم عدد ولايات أمريكا؟", "options_en": ["48", "50", "52", "55"], "options_ar": ["48", "50", "52", "55"], "correctAnswerIndex": 1 },
+  { "id": "edu_96", "questionText_en": "What is the capital of UK?", "questionText_ar": "ما هي عاصمة المملكة المتحدة؟", "options_en": ["London", "Manchester", "Liverpool", "Leeds"], "options_ar": ["لندن", "مانشستر", "ليفربول", "ليدز"], "correctAnswerIndex": 0 },
+  { "id": "edu_97", "questionText_en": "Which metal is liquid?", "questionText_ar": "أي معدن سائل؟", "options_en": ["Iron", "Mercury", "Gold", "Lead"], "options_ar": ["الحديد", "الزئبق", "الذهب", "الرصاص"], "correctAnswerIndex": 1 },
+  { "id": "edu_98", "questionText_en": "What is 9 x 8?", "questionText_ar": "ما هو حاصل ضرب 9 في 8؟", "options_en": ["72", "81", "64", "76"], "options_ar": ["72", "81", "64", "76"], "correctAnswerIndex": 0 },
+  { "id": "edu_99", "questionText_en": "Who wrote Hamlet?", "questionText_ar": "من كتب مسرحية هاملت؟", "options_en": ["Shakespeare", "Dickens", "Twain", "Austin"], "options_ar": ["شكسبير", "ديكنز", "توين", "أوستن"], "correctAnswerIndex": 0 },
+  { "id": "edu_100", "questionText_en": "What is the speed of sound?", "questionText_ar": "ما هي سرعة الصوت تقريباً؟", "options_en": ["343 m/s", "100 m/s", "1000 m/s", "500 m/s"], "options_ar": ["343 م/ث", "100 م/ث", "1000 م/ث", "500 م/ث"], "correctAnswerIndex": 0 },
+  { "id": "edu_101", "questionText_en": "What is the capital of Turkey?", "questionText_ar": "ما هي عاصمة تركيا؟", "options_en": ["Istanbul", "Ankara", "Izmir", "Antalya"], "options_ar": ["إسطنبول", "أنقرة", "إزمير", "أنطاليا"], "correctAnswerIndex": 1 },
+  { "id": "edu_102", "questionText_en": "Which gas is in balloons?", "questionText_ar": "أي غاز يُستخدم في البالونات؟", "options_en": ["Helium", "Oxygen", "Nitrogen", "Argon"], "options_ar": ["الهيليوم", "الأكسجين", "النيتروجين", "الأرجون"], "correctAnswerIndex": 0 },
+  { "id": "edu_103", "questionText_en": "What is 15 - 8?", "questionText_ar": "ما هو ناتج طرح 15 من 8؟", "options_en": ["6", "7", "8", "9"], "options_ar": ["6", "7", "8", "9"], "correctAnswerIndex": 1 },
+  { "id": "edu_104", "questionText_en": "Who is the father of physics?", "questionText_ar": "من هو أبو الفيزياء؟", "options_en": ["Newton", "Einstein", "Tesla", "Bohr"], "options_ar": ["نيوتن", "أينشتاين", "تسلا", "بور"], "correctAnswerIndex": 0 },
+  { "id": "edu_105", "questionText_en": "Which bird is national symbol of USA?", "questionText_ar": "أي طائر هو الرمز الوطني لأمريكا؟", "options_en": ["Eagle", "Hawk", "Owl", "Parrot"], "options_ar": ["النسر", "الصقر", "البومة", "الببغاء"], "correctAnswerIndex": 0 },
+  { "id": "edu_106", "questionText_en": "What is the capital of Germany?", "questionText_ar": "ما هي عاصمة ألمانيا؟", "options_en": ["Berlin", "Munich", "Bonn", "Frankfurt"], "options_ar": ["برلين", "ميونخ", "بون", "فرانكفورت"], "correctAnswerIndex": 0 },
+  { "id": "edu_107", "questionText_en": "How many hearts does an octopus have?", "questionText_ar": "كم قلباً يمتلك الأخطبوط؟", "options_en": ["1", "2", "3", "4"], "options_ar": ["1", "2", "3", "4"], "correctAnswerIndex": 2 },
+  { "id": "edu_108", "questionText_en": "What is 4 x 4?", "questionText_ar": "ما هو حاصل ضرب 4 في 4؟", "options_en": ["12", "14", "16", "18"], "options_ar": ["12", "14", "16", "18"], "correctAnswerIndex": 2 },
+  { "id": "edu_109", "questionText_en": "Which planet is 'Red Planet'?", "questionText_ar": "أي كوكب هو الكوكب الأحمر؟", "options_en": ["Mars", "Venus", "Jupiter", "Mercury"], "options_ar": ["المريخ", "الزهرة", "المشتري", "عطارد"], "correctAnswerIndex": 0 },
+  { "id": "edu_110", "questionText_en": "What is the capital of Italy?", "questionText_ar": "ما هي عاصمة إيطاليا؟", "options_en": ["Rome", "Milan", "Venice", "Naples"], "options_ar": ["روما", "ميلانو", "فينيسيا", "نابولي"], "correctAnswerIndex": 0 },
+  { "id": "edu_111", "questionText_en": "Which vitamin is from sun?", "questionText_ar": "أي فيتامين نحصل عليه من الشمس؟", "options_en": ["A", "B", "C", "D"], "options_ar": ["A", "B", "C", "D"], "correctAnswerIndex": 3 },
+  { "id": "edu_112", "questionText_en": "What is the capital of France?", "questionText_ar": "ما هي عاصمة فرنسا؟", "options_en": ["Lyon", "Paris", "Marseille", "Nice"], "options_ar": ["ليون", "باريس", "مارسيليا", "نيس"], "correctAnswerIndex": 1 },
+  { "id": "edu_113", "questionText_en": "How many legs for ants?", "questionText_ar": "كم رجلاً للنملة؟", "options_en": ["4", "6", "8", "10"], "options_ar": ["4", "6", "8", "10"], "correctAnswerIndex": 1 },
+  { "id": "edu_114", "questionText_en": "What is 20 + 20?", "questionText_ar": "ما هو ناتج جمع 20 + 20؟", "options_en": ["30", "40", "50", "60"], "options_ar": ["30", "40", "50", "60"], "correctAnswerIndex": 1 },
+  { "id": "edu_115", "questionText_en": "Which animal is the tallest?", "questionText_ar": "أي حيوان هو الأطول؟", "options_en": ["Elephant", "Giraffe", "Tiger", "Lion"], "options_ar": ["الفيل", "الزرافة", "النمر", "الأسد"], "correctAnswerIndex": 1 },
+  { "id": "edu_116", "questionText_en": "What is the capital of Spain?", "questionText_ar": "ما هي عاصمة إسبانيا؟", "options_en": ["Madrid", "Barcelona", "Seville", "Valencia"], "options_ar": ["مدريد", "برشلونة", "إشبيلية", "فالنسيا"], "correctAnswerIndex": 0 },
+  { "id": "edu_117", "questionText_en": "Which planet is largest?", "questionText_ar": "أي كوكب هو الأكبر؟", "options_en": ["Jupiter", "Saturn", "Earth", "Mars"], "options_ar": ["المشتري", "زحل", "الأرض", "المريخ"], "correctAnswerIndex": 0 },
+  { "id": "edu_118", "questionText_en": "What is 100 / 10?", "questionText_ar": "ما هو ناتج قسمة 100 على 10؟", "options_en": ["5", "10", "15", "20"], "options_ar": ["5", "10", "15", "20"], "correctAnswerIndex": 1 },
+  { "id": "edu_119", "questionText_en": "Which gas plants take?", "questionText_ar": "أي غاز تأخذه النباتات؟", "options_en": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"], "options_ar": ["الأكسجين", "ثاني أكسيد الكربون", "النيتروجين", "الهيليوم"], "correctAnswerIndex": 1 },
+  { "id": "edu_120", "questionText_en": "What is the capital of Egypt?", "questionText_ar": "ما هي عاصمة مصر؟", "options_en": ["Cairo", "Giza", "Alexandria", "Aswan"], "options_ar": ["القاهرة", "الجيزة", "الإسكندرية", "أسوان"], "correctAnswerIndex": 0 },
+
+  { "id": "edu_121", "questionText_en": "What is 6 x 9?", "questionText_ar": "ما هو حاصل ضرب 6 في 9؟", "options_en": ["54", "56", "64", "45"], "options_ar": ["54", "56", "64", "45"], "correctAnswerIndex": 0 },
+  { "id": "edu_122", "questionText_en": "Which gas is needed for fire?", "questionText_ar": "أي غاز ضروري لاشتعال النار؟", "options_en": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Helium"], "options_ar": ["النيتروجين", "الأكسجين", "ثاني أكسيد الكربون", "الهيليوم"], "correctAnswerIndex": 1 },
+  { "id": "edu_123", "questionText_en": "What is the capital of UAE?", "questionText_ar": "ما هي عاصمة الإمارات؟", "options_en": ["Dubai", "Abu Dhabi", "Sharjah", "Ajman"], "options_ar": ["دبي", "أبوظبي", "الشارقة", "عجمان"], "correctAnswerIndex": 1 },
+  { "id": "edu_124", "questionText_en": "Which shape has 5 sides?", "questionText_ar": "أي شكل له 5 أضلاع؟", "options_en": ["Square", "Pentagon", "Hexagon", "Octagon"], "options_ar": ["مربع", "خماسي", "سداسي", "ثماني"], "correctAnswerIndex": 1 },
+  { "id": "edu_125", "questionText_en": "How many days in a week?", "questionText_ar": "كم عدد أيام الأسبوع؟", "options_en": ["5", "6", "7", "8"], "options_ar": ["5", "6", "7", "8"], "correctAnswerIndex": 2 },
+  { "id": "edu_126", "questionText_en": "What is 30 / 2?", "questionText_ar": "ما هو ناتج قسمة 30 على 2؟", "options_en": ["10", "15", "20", "25"], "options_ar": ["10", "15", "20", "25"], "correctAnswerIndex": 1 },
+  { "id": "edu_127", "questionText_en": "Which planet is the hottest?", "questionText_ar": "أي كوكب هو الأكثر حرارة؟", "options_en": ["Mars", "Venus", "Mercury", "Earth"], "options_ar": ["المريخ", "الزهرة", "عطارد", "الأرض"], "correctAnswerIndex": 1 },
+  { "id": "edu_128", "questionText_en": "Who discovered gravity?", "questionText_ar": "من الذي اكتشف الجاذبية؟", "options_en": ["Einstein", "Newton", "Tesla", "Darwin"], "options_ar": ["أينشتاين", "نيوتن", "تسلا", "داروين"], "correctAnswerIndex": 1 },
+  { "id": "edu_129", "questionText_en": "What is the capital of France?", "questionText_ar": "ما هي عاصمة فرنسا؟", "options_en": ["Paris", "Lyon", "Nice", "Bordeaux"], "options_ar": ["باريس", "ليون", "نيس", "بوردو"], "correctAnswerIndex": 0 },
+  { "id": "edu_130", "questionText_en": "Which organ pumps blood?", "questionText_ar": "أي عضو يضخ الدم؟", "options_en": ["Lungs", "Heart", "Brain", "Liver"], "options_ar": ["الرئتين", "القلب", "الدماغ", "الكبد"], "correctAnswerIndex": 1 },
+  { "id": "edu_131", "questionText_en": "What is 10 x 10?", "questionText_ar": "ما هو حاصل ضرب 10 في 10؟", "options_en": ["50", "80", "100", "120"], "options_ar": ["50", "80", "100", "120"], "correctAnswerIndex": 2 },
+  { "id": "edu_132", "questionText_en": "Which ocean is the largest?", "questionText_ar": "أي محيط هو الأكبر؟", "options_en": ["Atlantic", "Pacific", "Indian", "Arctic"], "options_ar": ["الأطلسي", "الهادئ", "الهندي", "المتجمد الشمالي"], "correctAnswerIndex": 1 },
+  { "id": "edu_133", "questionText_en": "What is the capital of Germany?", "questionText_ar": "ما هي عاصمة ألمانيا؟", "options_en": ["Berlin", "Munich", "Frankfurt", "Hamburg"], "options_ar": ["برلين", "ميونخ", "فرانكفورت", "هامبورغ"], "correctAnswerIndex": 0 },
+  { "id": "edu_134", "questionText_en": "How many legs does a dog have?", "questionText_ar": "كم رجلاً للكلب؟", "options_en": ["2", "4", "6", "8"], "options_ar": ["2", "4", "6", "8"], "correctAnswerIndex": 1 },
+  { "id": "edu_135", "questionText_en": "Which animal is the fastest?", "questionText_ar": "أي حيوان هو الأسرع؟", "options_en": ["Lion", "Cheetah", "Tiger", "Horse"], "options_ar": ["الأسد", "الفهد", "النمر", "الحصان"], "correctAnswerIndex": 1 },
+  { "id": "edu_136", "questionText_en": "What is 5 x 5?", "questionText_ar": "ما هو حاصل ضرب 5 في 5؟", "options_en": ["15", "20", "25", "30"], "options_ar": ["15", "20", "25", "30"], "correctAnswerIndex": 2 },
+  { "id": "edu_137", "questionText_en": "What is the capital of UK?", "questionText_ar": "ما هي عاصمة المملكة المتحدة؟", "options_en": ["London", "Manchester", "Glasgow", "Bristol"], "options_ar": ["لندن", "مانشستر", "غلاسكو", "بريستول"], "correctAnswerIndex": 0 },
+  { "id": "edu_138", "questionText_en": "Which vitamin from sunshine?", "questionText_ar": "أي فيتامين من أشعة الشمس؟", "options_en": ["A", "B", "C", "D"], "options_ar": ["A", "B", "C", "D"], "correctAnswerIndex": 3 },
+  { "id": "edu_139", "questionText_en": "Which gas do we exhale?", "questionText_ar": "أي غاز نخرجه في الزفير؟", "options_en": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"], "options_ar": ["الأكسجين", "ثاني أكسيد الكربون", "النيتروجين", "الهيليوم"], "correctAnswerIndex": 1 },
+  { "id": "edu_140", "questionText_en": "What is the capital of Canada?", "questionText_ar": "ما هي عاصمة كندا؟", "options_en": ["Ottawa", "Toronto", "Vancouver", "Quebec"], "options_ar": ["أوتاوا", "تورونتو", "فانكوفر", "كيبيك"], "correctAnswerIndex": 0 },
+  { "id": "edu_141", "questionText_en": "What is 8 x 8?", "questionText_ar": "ما هو حاصل ضرب 8 في 8؟", "options_en": ["56", "64", "72", "81"], "options_ar": ["56", "64", "72", "81"], "correctAnswerIndex": 1 },
+  { "id": "edu_142", "questionText_en": "Which animal is the largest?", "questionText_ar": "أي حيوان هو الأكبر؟", "options_en": ["Blue Whale", "Elephant", "Giraffe", "Lion"], "options_ar": ["الحوت الأزرق", "الفيل", "الزرافة", "الأسد"], "correctAnswerIndex": 0 },
+  { "id": "edu_143", "questionText_en": "What is the capital of Italy?", "questionText_ar": "ما هي عاصمة إيطاليا؟", "options_en": ["Rome", "Milan", "Venice", "Florence"], "options_ar": ["روما", "ميلانو", "فينيسيا", "فلورنسا"], "correctAnswerIndex": 0 },
+  { "id": "edu_144", "questionText_en": "How many hours in a day?", "questionText_ar": "كم ساعة في اليوم؟", "options_en": ["12", "24", "36", "48"], "options_ar": ["12", "24", "36", "48"], "correctAnswerIndex": 1 },
+  { "id": "edu_145", "questionText_en": "Which planet is the closest?", "questionText_ar": "أي كوكب هو الأقرب للشمس؟", "options_en": ["Venus", "Earth", "Mercury", "Mars"], "options_ar": ["الزهرة", "الأرض", "عطارد", "المريخ"], "correctAnswerIndex": 2 },
+  { "id": "edu_146", "questionText_en": "What is 20 / 4?", "questionText_ar": "ما هو ناتج قسمة 20 على 4؟", "options_en": ["3", "4", "5", "6"], "options_ar": ["3", "4", "5", "6"], "correctAnswerIndex": 2 },
+  { "id": "edu_147", "questionText_en": "Who painted Mona Lisa?", "questionText_ar": "من رسم الموناليزا؟", "options_en": ["Da Vinci", "Van Gogh", "Picasso", "Monet"], "options_ar": ["دا فينشي", "فان جوخ", "بيكاسو", "مونيه"], "correctAnswerIndex": 0 },
+  { "id": "edu_148", "questionText_en": "What is the capital of China?", "questionText_ar": "ما هي عاصمة الصين؟", "options_en": ["Beijing", "Shanghai", "Hong Kong", "Macau"], "options_ar": ["بكين", "شنغهاي", "هونج كونج", "ماكاو"], "correctAnswerIndex": 0 },
+  { "id": "edu_149", "questionText_en": "Which metal is liquid?", "questionText_ar": "أي معدن هو سائل؟", "options_en": ["Iron", "Mercury", "Copper", "Gold"], "options_ar": ["الحديد", "الزئبق", "النحاس", "الذهب"], "correctAnswerIndex": 1 },
+  { "id": "edu_150", "questionText_en": "How many sides in a triangle?", "questionText_ar": "كم ضلعاً في المثلث؟", "options_en": ["2", "3", "4", "5"], "options_ar": ["2", "3", "4", "5"], "correctAnswerIndex": 1 },
+  
 ]
 
