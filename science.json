@@ -1,660 +1,13 @@
  [
 
   {
-
-    "id": "edu_01",
-
-    "questionText_en": "What is the capital letter of the English alphabet?",
-
-    "questionText_ar": "ما هو الحرف الكبير في الأبجدية الإنجليزية؟",
-
-    "options_en": ["A", "a", "b", "c"],
-
-    "options_ar": ["A", "a", "b", "c"],
-
-    "correctAnswerIndex": 0
-
-  },
-
-  {
-
-    "id": "edu_02",
-
-    "questionText_en": "What is 15 plus 27?",
-
-    "questionText_ar": "ما هو حاصل جمع 15 زائد 27؟",
-
-    "options_en": ["32", "42", "45", "52"],
-
-    "options_ar": ["32", "42", "45", "52"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "edu_03",
-
-    "questionText_en": "Which of these is a primary color?",
-
-    "questionText_ar": "أي من هذه الألوان يعتبر لوناً أساسياً؟",
-
-    "options_en": ["Green", "Purple", "Orange", "Blue"],
-
-    "options_ar": ["أخضر", "أرجواني", "برتقالي", "أزرق"],
-
-    "correctAnswerIndex": 3
-
-  },
-
-  {
-
-    "id": "edu_04",
-
-    "questionText_en": "How many continents are there on Earth?",
-
-    "questionText_ar": "كم عدد القارات على سطح الأرض؟",
-
-    "options_en": ["5", "6", "7", "8"],
-
-    "options_ar": ["5", "6", "7", "8"],
-
-    "correctAnswerIndex": 2
-
-  },
-
-  {
-
-    "id": "edu_05",
-
-    "questionText_en": "Which planet is closest to the Sun?",
-
-    "questionText_ar": "أي كوكب هو الأقرب إلى الشمس؟",
-
-    "options_en": ["Venus", "Earth", "Mars", "Mercury"],
-
-    "options_ar": ["الزهرة", "الأرض", "المريخ", "عطارد"],
-
-    "correctAnswerIndex": 3
-
-  },
-
-  {
-
-    "id": "education_06",
-
-    "questionText_en": "What is the square root of 64?",
-
-    "questionText_ar": "ما هو الجذر التربيعي للعدد 64؟",
-
-    "options_en": ["6", "7", "8", "9"],
-
-    "options_ar": ["6", "7", "8", "9"],
-
-    "correctAnswerIndex": 2
-
-  },
-
-  {
-
-    "id": "education_07",
-
-    "questionText_en": "Which language is spoken in Brazil?",
-
-    "questionText_ar": "ما هي اللغة التي يتم التحدث بها في البرازيل؟",
-
-    "options_en": ["Spanish", "Portuguese", "French", "English"],
-
-    "options_ar": ["الإسبانية", "البرتغالية", "الفرنسية", "الإنجليزية"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "education_08",
-
-    "questionText_en": "What is the largest mammal in the world?",
-
-    "questionText_ar": "ما هو أكبر حيوان ثديي في العالم؟",
-
-    "options_en": ["Elephant", "Blue Whale", "Giraffe", "Shark"],
-
-    "options_ar": ["فيل", "الحوت الأزرق", "زرافة", "قرش"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "education_09",
-
-    "questionText_en": "What is the main function of the lungs?",
-
-    "questionText_ar": "ما هي الوظيفة الرئيسية للرئتين؟",
-
-    "options_en": ["Digestion", "Blood circulation", "Respiration", "Filtering water"],
-
-    "options_ar": ["الهضم", "دورة الدم", "التنفس", "ترشيح الماء"],
-
-    "correctAnswerIndex": 2
-
-  },
-
-  {
-
-    "id": "education_10",
-
-    "questionText_en": "In a sentence, what word describes an action?",
-
-    "questionText_ar": "في الجملة، ما هي الكلمة التي تصف حدثاً أو فعلاً؟",
-
-    "options_en": ["Noun", "Adjective", "Verb", "Preposition"],
-
-    "options_ar": ["اسم", "صفة", "فعل", "حرف جر"],
-
-    "correctAnswerIndex": 2
-
-  },
-
-  {
-
-    "id": "education_11",
-
-    "questionText_en": "Which water body connects the Mediterranean Sea to the Red Sea?",
-
-    "questionText_ar": "ما هو الممر المائي الذي يربط البحر الأبيض المتوسط بالبحر الأحمر؟",
-
-    "options_en": ["Panama Canal", "Suez Canal", "Kiel Canal", "English Channel"],
-
-    "options_ar": ["قناة بنما", "قناة السويس", "قناة كيل", "بحر المانش"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "education_12",
-
-    "questionText_en": "What is the value of Pi (π) rounded to two decimal places?",
-
-    "questionText_ar": "ما هي قيمة باي (π) مقربة لمرتبتين عشريتين؟",
-
-    "options_en": ["3.12", "3.14", "3.16", "3.18"],
-
-    "options_ar": ["3.12", "3.14", "3.16", "3.18"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "education_13",
-
-    "questionText_en": "How many teeth does an adult human typically have?",
-
-    "questionText_ar": "كم عدد الأسنان لدى الإنسان البالغ عادة؟",
-
-    "options_en": ["28", "30", "32", "36"],
-
-    "options_ar": ["28", "30", "32", "36"],
-
-    "correctAnswerIndex": 2
-
-  },
-
-  {
-
-    "id": "education_14",
-
-    "questionText_en": "Which country is famous for the ancient monument Stonehenge?",
-
-    "questionText_ar": "أي دولة تشتهر بنصب ستونهنج الأثري القديم؟",
-
-    "options_en": ["France", "England", "Germany", "Egypt"],
-
-    "options_ar": ["فرنسا", "إنجلترا", "ألمانيا", "مصر"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "education_15",
-
-    "questionText_en": "What type of angle measures exactly 90 degrees?",
-
-    "questionText_ar": "ما هو نوع الزاوية التي قياسها 90 درجة تماماً؟",
-
-    "options_en": ["Acute Angle", "Obtuse Angle", "Right Angle", "Straight Angle"],
-
-    "options_ar": ["زاوية حادة", "زاوية منفرجة", "زاوية قائمة", "زاوية مستقيمة"],
-
-    "correctAnswerIndex": 2
-
-  },
-
-  {
-
-    "id": "education_16",
-
-    "questionText_en": "Which layer of Earth's atmosphere protects us from harmful UV rays?",
-
-    "questionText_ar": "أي طبقة من الغلاف الجوي للأرض تحمينا من الأشعة فوق البنفسجية الضارة؟",
-
-    "options_en": ["Troposphere", "Ozone Layer", "Mesosphere", "Thermosphere"],
-
-    "options_ar": ["التروبوسفير", "طبقة الأوزون", "الميزوسفير", "الثرموسفير"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "education_17",
-
-    "questionText_en": "What is the longest river in the world?",
-
-    "questionText_ar": "ما هو أطول نهر في العالم؟",
-
-    "options_en": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
-
-    "options_ar": ["نهر الأمازون", "نهر النيل", "نهر يانغتسي", "نهر المسيسيبي"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "education_18",
-
-    "questionText_en": "How many days are in a leap year?",
-
-    "questionText_ar": "كم عدد الأيام في السنة الكبيسة؟",
-
-    "options_en": ["364", "365", "366", "367"],
-
-    "options_ar": ["364", "365", "366", "367"],
-
-    "correctAnswerIndex": 2
-
-  },
-
-  {
-
-    "id": "education_19",
-
-    "questionText_en": "What basic component makes up all organic matter?",
-
-    "questionText_ar": "ما هو العنصر الأساسي الذي تتكون منه جميع المواد العضوية؟",
-
-    "options_en": ["Carbon", "Hydrogen", "Oxygen", "Nitrogen"],
-
-    "options_ar": ["الكربون", "الهيدروجين", "الأكسجين", "النيتروجين"],
-
-    "correctAnswerIndex": 0
-
-  },
-
-  {
-
-    "id": "education_20",
-
-    "questionText_en": "Which musical instrument has 88 keys?",
-
-    "questionText_ar": "ما هي الآلة الموسيقية التي تحتوي على 88 مفتاحاً؟",
-
-    "options_en": ["Guitar", "Violin", "Piano", "Flute"],
-
-    "options_ar": ["الغيتار", "الكمان", "البيانو", "الناي"],
-
-    "correctAnswerIndex": 2
-
-  },
-  {
-
-    "id": "history_01",
-
-    "questionText_en": "Who was the first President of the United States?",
-
-    "questionText_ar": "من كان أول رئيس للولايات المتحدة؟",
-
-    "options_en": ["Thomas Jefferson", "John Adams", "George Washington", "Benjamin Franklin"],
-
-    "options_ar": ["توماس جيفرسون", "جون آدامز", "جورج واشنطن", "بنيامين فرانكلين"],
-
-    "correctAnswerIndex": 2
-
-  },
-
-  {
-
-    "id": "history_02",
-
-    "questionText_en": "In which year did the Titanic sink?",
-
-    "questionText_ar": "في أي عام غرقت سفينة تيتانيك؟",
-
-    "options_en": ["1910", "1912", "1914", "1918"],
-
-    "options_ar": ["1910", "1912", "1914", "1918"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "history_03",
-
-    "questionText_en": "Which ancient civilization built the pyramids of Giza?",
-
-    "questionText_ar": "أي حضارة قديمة بنت أهرامات الجيزة؟",
-
-    "options_en": ["Mesopotamians", "Romans", "Greeks", "Egyptians"],
-
-    "options_ar": ["بلاد ما بين النهرين", "الرومان", "اليونانيون", "المصريون"],
-
-    "correctAnswerIndex": 3
-
-  },
-
-  {
-
-    "id": "history_04",
-
-    "questionText_en": "Who was the leader of Nazi Germany during World War II?",
-
-    "questionText_ar": "من كان زعيم ألمانيا النازية خلال الحرب العالمية الثانية？",
-
-    "options_en": ["Joseph Stalin", "Benito Mussolini", "Adolf Hitler", "Winston Churchill"],
-
-    "options_ar": ["جوزيف ستالين", "بينيتو موسوليني", "أدولف هتلر", "وينستون تشرشل"],
-
-    "correctAnswerIndex": 2
-
-  },
-
-  {
-
-    "id": "history_05",
-
-    "questionText_en": "The Magna Carta was signed in which country?",
-
-    "questionText_ar": "في أي بلد تم توقيع الماغنا كارتا (الميثاق الأعظم)؟",
-
-    "options_en": ["France", "England", "Spain", "Germany"],
-
-    "options_ar": ["فرنسا", "إنجلترا", "إسبانيا", "ألمانيا"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "history_06",
-
-    "questionText_en": "Who is often called the 'Father of Modern Physics'?",
-
-    "questionText_ar": "من يُلقب غالباً بـ 'أب الفيزياء الحديثة'؟",
-
-    "options_en": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
-
-    "options_ar": ["إسحاق نيوتن", "ألبرت أينشتاين", "غاليليو غاليلي", "نيكولا تسلا"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "history_07",
-
-    "questionText_en": "Which war was fought between the North and South regions of the United States?",
-
-    "questionText_ar": "ما هي الحرب التي دارت بين منطقتي الشمال والجنوب في الولايات المتحدة؟",
-
-    "options_en": ["World War I", "The Revolutionary War", "The Civil War", "The Vietnam War"],
-
-    "options_ar": ["الحرب العالمية الأولى", "حرب الاستقلال", "الحرب الأهلية", "حرب فيتنام"],
-
-    "correctAnswerIndex": 2
-
-  },
-
-  {
-
-    "id": "history_08",
-
-    "questionText_en": "What was the name of the ship on which the Pilgrims traveled to America in 1620?",
-
-    "questionText_ar": "ما هو اسم السفينة التي سافر على متنها الحجاج إلى أمريكا عام 1620؟",
-
-    "options_en": ["Santa Maria", "Mayflower", "Endeavour", "Beagle"],
-
-    "options_ar": ["سانتا ماريا", "مايفلاور", "إنديفور", "بيغل"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "history_09",
-
-    "questionText_en": "Who was the legendary queen of ancient Egypt known for her beauty and intellect?",
-
-    "questionText_ar": "من هي ملكة مصر القديمة الأسطورية المعروفة بجمالها وذكائها؟",
-
-    "options_en": ["Nefertiti", "Hatshepsut", "Cleopatra", "Zenobia"],
-
-    "options_ar": ["نفرتيتي", "حتشبسوت", "كلياباترا", "زنوبيا"],
-
-    "correctAnswerIndex": 2
-
-  },
-
-  {
-
-    "id": "history_10",
-
-    "questionText_en": "The Berlin Wall fell in which year?",
-
-    "questionText_ar": "في أي عام سقط جدار برلين؟",
-
-    "options_en": ["1987", "1989", "1991", "1993"],
-
-    "options_ar": ["1987", "1989", "1991", "1993"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "history_11",
-
-    "questionText_en": "Who was the first emperor of the Roman Empire?",
-
-    "questionText_ar": "من كان أول إمبراطور للإمبراطورية الرومانية؟",
-
-    "options_en": ["Julius Caesar", "Nero", "Augustus", "Marcus Aurelius"],
-
-    "options_ar": ["يوليوس قيصر", "نيرون", "أوغسطس", "ماركوس أوريليوس"],
-
-    "correctAnswerIndex": 2
-
-  },
-
-  {
-
-    "id": "history_12",
-
-    "questionText_en": "In which year did World War I begin?",
-
-    "questionText_ar": "في أي عام بدأت الحرب العالمية الأولى؟",
-
-    "options_en": ["1912", "1914", "1916", "1918"],
-
-    "options_ar": ["1912", "1914", "1916", "1918"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "history_13",
-
-    "questionText_en": "Who discovered America in 1892 or historically sailed across the Atlantic in 1492?",
-
-    "questionText_ar": "من هو المكتشف الذي أبحر عبر المحيط الأطلسي ووصل لأمريكا عام 1492؟",
-
-    "options_en": ["Vasco da Gama", "Ferdinand Magellan", "Christopher Columbus", "Marco Polo"],
-
-    "options_ar": ["فاسكو دا غاما", "فرديناند ماجلان", "كريستوفر كولومبوس", "ماركو بولو"],
-
-    "correctAnswerIndex": 2
-
-  },
-
-  {
-
-    "id": "history_14",
-
-    "questionText_en": "Which famous conqueror created one of the largest empires in history stretching from Greece to India?",
-
-    "questionText_ar": "من هو الفاتح الشهير الذي أنشأ واحدة من أكبر الإمبراطوريات عبر التاريخ الممتدة من اليونان للهند؟",
-
-    "options_en": ["Julius Caesar", "Alexander the Great", "Genghis Khan", "Napoleon Bonaparte"],
-
-    "options_ar": ["يوليوس قيصر", "الإسكندر الأكبر", "جنكيز خان", "نابليون بونابرت"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "history_15",
-
-    "questionText_en": "The ancient city of Petra is located in which modern country?",
-
-    "questionText_ar": "في أي دولة حديثة تقع مدينة البتراء الأثرية القديمة؟",
-
-    "options_en": ["Egypt", "Jordan", "Syria", "Iraq"],
-
-    "options_ar": ["مصر", "الأردن", "سوريا", "العراق"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "history_16",
-
-    "questionText_en": "Who was the main author of the United States Declaration of Independence?",
-
-    "questionText_ar": "من كان الكاتب الرئيسي لإعلان الاستقلال الأمريكي؟",
-
-    "options_en": ["George Washington", "Thomas Jefferson", "John Adams", "Benjamin Franklin"],
-
-    "options_ar": ["جورج واشنطن", "توماس جيفرسون", "جون آدامز", "بنيامين فرانكلين"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "history_17",
-
-    "pushText_en": "Which French heroine played a major role in the Hundred Years' War and was later made a saint?",
-
-    "questionText_en": "من هي البطلة الفرنسية التي لعبت دوراً كبيراً في حرب المائة عام وحُكم عليها حرقاً ثم قُدست لاحقاً؟",
-
-    "options_en": ["Joan of Arc", "Marie Antoinette", "Catherine de' Medici", "Eleanor of Aquitaine"],
-
-    "options_ar": ["جان دارك", "ماري أنطوانيت", "كاترين دي ميتشي", "إليانور آكيتين"],
-
-    "correctAnswerIndex": 0
-
-  },
-
-  {
-
-    "id": "history_18",
-
-    "questionText_en": "Which revolution began in 1789 and overthrew the absolute monarchy in France?",
-
-    "questionText_ar": "أي ثورة بدأت عام 1789 وأطاحت بالحكم الملكي المطلق في فرنسا؟",
-
-    "options_en": ["The American Revolution", "The Russian Revolution", "The French Revolution", "The Industrial Revolution"],
-
-    "options_ar": ["الثورة الأمريكية", "الثورة الروسية", "الثورة الفرنسية", "الثورة الصناعية"],
-
-    "correctAnswerIndex": 2
-
-  },
-
-  {
-
-    "id": "history_19",
-
-    "questionText_en": "Who was the first human to journey into outer space in 1961?",
-
-    "questionText_ar": "من هو أول إنسان يسافر إلى الفضاء الخارجي عام 1961؟",
-
-    "options_en": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "John Glenn"],
-
-    "options_ar": ["نيل آرمسترونغ", "يوري غاغارين", "بز ألدرين", "جون غلين"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
-    "id": "history_20",
-
-    "questionText_en": "The ancient code of laws known as the 'Code of Hammurabi' originated in which civilization?",
-
-    "questionText_ar": "مجموعة القوانين القديمة المعروفة بـ 'قوانين حمورابي' نشأت في أي حضارة؟",
-
-    "options_en": ["Ancient Egypt", "Babylon", "Ancient Greece", "The Roman Empire"],
-
-    "options_ar": ["مصر القديمة", "بابل", "اليونان القديمة", "الإمبراطورية الرومانية"],
-
-    "correctAnswerIndex": 1
-
-  },
-
-  {
-
     "id": "science_01",
-
     "questionText_en": "What is the chemical symbol for the element Gold?",
-
     "questionText_ar": "ما هو الرمز الكيميائي لعنصر الذهب؟",
-
     "options_en": ["Gd", "Au", "Ag", "Go"],
-
     "options_ar": ["Gd", "Au", "Ag", "Go"],
-
     "correctAnswerIndex": 1
-
   },
-
   {
 
     "id": "science_02",
@@ -1858,6 +1211,806 @@
       "1500 m/s",
       "300,000 m/s"
     ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_51",
+    "questionText_en": "Which planet is known as the Red Planet?",
+    "questionText_ar": "ما هو الكوكب المعروف بالكوكب الأحمر؟",
+    "options_en": ["Earth", "Mars", "Jupiter", "Venus"],
+    "options_ar": ["الأرض", "المريخ", "المشتري", "الزهرة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_52",
+    "questionText_en": "What is the hardest natural substance on Earth?",
+    "questionText_ar": "ما هي أصلب مادة طبيعية على وجه الأرض؟",
+    "options_en": ["Gold", "Iron", "Diamond", "Quartz"],
+    "options_ar": ["الذهب", "الحديد", "الماس", "الكوارتز"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_53",
+    "questionText_en": "What gas do plants absorb from the atmosphere for photosynthesis?",
+    "questionText_ar": "ما الغاز الذي تمتصه النباتات من الجو للقيام بعملية البناء الضوئي؟",
+    "options_en": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "options_ar": ["الأكسجين", "النيتروجين", "ثاني أكسيد الكربون", "الهيدروجين"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_54",
+    "questionText_en": "What is the center of an atom called?",
+    "questionText_ar": "ماذا يسمى مركز الذرة؟",
+    "options_en": ["Electron", "Nucleus", "Proton", "Neutron"],
+    "options_ar": ["الإلكترون", "النواة", "البروتون", "النيوترون"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_55",
+    "questionText_en": "Which part of the human brain controls balance?",
+    "questionText_ar": "أي جزء من الدماغ البشري يتحكم في التوازن؟",
+    "options_en": ["Cerebrum", "Cerebellum", "Brain stem", "Hypothalamus"],
+    "options_ar": ["المخ", "المخيخ", "جذع الدماغ", "تحت المهاد"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_56",
+    "questionText_en": "What is the speed of light in a vacuum?",
+    "questionText_ar": "ما هي سرعة الضوء في الفراغ؟",
+    "options_en": ["300,000 km/s", "150,000 km/s", "1,000 km/s", "3,000 km/s"],
+    "options_ar": ["300,000 كم/ثانية", "150,000 كم/ثانية", "1,000 كم/ثانية", "3,000 كم/ثانية"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_57",
+    "questionText_en": "Which metal is liquid at room temperature?",
+    "questionText_ar": "أي معدن يكون سائلاً في درجة حرارة الغرفة؟",
+    "options_en": ["Gold", "Mercury", "Silver", "Lead"],
+    "options_ar": ["الذهب", "الزئبق", "الفضة", "الرصاص"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_58",
+    "questionText_en": "What is the most abundant gas in Earth's atmosphere?",
+    "questionText_ar": "ما هو الغاز الأكثر وفرة في غلاف الأرض الجوي؟",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
+    "options_ar": ["الأكسجين", "ثاني أكسيد الكربون", "النيتروجين", "الأرجون"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_59",
+    "questionText_en": "What is the study of living organisms called?",
+    "questionText_ar": "ماذا يسمى علم دراسة الكائنات الحية؟",
+    "options_en": ["Chemistry", "Physics", "Biology", "Geology"],
+    "options_ar": ["الكيمياء", "الفيزياء", "الأحياء", "الجيولوجيا"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_60",
+    "questionText_en": "Which blood cells are responsible for fighting infection?",
+    "questionText_ar": "أي خلايا دم مسؤولة عن محاربة العدوى؟",
+    "options_en": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "options_ar": ["خلايا الدم الحمراء", "خلايا الدم البيضاء", "الصفائح الدموية", "البلازما"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_61",
+    "questionText_en": "What force pulls objects toward the center of the Earth?",
+    "questionText_ar": "ما هي القوة التي تجذب الأجسام نحو مركز الأرض؟",
+    "options_en": ["Magnetism", "Gravity", "Friction", "Inertia"],
+    "options_ar": ["المغناطيسية", "الجاذبية", "الاحتكاك", "القصور الذاتي"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_62",
+    "questionText_en": "What is the chemical formula for water?",
+    "questionText_ar": "ما هي الصيغة الكيميائية للماء؟",
+    "options_en": ["CO2", "H2O", "O2", "NaCl"],
+    "options_ar": ["CO2", "H2O", "O2", "NaCl"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_63",
+    "questionText_en": "Which organ in the human body filters blood?",
+    "questionText_ar": "أي عضو في جسم الإنسان يقوم بتنقية الدم؟",
+    "options_en": ["Heart", "Liver", "Kidney", "Lungs"],
+    "options_ar": ["القلب", "الكبد", "الكلى", "الرئتان"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_64",
+    "questionText_en": "What planet is closest to the Sun?",
+    "questionText_ar": "ما هو الكوكب الأقرب للشمس؟",
+    "options_en": ["Venus", "Earth", "Mercury", "Mars"],
+    "options_ar": ["الزهرة", "الأرض", "عطارد", "المريخ"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_65",
+    "questionText_en": "How many bones are in the adult human body?",
+    "questionText_ar": "كم عدد العظام في جسم الإنسان البالغ؟",
+    "options_en": ["206", "150", "300", "250"],
+    "options_ar": ["206", "150", "300", "250"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_66",
+    "questionText_en": "What is the largest organ in the human body?",
+    "questionText_ar": "ما هو أكبر عضو في جسم الإنسان؟",
+    "options_en": ["Heart", "Liver", "Skin", "Brain"],
+    "options_ar": ["القلب", "الكبد", "الجلد", "الدماغ"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_67",
+    "questionText_en": "What is the primary source of energy for Earth?",
+    "questionText_ar": "ما هو المصدر الرئيسي للطاقة للأرض؟",
+    "options_en": ["Wind", "Water", "Sun", "Oil"],
+    "options_ar": ["الرياح", "الماء", "الشمس", "النفط"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_68",
+    "questionText_en": "What is the freezing point of water in Celsius?",
+    "questionText_ar": "ما هي درجة تجمد الماء بالدرجة المئوية؟",
+    "options_en": ["0", "10", "32", "100"],
+    "options_ar": ["0", "10", "32", "100"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_69",
+    "questionText_en": "Which vitamin is produced by exposure to sunlight?",
+    "questionText_ar": "أي فيتامين يُنتج عند التعرض لأشعة الشمس؟",
+    "options_en": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+    "options_ar": ["فيتامين أ", "فيتامين ج", "فيتامين د", "فيتامين ك"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_70",
+    "questionText_en": "What is the hardest mineral known to man?",
+    "questionText_ar": "ما هو أصلب معدن معروف للإنسان؟",
+    "options_en": ["Talc", "Diamond", "Gold", "Quartz"],
+    "options_ar": ["التلك", "الماس", "الذهب", "الكوارتز"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_71",
+    "questionText_en": "Which gas do humans exhale as a waste product?",
+    "questionText_ar": "ما هو الغاز الذي يزفره البشر كفضلات؟",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+    "options_ar": ["الأكسجين", "ثاني أكسيد الكربون", "النيتروجين", "الهيليوم"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_72",
+    "questionText_en": "What is the largest planet in our solar system?",
+    "questionText_ar": "ما هو أكبر كوكب في نظامنا الشمسي؟",
+    "options_en": ["Earth", "Saturn", "Jupiter", "Neptune"],
+    "options_ar": ["الأرض", "زحل", "المشتري", "نبتون"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_73",
+    "questionText_en": "Which human organ is responsible for pumping blood?",
+    "questionText_ar": "أي عضو في جسم الإنسان مسؤول عن ضخ الدم؟",
+    "options_en": ["Brain", "Lungs", "Heart", "Stomach"],
+    "options_ar": ["الدماغ", "الرئتان", "القلب", "المعدة"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_74",
+    "questionText_en": "What is the boiling point of water in Celsius?",
+    "questionText_ar": "ما هي درجة غليان الماء بالدرجة المئوية؟",
+    "options_en": ["50", "80", "100", "120"],
+    "options_ar": ["50", "80", "100", "120"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_75",
+    "questionText_en": "What is the speed of sound?",
+    "questionText_ar": "ما هي سرعة الصوت؟",
+    "options_en": ["343 m/s", "100 m/s", "1000 m/s", "50 m/s"],
+    "options_ar": ["343 متر/ثانية", "100 متر/ثانية", "1000 متر/ثانية", "50 متر/ثانية"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_76",
+    "questionText_en": "What is the study of the Earth called?",
+    "questionText_ar": "ماذا يسمى علم دراسة الأرض؟",
+    "options_en": ["Biology", "Geology", "Physics", "Chemistry"],
+    "options_ar": ["الأحياء", "الجيولوجيا", "الفيزياء", "الكيمياء"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_77",
+    "questionText_en": "What is the smallest unit of matter?",
+    "questionText_ar": "ما هي أصغر وحدة للمادة؟",
+    "options_en": ["Molecule", "Atom", "Cell", "Electron"],
+    "options_ar": ["الجزيء", "الذرة", "الخلية", "الإلكترون"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_78",
+    "questionText_en": "What do bees produce?",
+    "questionText_ar": "ماذا ينتج النحل؟",
+    "options_en": ["Milk", "Honey", "Sugar", "Bread"],
+    "options_ar": ["الحليب", "العسل", "السكر", "الخبز"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_79",
+    "questionText_en": "Which galaxy is Earth located in?",
+    "questionText_ar": "في أي مجرة تقع الأرض؟",
+    "options_en": ["Andromeda", "Milky Way", "Sombrero", "Triangulum"],
+    "options_ar": ["أندروميدا", "درب التبانة", "سومبريرو", "المثلث"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_80",
+    "questionText_en": "What is the process of water turning into vapor called?",
+    "questionText_ar": "ماذا تسمى عملية تحول الماء إلى بخار؟",
+    "options_en": ["Condensation", "Evaporation", "Freezing", "Melting"],
+    "options_ar": ["التكثف", "التبخر", "التجمد", "الانصهار"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_81",
+    "questionText_en": "Which element has the symbol O?",
+    "questionText_ar": "أي عنصر رمزه الكيميائي O؟",
+    "options_en": ["Gold", "Oxygen", "Silver", "Osmium"],
+    "options_ar": ["الذهب", "الأكسجين", "الفضة", "الأوزميوم"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_82",
+    "questionText_en": "How many planets are in our solar system?",
+    "questionText_ar": "كم عدد الكواكب في نظامنا الشمسي؟",
+    "options_en": ["7", "8", "9", "10"],
+    "options_ar": ["7", "8", "9", "10"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_83",
+    "questionText_en": "What is the main metal in steel?",
+    "questionText_ar": "ما هو المعدن الرئيسي في الفولاذ؟",
+    "options_en": ["Gold", "Iron", "Copper", "Aluminum"],
+    "options_ar": ["الذهب", "الحديد", "النحاس", "الألمنيوم"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_84",
+    "questionText_en": "What is the colored part of the eye called?",
+    "questionText_ar": "ماذا يسمى الجزء الملون من العين؟",
+    "options_en": ["Pupil", "Iris", "Retina", "Lens"],
+    "options_ar": ["البؤبؤ", "القزحية", "الشبكية", "العدسة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_85",
+    "questionText_en": "Which planet is famous for its rings?",
+    "questionText_ar": "أي كوكب يشتهر بحلقاته؟",
+    "options_en": ["Mars", "Saturn", "Jupiter", "Venus"],
+    "options_ar": ["المريخ", "زحل", "المشتري", "الزهرة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_86",
+    "questionText_en": "What is the study of weather called?",
+    "questionText_ar": "ماذا يسمى علم دراسة الطقس؟",
+    "options_en": ["Biology", "Meteorology", "Astronomy", "Botany"],
+    "options_ar": ["الأحياء", "الأرصاد الجوية", "علم الفلك", "علم النبات"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_87",
+    "questionText_en": "Which gas is used in balloons to make them float?",
+    "questionText_ar": "أي غاز يُستخدم في البالونات لجعلها تطفو؟",
+    "options_en": ["Oxygen", "Helium", "Nitrogen", "Carbon dioxide"],
+    "options_ar": ["الأكسجين", "الهيليوم", "النيتروجين", "ثاني أكسيد الكربون"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_88",
+    "questionText_en": "What is the closest star to Earth?",
+    "questionText_ar": "ما هو أقرب نجم للأرض؟",
+    "options_en": ["Moon", "Sun", "Sirius", "Polaris"],
+    "options_ar": ["القمر", "الشمس", "الشعرى اليمانية", "نجم القطب"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_89",
+    "questionText_en": "What do kidneys filter from the blood?",
+    "questionText_ar": "ماذا تنقي الكلى من الدم؟",
+    "options_en": ["Sugar", "Waste products", "Oxygen", "Protein"],
+    "options_ar": ["السكر", "الفضلات", "الأكسجين", "البروتين"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_90",
+    "questionText_en": "Which metal is used in thermometers?",
+    "questionText_ar": "أي معدن يُستخدم في موازين الحرارة؟",
+    "options_en": ["Gold", "Mercury", "Copper", "Iron"],
+    "options_ar": ["الذهب", "الزئبق", "النحاس", "الحديد"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_91",
+    "questionText_en": "What is the powerhouse of the cell?",
+    "questionText_ar": "ماذا يسمى بيت الطاقة في الخلية؟",
+    "options_en": ["Nucleus", "Mitochondria", "Ribosome", "Cell wall"],
+    "options_ar": ["النواة", "الميتوكوندريا", "الريبوسوم", "الجدار الخلوي"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_92",
+    "questionText_en": "What is the pH of pure water?",
+    "questionText_ar": "ما هي درجة الحموضة (pH) للماء النقي؟",
+    "options_en": ["0", "7", "10", "14"],
+    "options_ar": ["0", "7", "10", "14"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_93",
+    "questionText_en": "What do we call animals that only eat plants?",
+    "questionText_ar": "ماذا نسمي الحيوانات التي تأكل النباتات فقط؟",
+    "options_en": ["Carnivores", "Herbivores", "Omnivores", "Insectivores"],
+    "options_ar": ["آكلات اللحوم", "آكلات الأعشاب", "آكلات كل شيء", "آكلات الحشرات"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_94",
+    "questionText_en": "Which planet is famous for the Great Red Spot?",
+    "questionText_ar": "أي كوكب يشتهر بالبقعة الحمراء العظيمة؟",
+    "options_en": ["Mars", "Saturn", "Jupiter", "Neptune"],
+    "options_ar": ["المريخ", "زحل", "المشتري", "نبتون"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_95",
+    "questionText_en": "What is the largest land animal?",
+    "questionText_ar": "ما هو أكبر حيوان بري؟",
+    "options_en": ["Elephant", "Giraffe", "Lion", "Tiger"],
+    "options_ar": ["الفيل", "الزرافة", "الأسد", "النمر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_96",
+    "questionText_en": "What is the speed of light?",
+    "questionText_ar": "ما هي سرعة الضوء؟",
+    "options_en": ["Fast", "Constant", "Slow", "Zero"],
+    "options_ar": ["سريعة", "ثابتة", "بطيئة", "صفر"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_97",
+    "questionText_en": "What is the chemical symbol for Iron?",
+    "questionText_ar": "ما هو الرمز الكيميائي للحديد؟",
+    "options_en": ["Fe", "Ir", "In", "Au"],
+    "options_ar": ["Fe", "Ir", "In", "Au"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_98",
+    "questionText_en": "Which part of the plant conducts photosynthesis?",
+    "questionText_ar": "أي جزء من النبات يقوم بعملية البناء الضوئي؟",
+    "options_en": ["Root", "Leaf", "Flower", "Stem"],
+    "options_ar": ["الجذر", "الورقة", "الزهرة", "الساق"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_99",
+    "questionText_en": "What is the main component of the sun?",
+    "questionText_ar": "ما هو المكون الرئيسي للشمس؟",
+    "options_en": ["Oxygen", "Hydrogen", "Carbon", "Iron"],
+    "options_ar": ["الأكسجين", "الهيدروجين", "الكربون", "الحديد"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_100",
+    "questionText_en": "What is a group of stars called?",
+    "questionText_ar": "ماذا تسمى مجموعة النجوم؟",
+    "options_en": ["Planet", "Constellation", "Moon", "Asteroid"],
+    "options_ar": ["كوكب", "كوكبة", "قمر", "كويكب"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_101",
+    "questionText_en": "Which force keeps planets in orbit around the Sun?",
+    "questionText_ar": "أي قوة تبقي الكواكب في مدارها حول الشمس؟",
+    "options_en": ["Friction", "Magnetism", "Gravity", "Inertia"],
+    "options_ar": ["الاحتكاك", "المغناطيسية", "الجاذبية", "القصور الذاتي"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_102",
+    "questionText_en": "What is the common name for H2O?",
+    "questionText_ar": "ما هو الاسم الشائع لـ H2O؟",
+    "options_en": ["Oxygen", "Hydrogen", "Water", "Salt"],
+    "options_ar": ["الأكسجين", "الهيدروجين", "الماء", "الملح"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_103",
+    "questionText_en": "Which organ pumps blood throughout the body?",
+    "questionText_ar": "أي عضو يضخ الدم عبر الجسم؟",
+    "options_en": ["Liver", "Lungs", "Heart", "Stomach"],
+    "options_ar": ["الكبد", "الرئتان", "القلب", "المعدة"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_104",
+    "questionText_en": "What is the study of celestial bodies called?",
+    "questionText_ar": "ماذا يسمى علم دراسة الأجرام السماوية؟",
+    "options_en": ["Geology", "Astronomy", "Meteorology", "Biology"],
+    "options_ar": ["الجيولوجيا", "علم الفلك", "الأرصاد الجوية", "الأحياء"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_105",
+    "questionText_en": "Which planet is known as the Morning Star?",
+    "questionText_ar": "أي كوكب يُعرف بنجمة الصباح؟",
+    "options_en": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "options_ar": ["المريخ", "الزهرة", "المشتري", "زحل"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_106",
+    "questionText_en": "What is the most common element in the universe?",
+    "questionText_ar": "ما هو العنصر الأكثر شيوعاً في الكون؟",
+    "options_en": ["Oxygen", "Hydrogen", "Helium", "Carbon"],
+    "options_ar": ["الأكسجين", "الهيدروجين", "الهيليوم", "الكربون"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_107",
+    "questionText_en": "Which state of matter has a definite shape and volume?",
+    "questionText_ar": "أي حالة للمادة لها شكل وحجم محددان؟",
+    "options_en": ["Solid", "Liquid", "Gas", "Plasma"],
+    "options_ar": ["الصلبة", "السائلة", "الغازية", "البلازما"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_108",
+    "questionText_en": "What is the chemical symbol for Gold?",
+    "questionText_ar": "ما هو الرمز الكيميائي للذهب؟",
+    "options_en": ["Au", "Ag", "Fe", "Cu"],
+    "options_ar": ["Au", "Ag", "Fe", "Cu"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_109",
+    "questionText_en": "What is the main function of red blood cells?",
+    "questionText_ar": "ما هي الوظيفة الرئيسية لخلايا الدم الحمراء؟",
+    "options_en": ["Fight infection", "Clot blood", "Carry oxygen", "Digest food"],
+    "options_ar": ["محاربة العدوى", "تجلط الدم", "نقل الأكسجين", "هضم الطعام"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_110",
+    "questionText_en": "Which gas do animals breathe in?",
+    "questionText_ar": "ما هو الغاز الذي تتنفسه الحيوانات؟",
+    "options_en": ["Carbon dioxide", "Oxygen", "Nitrogen", "Helium"],
+    "options_ar": ["ثاني أكسيد الكربون", "الأكسجين", "النيتروجين", "الهيليوم"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_111",
+    "questionText_en": "What is the study of plants called?",
+    "questionText_ar": "ماذا يسمى علم دراسة النباتات؟",
+    "options_en": ["Zoology", "Botany", "Physics", "Chemistry"],
+    "options_ar": ["علم الحيوان", "علم النبات", "الفيزياء", "الكيمياء"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_112",
+    "questionText_en": "Which planet is famous for its blue color?",
+    "questionText_ar": "أي كوكب يشتهر بلونه الأزرق؟",
+    "options_en": ["Mars", "Neptune", "Venus", "Saturn"],
+    "options_ar": ["المريخ", "نبتون", "الزهرة", "زحل"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_113",
+    "questionText_en": "What is the force of attraction between all masses?",
+    "questionText_ar": "ما هي قوة الجذب بين كل الكتل؟",
+    "options_en": ["Magnetism", "Gravity", "Friction", "Energy"],
+    "options_ar": ["المغناطيسية", "الجاذبية", "الاحتكاك", "الطاقة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_114",
+    "questionText_en": "What is the human skeleton made of?",
+    "questionText_ar": "مم يتكون الهيكل العظمي البشري؟",
+    "options_en": ["Muscles", "Bones", "Skin", "Fat"],
+    "options_ar": ["العضلات", "العظام", "الجلد", "الدهون"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_115",
+    "questionText_en": "Which organ controls the body's movements?",
+    "questionText_ar": "أي عضو يتحكم في حركات الجسم؟",
+    "options_en": ["Heart", "Stomach", "Brain", "Lungs"],
+    "options_ar": ["القلب", "المعدة", "الدماغ", "الرئتان"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_116",
+    "questionText_en": "What is the chemical symbol for Silver?",
+    "questionText_ar": "ما هو الرمز الكيميائي للفضة؟",
+    "options_en": ["Au", "Ag", "Fe", "Cu"],
+    "options_ar": ["Au", "Ag", "Fe", "Cu"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_117",
+    "questionText_en": "Which part of the cell contains DNA?",
+    "questionText_ar": "أي جزء من الخلية يحتوي على الحمض النووي (DNA)؟",
+    "options_en": ["Nucleus", "Cytoplasm", "Cell membrane", "Ribosome"],
+    "options_ar": ["النواة", "السيتوبلازم", "غشاء الخلية", "الريبوسوم"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_118",
+    "questionText_en": "What is the main source of light on Earth?",
+    "questionText_ar": "ما هو المصدر الرئيسي للضوء على الأرض؟",
+    "options_en": ["Moon", "Stars", "Sun", "Fire"],
+    "options_ar": ["القمر", "النجوم", "الشمس", "النار"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_119",
+    "questionText_en": "What is the process by which green plants make food?",
+    "questionText_ar": "ما هي العملية التي تصنع بها النباتات الخضراء غذاءها؟",
+    "options_en": ["Respiration", "Photosynthesis", "Digestion", "Fermentation"],
+    "options_ar": ["التنفس", "البناء الضوئي", "الهضم", "التخمر"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_120",
+    "questionText_en": "Which planet is known as the Earth's twin?",
+    "questionText_ar": "أي كوكب يُعرف بتوأم الأرض؟",
+    "options_en": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "options_ar": ["المريخ", "الزهرة", "المشتري", "زحل"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_121",
+    "questionText_en": "What is the study of rocks called?",
+    "questionText_ar": "ماذا يسمى علم دراسة الصخور؟",
+    "options_en": ["Geology", "Botany", "Zoology", "Astronomy"],
+    "options_ar": ["الجيولوجيا", "علم النبات", "علم الحيوان", "علم الفلك"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_122",
+    "questionText_en": "Which blood group is the universal donor?",
+    "questionText_ar": "أي فصيلة دم هي المتبرع العام؟",
+    "options_en": ["A", "B", "AB", "O"],
+    "options_ar": ["A", "B", "AB", "O"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "science_123",
+    "questionText_en": "What is the chemical symbol for Sodium?",
+    "questionText_ar": "ما هو الرمز الكيميائي للصوديوم؟",
+    "options_en": ["S", "So", "Na", "Sd"],
+    "options_ar": ["S", "So", "Na", "Sd"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_124",
+    "questionText_en": "Which organ produces insulin?",
+    "questionText_ar": "أي عضو ينتج الإنسولين؟",
+    "options_en": ["Liver", "Pancreas", "Kidney", "Stomach"],
+    "options_ar": ["الكبد", "البنكرياس", "الكلى", "المعدة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_125",
+    "questionText_en": "What is the study of chemicals called?",
+    "questionText_ar": "ماذا يسمى علم دراسة المواد الكيميائية؟",
+    "options_en": ["Biology", "Physics", "Chemistry", "Geology"],
+    "options_ar": ["الأحياء", "الفيزياء", "الكيمياء", "الجيولوجيا"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_126",
+    "questionText_en": "What is the process by which a caterpillar becomes a butterfly?",
+    "questionText_ar": "ماذا تسمى عملية تحول اليرقة إلى فراشة؟",
+    "options_en": ["Photosynthesis", "Metamorphosis", "Evolution", "Respiration"],
+    "options_ar": ["البناء الضوئي", "التحول", "التطور", "التنفس"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_127",
+    "questionText_en": "Which gas is needed for a fire to burn?",
+    "questionText_ar": "أي غاز ضروري لاشتعال النار؟",
+    "options_en": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+    "options_ar": ["الأكسجين", "ثاني أكسيد الكربون", "النيتروجين", "الهيليوم"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_128",
+    "questionText_en": "What is the largest living animal in the world?",
+    "questionText_ar": "ما هو أكبر حيوان حي في العالم؟",
+    "options_en": ["Elephant", "Blue Whale", "Giraffe", "Shark"],
+    "options_ar": ["الفيل", "الحوت الأزرق", "الزرافة", "القرش"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_129",
+    "questionText_en": "Which part of the plant absorbs water from the soil?",
+    "questionText_ar": "أي جزء من النبات يمتص الماء من التربة؟",
+    "options_en": ["Root", "Stem", "Leaf", "Flower"],
+    "options_ar": ["الجذر", "الساق", "الورقة", "الزهرة"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_130",
+    "questionText_en": "What is the speed of light approximately?",
+    "questionText_ar": "ما هي سرعة الضوء تقريباً؟",
+    "options_en": ["300,000 km/s", "1,000 km/s", "10,000 km/s", "50,000 km/s"],
+    "options_ar": ["300,000 كم/ثانية", "1,000 كم/ثانية", "10,000 كم/ثانية", "50,000 كم/ثانية"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_131",
+    "questionText_en": "What is the boiling point of water in Fahrenheit?",
+    "questionText_ar": "ما هي درجة غليان الماء بالفهرنهايت؟",
+    "options_en": ["100", "212", "32", "150"],
+    "options_ar": ["100", "212", "32", "150"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_132",
+    "questionText_en": "What is the study of stars called?",
+    "questionText_ar": "ماذا يسمى علم دراسة النجوم؟",
+    "options_en": ["Astronomy", "Geology", "Botany", "Zoology"],
+    "options_ar": ["علم الفلك", "الجيولوجيا", "علم النبات", "علم الحيوان"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_133",
+    "questionText_en": "Which metal is the best conductor of electricity?",
+    "questionText_ar": "أي معدن هو أفضل موصل للكهرباء؟",
+    "options_en": ["Gold", "Silver", "Copper", "Aluminum"],
+    "options_ar": ["الذهب", "الفضة", "النحاس", "الألمنيوم"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_134",
+    "questionText_en": "What is the primary gas in the air we breathe?",
+    "questionText_ar": "ما هو الغاز الرئيسي في الهواء الذي نتنفسه؟",
+    "options_en": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "options_ar": ["الأكسجين", "النيتروجين", "ثاني أكسيد الكربون", "الهيدروجين"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_135",
+    "questionText_en": "What organ helps us breathe?",
+    "questionText_ar": "أي عضو يساعدنا على التنفس؟",
+    "options_en": ["Heart", "Lungs", "Stomach", "Kidneys"],
+    "options_ar": ["القلب", "الرئتان", "المعدة", "الكلى"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_136",
+    "questionText_en": "Which planet is known for its rings?",
+    "questionText_ar": "أي كوكب معروف بحلقاته؟",
+    "options_en": ["Saturn", "Mars", "Earth", "Mercury"],
+    "options_ar": ["زحل", "المريخ", "الأرض", "عطارد"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_137",
+    "questionText_en": "What is the freezing point of water in Fahrenheit?",
+    "questionText_ar": "ما هي درجة تجمد الماء بالفهرنهايت؟",
+    "options_en": ["0", "32", "100", "212"],
+    "options_ar": ["0", "32", "100", "212"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_138",
+    "questionText_en": "What is the chemical symbol for Carbon?",
+    "questionText_ar": "ما هو الرمز الكيميائي للكربون؟",
+    "options_en": ["Ca", "C", "Co", "Cr"],
+    "options_ar": ["Ca", "C", "Co", "Cr"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_139",
+    "questionText_en": "Which animal is the fastest on land?",
+    "questionText_ar": "أي حيوان هو الأسرع على الأرض؟",
+    "options_en": ["Lion", "Cheetah", "Horse", "Zebra"],
+    "options_ar": ["الأسد", "الفهد", "الحصان", "الحمار الوحشي"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_140",
+    "questionText_en": "What is the center of the solar system?",
+    "questionText_ar": "ما هو مركز النظام الشمسي؟",
+    "options_en": ["Earth", "Moon", "Sun", "Jupiter"],
+    "options_ar": ["الأرض", "القمر", "الشمس", "المشتري"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_141",
+    "questionText_en": "Which vitamin is also known as ascorbic acid?",
+    "questionText_ar": "أي فيتامين يُعرف أيضاً بحمض الأسكوربيك؟",
+    "options_en": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "options_ar": ["فيتامين أ", "فيتامين ب", "فيتامين ج", "فيتامين د"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "science_142",
+    "questionText_en": "What is the liquid part of blood called?",
+    "questionText_ar": "ماذا يسمى الجزء السائل من الدم؟",
+    "options_en": ["Plasma", "Platelets", "Red cells", "White cells"],
+    "options_ar": ["البلازما", "الصفائح", "الخلايا الحمراء", "الخلايا البيضاء"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_143",
+    "questionText_en": "Which layer of the atmosphere protects us from UV rays?",
+    "questionText_ar": "أي طبقة في الغلاف الجوي تحمينا من الأشعة فوق البنفسجية؟",
+    "options_en": ["Ozone layer", "Troposphere", "Mesosphere", "Exosphere"],
+    "options_ar": ["طبقة الأوزون", "التروبوسفير", "الميزوسفير", "الإكسوسفير"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_144",
+    "questionText_en": "What is the study of volcanoes called?",
+    "questionText_ar": "ماذا يسمى علم دراسة البراكين؟",
+    "options_en": ["Vulcanology", "Geology", "Meteorology", "Biology"],
+    "options_ar": ["علم البراكين", "الجيولوجيا", "الأرصاد الجوية", "الأحياء"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_145",
+    "questionText_en": "Which gas makes up most of Earth's atmosphere?",
+    "questionText_ar": "أي غاز يشكل معظم غلاف الأرض الجوي؟",
+    "options_en": ["Nitrogen", "Oxygen", "Carbon dioxide", "Helium"],
+    "options_ar": ["النيتروجين", "الأكسجين", "ثاني أكسيد الكربون", "الهيليوم"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_146",
+    "questionText_en": "What do we call a scientist who studies stars?",
+    "questionText_ar": "ماذا نسمي العالم الذي يدرس النجوم؟",
+    "options_en": ["Astronomer", "Biologist", "Geologist", "Chemist"],
+    "options_ar": ["عالم فلك", "عالم أحياء", "جيولوجي", "كيميائي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_147",
+    "questionText_en": "What is the boiling point of water?",
+    "questionText_ar": "ما هي درجة غليان الماء؟",
+    "options_en": ["50", "100", "200", "0"],
+    "options_ar": ["50", "100", "200", "0"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "science_148",
+    "questionText_en": "Which bone is the longest in the human body?",
+    "questionText_ar": "أي عظمة هي الأطول في جسم الإنسان؟",
+    "options_en": ["Femur", "Humerus", "Tibia", "Radius"],
+    "options_ar": ["عظمة الفخذ", "عظمة العضد", "عظمة القصبة", "عظمة الكعبرة"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_149",
+    "questionText_en": "What is the study of matter called?",
+    "questionText_ar": "ماذا يسمى علم دراسة المادة؟",
+    "options_en": ["Physics", "Biology", "Botany", "Astronomy"],
+    "options_ar": ["الفيزياء", "الأحياء", "علم النبات", "علم الفلك"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "science_150",
+    "questionText_en": "What is the science of living things?",
+    "questionText_ar": "ما هو علم الكائنات الحية؟",
+    "options_en": ["Biology", "Geology", "Chemistry", "Physics"],
+    "options_ar": ["علم الأحياء", "الجيولوجيا", "الكيمياء", "الفيزياء"],
     "correctAnswerIndex": 0
   }
 ]
