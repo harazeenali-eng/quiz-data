@@ -898,5 +898,805 @@
       "Golf"
     ],
     "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_51",
+    "questionText_en": "Which country won the most FIFA World Cup titles?",
+    "questionText_ar": "ما هي الدولة الأكثر فوزاً بألقاب كأس العالم لكرة القدم؟",
+    "options_en": ["Germany", "Brazil", "Italy", "Argentina"],
+    "options_ar": ["ألمانيا", "البرازيل", "إيطاليا", "الأرجنتين"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_52",
+    "questionText_en": "How many rings are on the Olympic flag?",
+    "questionText_ar": "كم عدد الحلقات الموجودة على علم الأولمبياد؟",
+    "options_en": ["3", "4", "5", "6"],
+    "options_ar": ["3", "4", "5", "6"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sports_53",
+    "questionText_en": "In which sport would you use a shuttlecock?",
+    "questionText_ar": "في أي رياضة تستخدم 'الريشة' (shuttlecock)؟",
+    "options_en": ["Tennis", "Badminton", "Table Tennis", "Squash"],
+    "options_ar": ["التنس", "تنس الريشة", "تنس الطاولة", "الاسكواش"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_54",
+    "questionText_en": "How long is a standard marathon race?",
+    "questionText_ar": "ما هي المسافة القياسية لسباق الماراثون؟",
+    "options_en": ["21 km", "42.195 km", "50 km", "10 km"],
+    "options_ar": ["21 كم", "42.195 كم", "50 كم", "10 كم"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_55",
+    "questionText_en": "Who is known as 'The King' of football?",
+    "questionText_ar": "من يُعرف بـ 'ملك' كرة القدم؟",
+    "options_en": ["Maradona", "Pele", "Messi", "Ronaldo"],
+    "options_ar": ["مارادونا", "بيليه", "ميسي", "رونالدو"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_56",
+    "questionText_en": "Which sport is played at Wimbledon?",
+    "questionText_ar": "ما هي الرياضة التي تُمارس في ويمبلدون؟",
+    "options_en": ["Football", "Tennis", "Cricket", "Rugby"],
+    "options_ar": ["كرة القدم", "التنس", "الكريكيت", "الرجبي"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_57",
+    "questionText_en": "How many players are on a basketball team on the court?",
+    "questionText_ar": "كم عدد لاعبي فريق كرة السلة داخل الملعب؟",
+    "options_en": ["5", "6", "7", "11"],
+    "options_ar": ["5", "6", "7", "11"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_58",
+    "questionText_en": "Which country invented karate?",
+    "questionText_ar": "أي دولة اخترعت الكاراتيه؟",
+    "options_en": ["China", "Korea", "Japan", "Thailand"],
+    "options_ar": ["الصين", "كوريا", "اليابان", "تايلاند"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sports_59",
+    "questionText_en": "What is the duration of a standard football match (excluding stoppage time)?",
+    "questionText_ar": "ما هي مدة مباراة كرة القدم الرسمية (بدون احتساب الوقت بدل الضائع)؟",
+    "options_en": ["60 mins", "90 mins", "45 mins", "100 mins"],
+    "options_ar": ["60 دقيقة", "90 دقيقة", "45 دقيقة", "100 دقيقة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_60",
+    "questionText_en": "Which athlete has the most Olympic gold medals?",
+    "questionText_ar": "أي رياضي لديه أكبر عدد من الميداليات الذهبية الأولمبية؟",
+    "options_en": ["Usain Bolt", "Michael Phelps", "Carl Lewis", "Mark Spitz"],
+    "options_ar": ["يوسين بولت", "مايكل فيلبس", "كارل لويس", "مارك سبيتز"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_61",
+    "questionText_en": "What does NBA stand for?",
+    "questionText_ar": "ماذا تعني اختصار NBA؟",
+    "options_en": ["National Baseball Association", "National Basketball Association", "National Boxing Association", "National Bowling Association"],
+    "options_ar": ["الاتحاد الوطني للبيسبول", "الاتحاد الوطني لكرة السلة", "الاتحاد الوطني للملاكمة", "الاتحاد الوطني للبولينج"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_62",
+    "questionText_en": "Which stroke is the fastest in swimming?",
+    "questionText_ar": "ما هي أسرع سباحة في عالم السباحة؟",
+    "options_en": ["Breaststroke", "Backstroke", "Butterfly", "Freestyle"],
+    "options_ar": ["سباحة الصدر", "سباحة الظهر", "الفراشة", "الحرة"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "sports_63",
+    "questionText_en": "How many bases are on a baseball field?",
+    "questionText_ar": "كم عدد القواعد في ملعب البيسبول؟",
+    "options_en": ["3", "4", "5", "6"],
+    "options_ar": ["3", "4", "5", "6"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_64",
+    "questionText_en": "Which sport uses the term 'Love' for zero score?",
+    "questionText_ar": "أي رياضة تستخدم مصطلح 'Love' لتعني النتيجة صفر؟",
+    "options_en": ["Tennis", "Football", "Golf", "Rugby"],
+    "options_ar": ["التنس", "كرة القدم", "الجولف", "الرجبي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_65",
+    "questionText_en": "What is the national sport of Japan?",
+    "questionText_ar": "ما هي الرياضة الوطنية في اليابان؟",
+    "options_en": ["Karate", "Sumo", "Judo", "Baseball"],
+    "options_ar": ["الكاراتيه", "السومو", "الجودو", "البيسبول"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_66",
+    "questionText_en": "How many players are on each team in a standard volleyball match?",
+    "questionText_ar": "كم عدد اللاعبين في كل فريق في مباراة كرة الطائرة؟",
+    "options_en": ["5", "6", "7", "8"],
+    "options_ar": ["5", "6", "7", "8"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_67",
+    "questionText_en": "Which boxing legend was known as 'The Greatest'?",
+    "questionText_ar": "أي أسطورة ملاكمة كان يُعرف بـ 'الأعظم'؟",
+    "options_en": ["Mike Tyson", "Muhammad Ali", "Floyd Mayweather", "Rocky Marciano"],
+    "options_ar": ["مايك تايسون", "محمد علي", "فلويد مايويذر", "روكي مارسيانو"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_68",
+    "questionText_en": "What is the highest score possible in one throw in bowling?",
+    "questionText_ar": "ما هي أعلى نتيجة ممكنة في رمية واحدة في البولينج؟",
+    "options_en": ["10", "15", "20", "25"],
+    "options_ar": ["10", "15", "20", "25"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_69",
+    "questionText_en": "Which sport is Tiger Woods famous for?",
+    "questionText_ar": "ما هي الرياضة التي يشتهر بها تايجر وودز؟",
+    "options_en": ["Tennis", "Golf", "Football", "Racing"],
+    "options_ar": ["التنس", "الجولف", "كرة القدم", "السباق"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_70",
+    "questionText_en": "In what year were the first modern Olympic Games held?",
+    "questionText_ar": "في أي عام أقيمت أول ألعاب أولمبية حديثة؟",
+    "options_en": ["1896", "1900", "1920", "1880"],
+    "options_ar": ["1896", "1900", "1920", "1880"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_71",
+    "questionText_en": "Which country won the first-ever World Cup in 1930?",
+    "questionText_ar": "أي دولة فازت بأول كأس عالم عام 1930؟",
+    "options_en": ["Brazil", "Argentina", "Uruguay", "Italy"],
+    "options_ar": ["البرازيل", "الأرجنتين", "الأوروجواي", "إيطاليا"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sports_72",
+    "questionText_en": "How many minutes are in a standard basketball game (NBA)?",
+    "questionText_ar": "كم دقيقة في مباراة كرة السلة القياسية (NBA)؟",
+    "options_en": ["40", "48", "60", "36"],
+    "options_ar": ["40", "48", "60", "36"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_73",
+    "questionText_en": "Which sport uses the term 'Eagle'?",
+    "questionText_ar": "أي رياضة تستخدم مصطلح 'Eagle'؟",
+    "options_en": ["Football", "Tennis", "Golf", "Baseball"],
+    "options_ar": ["كرة القدم", "التنس", "الجولف", "البيسبول"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sports_74",
+    "questionText_en": "What is the term for three strikes in a row in bowling?",
+    "questionText_ar": "ماذا يسمى تسجيل ثلاث ضربات متتالية في البولينج؟",
+    "options_en": ["Double", "Triple", "Turkey", "Strike"],
+    "options_ar": ["دبل", "تربل", "تركي", "سترايك"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sports_75",
+    "questionText_en": "Who is the fastest man in history?",
+    "questionText_ar": "من هو أسرع رجل في التاريخ؟",
+    "options_en": ["Usain Bolt", "Tyson Gay", "Justin Gatlin", "Carl Lewis"],
+    "options_ar": ["يوسين بولت", "تايسون جاي", "جاستن جاتلين", "كارل لويس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_76",
+    "questionText_en": "Which sport is known as the 'gentleman's game'?",
+    "questionText_ar": "ما هي الرياضة المعروفة بـ 'لعبة النبلاء'؟",
+    "options_en": ["Cricket", "Football", "Boxing", "Rugby"],
+    "options_ar": ["الكريكيت", "كرة القدم", "الملاكمة", "الرجبي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_77",
+    "questionText_en": "How many players are on each team in a standard ice hockey match?",
+    "questionText_ar": "كم عدد اللاعبين في كل فريق في مباراة هوكي الجليد؟",
+    "options_en": ["5", "6", "7", "11"],
+    "options_ar": ["5", "6", "7", "11"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_78",
+    "questionText_en": "What is the primary color of the ball in tennis?",
+    "questionText_ar": "ما هو اللون الأساسي لكرة التنس؟",
+    "options_en": ["White", "Yellow", "Green", "Red"],
+    "options_ar": ["أبيض", "أصفر", "أخضر", "أحمر"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_79",
+    "questionText_en": "Which sport involves throwing a heavy metal ball?",
+    "questionText_ar": "أي رياضة تتضمن رمي كرة معدنية ثقيلة؟",
+    "options_en": ["Javelin", "Shot put", "Discus", "Hammer throw"],
+    "options_ar": ["رمي الرمح", "دفع الجلة", "رمي القرص", "رمي المطرقة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_80",
+    "questionText_en": "What does FIFA stand for?",
+    "questionText_ar": "ماذا يعني اختصار FIFA؟",
+    "options_en": ["Football International Federation Association", "Federation Internationale de Football Association", "Federal International Football Agency", "Free International Football Association"],
+    "options_ar": ["الاتحاد الدولي لكرة القدم", "الاتحاد الدولي لكرة القدم (الفرنسية)", "الوكالة الدولية لكرة القدم", "رابطة كرة القدم الدولية"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_81",
+    "questionText_en": "Which country is famous for the Tour de France?",
+    "questionText_ar": "أي دولة تشتهر بسباق 'تور دي فرانس' للدراجات؟",
+    "options_en": ["Italy", "Spain", "France", "Belgium"],
+    "options_ar": ["إيطاليا", "إسبانيا", "فرنسا", "بلجيكا"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sports_82",
+    "questionText_en": "In which sport do you use a 'caddie'?",
+    "questionText_ar": "في أي رياضة تستخدم 'الكادي' (حامل الحقائب)؟",
+    "options_en": ["Tennis", "Golf", "Baseball", "Cricket"],
+    "options_ar": ["التنس", "الجولف", "البيسبول", "الكريكيت"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_83",
+    "questionText_en": "How many innings are in a standard professional baseball game?",
+    "questionText_ar": "كم عدد الأشواط في مباراة البيسبول الاحترافية؟",
+    "options_en": ["7", "9", "11", "5"],
+    "options_ar": ["7", "9", "11", "5"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_84",
+    "questionText_en": "Which sport is played on a velodrome?",
+    "questionText_ar": "ما هي الرياضة التي تُمارس في مضمار الدراجات (Velodrome)؟",
+    "options_en": ["Running", "Cycling", "Swimming", "Horse racing"],
+    "options_ar": ["الجري", "ركوب الدراجات", "السباحة", "سباق الخيل"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_85",
+    "questionText_en": "What is the term for a perfect game in bowling?",
+    "questionText_ar": "ماذا يسمى تسجيل النتيجة الكاملة في البولينج؟",
+    "options_en": ["Strike", "Spare", "300 game", "Turkey"],
+    "options_ar": ["سترايك", "سبير", "لعبة 300", "تركي"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sports_86",
+    "questionText_en": "Who is the most famous swimmer in Olympic history?",
+    "questionText_ar": "من هو أشهر سباح في تاريخ الأولمبياد؟",
+    "options_en": ["Ian Thorpe", "Michael Phelps", "Mark Spitz", "Caeleb Dressel"],
+    "options_ar": ["إيان ثورب", "مايكل فيلبس", "مارك سبيتز", "كايلب دريسل"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_87",
+    "questionText_en": "Which sport uses a 'deuce'?",
+    "questionText_ar": "أي رياضة تستخدم مصطلح 'Deuce' (تعادل)؟",
+    "options_en": ["Basketball", "Tennis", "Football", "Volleyball"],
+    "options_ar": ["كرة السلة", "التنس", "كرة القدم", "الكرة الطائرة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_88",
+    "questionText_en": "What is the weight of a professional boxing glove?",
+    "questionText_ar": "ما هو وزن قفاز الملاكمة الاحترافي؟",
+    "options_en": ["4-6 oz", "8-10 oz", "12-14 oz", "16-18 oz"],
+    "options_ar": ["4-6 أونصة", "8-10 أونصة", "12-14 أونصة", "16-18 أونصة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_89",
+    "questionText_en": "Which sport involves a 'tackle'?",
+    "questionText_ar": "أي رياضة تتضمن 'العرقلة' (tackle)؟",
+    "options_en": ["Tennis", "American Football", "Table Tennis", "Golf"],
+    "options_ar": ["التنس", "كرة القدم الأمريكية", "تنس الطاولة", "الجولف"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_90",
+    "questionText_en": "How many points is a touchdown worth in American Football?",
+    "questionText_ar": "كم عدد النقاط التي يستحقها 'الهبوط' (touchdown) في كرة القدم الأمريكية؟",
+    "options_en": ["3", "6", "7", "2"],
+    "options_ar": ["3", "6", "7", "2"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_91",
+    "questionText_en": "Which sport is played on a pitch?",
+    "questionText_ar": "ما هي الرياضة التي تُمارس في الملعب (pitch)؟",
+    "options_en": ["Basketball", "Football", "Swimming", "Gymnastics"],
+    "options_ar": ["كرة السلة", "كرة القدم", "السباحة", "الجمباز"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_92",
+    "questionText_en": "What is the objective of the game in rugby?",
+    "questionText_ar": "ما هو الهدف من لعبة الرغبي؟",
+    "options_en": ["Kick the ball", "Run with the ball", "Throw the ball", "Hit the ball"],
+    "options_ar": ["ركل الكرة", "الجري بالكرة", "رمي الكرة", "ضرب الكرة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_93",
+    "questionText_en": "How many players are on a volleyball court per team?",
+    "questionText_ar": "كم عدد لاعبي الكرة الطائرة لكل فريق في الملعب؟",
+    "options_en": ["6", "7", "9", "11"],
+    "options_ar": ["6", "7", "9", "11"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_94",
+    "questionText_en": "Which martial art originated in Korea?",
+    "questionText_ar": "أي فن قتالي نشأ في كوريا؟",
+    "options_en": ["Karate", "Taekwondo", "Judo", "Kung Fu"],
+    "options_ar": ["الكاراتيه", "التايكوندو", "الجودو", "الكونغ فو"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_95",
+    "questionText_en": "What is the highest score in tennis?",
+    "questionText_ar": "ما هي النتيجة القصوى في التنس؟",
+    "options_en": ["30", "40", "Game", "Set"],
+    "options_ar": ["30", "40", "شوط", "مجموعة"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sports_96",
+    "questionText_en": "What equipment is used in fencing?",
+    "questionText_ar": "ما هي المعدات المستخدمة في المبارزة؟",
+    "options_en": ["Bat", "Racket", "Sword", "Club"],
+    "options_ar": ["مضرب", "مضرب", "سيف", "نادي"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sports_97",
+    "questionText_en": "In what sport is the term 'checkmate' used?",
+    "questionText_ar": "في أي رياضة يُستخدم مصطلح 'كش ملك' (checkmate)؟",
+    "options_en": ["Tennis", "Chess", "Boxing", "Football"],
+    "options_ar": ["التنس", "الشطرنج", "الملاكمة", "كرة القدم"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_98",
+    "questionText_en": "What does a referee use to signal fouls?",
+    "questionText_ar": "ماذا يستخدم الحكم للإشارة إلى الأخطاء؟",
+    "options_en": ["Whistle", "Flag", "Bell", "Card"],
+    "options_ar": ["صافرة", "علم", "جرس", "بطاقة"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_99",
+    "questionText_en": "Which sport is played on a mat?",
+    "questionText_ar": "ما هي الرياضة التي تُمارس على بساط (mat)؟",
+    "options_en": ["Football", "Wrestling", "Basketball", "Golf"],
+    "options_ar": ["كرة القدم", "المصارعة", "كرة السلة", "الجولف"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_100",
+    "questionText_en": "How many sets are needed to win a grand slam tennis match?",
+    "questionText_ar": "كم مجموعة يحتاج اللاعب للفوز بمباراة جراند سلام؟",
+    "options_en": ["2", "3", "5", "4"],
+    "options_ar": ["2", "3", "5", "4"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_101",
+    "questionText_en": "How many players are on a water polo team in the pool?",
+    "questionText_ar": "كم عدد لاعبي فريق كرة الماء داخل المسبح؟",
+    "options_en": ["5", "7", "9", "11"],
+    "options_ar": ["5", "7", "9", "11"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_102",
+    "questionText_en": "In what sport do you use a 'goalkeeper'?",
+    "questionText_ar": "في أي رياضة تستخدم 'حارس المرمى'؟",
+    "options_en": ["Tennis", "Football", "Golf", "Swimming"],
+    "options_ar": ["التنس", "كرة القدم", "الجولف", "السباحة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_103",
+    "questionText_en": "Which sport is played with a shuttlecock?",
+    "questionText_ar": "ما هي الرياضة التي تُمارس باستخدام الريشة؟",
+    "options_en": ["Tennis", "Badminton", "Table Tennis", "Squash"],
+    "options_ar": ["التنس", "تنس الريشة", "تنس الطاولة", "الاسكواش"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_104",
+    "questionText_en": "What is the distance of a marathon in miles?",
+    "questionText_ar": "ما هي مسافة الماراثون بالميل؟",
+    "options_en": ["20.2", "26.2", "30.5", "10.0"],
+    "options_ar": ["20.2", "26.2", "30.5", "10.0"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_105",
+    "questionText_en": "Who won the most Super Bowl titles?",
+    "questionText_ar": "من فاز بأكبر عدد من ألقاب السوبر بول؟",
+    "options_en": ["Patriots", "Steelers", "Cowboys", "49ers"],
+    "options_ar": ["باتريوتس", "ستيلرز", "كاوبويز", "49ers"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_106",
+    "questionText_en": "Which sport involves a 'bunker'?",
+    "questionText_ar": "أي رياضة تتضمن 'حفرة رملية' (bunker)؟",
+    "options_en": ["Football", "Tennis", "Golf", "Basketball"],
+    "options_ar": ["كرة القدم", "التنس", "الجولف", "كرة السلة"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sports_107",
+    "questionText_en": "How many players are on a cricket team?",
+    "questionText_ar": "كم عدد لاعبي فريق الكريكيت؟",
+    "options_en": ["9", "11", "13", "15"],
+    "options_ar": ["9", "11", "13", "15"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_108",
+    "questionText_en": "What is the speed of a professional tennis serve?",
+    "questionText_ar": "ما هي سرعة إرسال التنس الاحترافي؟",
+    "options_en": ["100 km/h", "200 km/h", "50 km/h", "300 km/h"],
+    "options_ar": ["100 كم/ساعة", "200 كم/ساعة", "50 كم/ساعة", "300 كم/ساعة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_109",
+    "questionText_en": "Which country invented volleyball?",
+    "questionText_ar": "أي دولة اخترعت كرة الطائرة؟",
+    "options_en": ["USA", "Brazil", "Japan", "Russia"],
+    "options_ar": ["الولايات المتحدة", "البرازيل", "اليابان", "روسيا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_110",
+    "questionText_en": "In what sport do you use a 'bat'?",
+    "questionText_ar": "في أي رياضة تستخدم المضرب الخشبي (bat)؟",
+    "options_en": ["Tennis", "Baseball", "Swimming", "Basketball"],
+    "options_ar": ["التنس", "البيسبول", "السباحة", "كرة السلة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_111",
+    "questionText_en": "What is the duration of an NBA basketball game?",
+    "questionText_ar": "ما هي مدة مباراة كرة السلة في NBA؟",
+    "options_en": ["40 mins", "48 mins", "60 mins", "90 mins"],
+    "options_ar": ["40 دقيقة", "48 دقيقة", "60 دقيقة", "90 دقيقة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_112",
+    "questionText_en": "Which sport is known for the 'Triple Crown'?",
+    "questionText_ar": "ما هي الرياضة المعروفة بـ 'التاج الثلاثي'؟",
+    "options_en": ["Tennis", "Horse Racing", "Football", "Cricket"],
+    "options_ar": ["التنس", "سباق الخيل", "كرة القدم", "الكريكيت"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_113",
+    "questionText_en": "What color is the jersey of the Tour de France leader?",
+    "questionText_ar": "ما هو لون قميص متصدر سباق 'تور دي فرانس'؟",
+    "options_en": ["Red", "Yellow", "Green", "White"],
+    "options_ar": ["الأحمر", "الأصفر", "الأخضر", "الأبيض"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_114",
+    "questionText_en": "Which sport is played on a court with a net?",
+    "questionText_ar": "ما هي الرياضة التي تُمارس في ملعب ذي شبكة؟",
+    "options_en": ["Football", "Tennis", "Golf", "Baseball"],
+    "options_ar": ["كرة القدم", "التنس", "الجولف", "البيسبول"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_115",
+    "questionText_en": "Who is the legendary basketball player MJ?",
+    "questionText_ar": "من هو أسطورة كرة السلة MJ؟",
+    "options_en": ["Magic Johnson", "Michael Jordan", "Mitch Richmond", "Mike James"],
+    "options_ar": ["ماجيك جونسون", "مايكل جوردان", "ميتش ريتشموند", "مايك جيمس"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_116",
+    "questionText_en": "What is the main goal in soccer?",
+    "questionText_ar": "ما هو الهدف الرئيسي في كرة القدم؟",
+    "options_en": ["Score a goal", "Hit a ball", "Throw a ball", "Catch a ball"],
+    "options_ar": ["تسجيل هدف", "ضرب الكرة", "رمي الكرة", "إمساك الكرة"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_117",
+    "questionText_en": "Which sport uses a puck?",
+    "questionText_ar": "أي رياضة تستخدم القرص المطاطي (puck)؟",
+    "options_en": ["Football", "Basketball", "Ice Hockey", "Tennis"],
+    "options_ar": ["كرة القدم", "كرة السلة", "هوكي الجليد", "التنس"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sports_118",
+    "questionText_en": "In what sport do you 'score a try'?",
+    "questionText_ar": "في أي رياضة تقوم بـ 'تسجيل محاولة' (try)؟",
+    "options_en": ["Football", "Rugby", "Golf", "Cricket"],
+    "options_ar": ["كرة القدم", "الرجبي", "الجولف", "الكريكيت"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_119",
+    "questionText_en": "What is the standard length of a pool for Olympic swimming?",
+    "questionText_ar": "ما هو الطول القياسي لمسبح السباحة الأولمبي؟",
+    "options_en": ["25m", "50m", "100m", "75m"],
+    "options_ar": ["25م", "50م", "100م", "75م"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_120",
+    "questionText_en": "Which sport is played on a diamond-shaped field?",
+    "questionText_ar": "ما هي الرياضة التي تُمارس في ملعب على شكل ماسة؟",
+    "options_en": ["Football", "Baseball", "Golf", "Tennis"],
+    "options_ar": ["كرة القدم", "البيسبول", "الجولف", "التنس"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_121",
+    "questionText_en": "How many players are on a football field (both teams)?",
+    "questionText_ar": "كم عدد لاعبي كرة القدم في الملعب (الفريقان معاً)؟",
+    "options_en": ["11", "20", "22", "24"],
+    "options_ar": ["11", "20", "22", "24"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": "sports_122",
+    "questionText_en": "Which sport uses a 'club'?",
+    "questionText_ar": "أي رياضة تستخدم العصا (club)؟",
+    "options_en": ["Tennis", "Golf", "Football", "Swimming"],
+    "options_ar": ["التنس", "الجولف", "كرة القدم", "السباحة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_123",
+    "questionText_en": "What is a foul in basketball?",
+    "questionText_ar": "ما هو الخطأ (foul) في كرة السلة؟",
+    "options_en": ["Illegal contact", "Running", "Passing", "Dribbling"],
+    "options_ar": ["اتصال غير قانوني", "الجري", "التمرير", "المراوغة"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_124",
+    "questionText_en": "Which sport is played in a ring?",
+    "questionText_ar": "ما هي الرياضة التي تُمارس في الحلبة (ring)؟",
+    "options_en": ["Tennis", "Boxing", "Football", "Golf"],
+    "options_ar": ["التنس", "الملاكمة", "كرة القدم", "الجولف"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_125",
+    "questionText_en": "How many teams are in a standard football match?",
+    "questionText_ar": "كم عدد الفرق في مباراة كرة القدم الرسمية؟",
+    "options_en": ["1", "2", "3", "4"],
+    "options_ar": ["1", "2", "3", "4"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_126",
+    "questionText_en": "Which sport is famous for the 'Grand Slam' tournaments?",
+    "questionText_ar": "ما هي الرياضة المشهورة ببطولات 'الجراند سلام'؟",
+    "options_en": ["Football", "Tennis", "Basketball", "Rugby"],
+    "options_ar": ["كرة القدم", "التنس", "كرة السلة", "الرجبي"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_127",
+    "questionText_en": "What is the term for hitting a ball out of the field in baseball?",
+    "questionText_ar": "ماذا يسمى ضرب الكرة خارج الملعب في البيسبول؟",
+    "options_en": ["Strike", "Home Run", "Touchdown", "Goal"],
+    "options_ar": ["سترايك", "هوم ران", "تاتش داون", "هدف"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_128",
+    "questionText_en": "Which sport is known for the 'Green Jacket' prize?",
+    "questionText_ar": "ما هي الرياضة المعروفة بجائزة 'السترة الخضراء'؟",
+    "options_en": ["Tennis", "Golf", "Cricket", "Horse Racing"],
+    "options_ar": ["التنس", "الجولف", "الكريكيت", "سباق الخيل"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_129",
+    "questionText_en": "How many players are on a team in a standard Futsal match?",
+    "questionText_ar": "كم عدد لاعبي فريق كرة الصالات (Futsal)؟",
+    "options_en": ["5", "7", "11", "9"],
+    "options_ar": ["5", "7", "11", "9"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_130",
+    "questionText_en": "What is the term for a draw in chess?",
+    "questionText_ar": "ماذا يسمى التعادل في الشطرنج؟",
+    "options_en": ["Stalemate", "Check", "Capture", "Pass"],
+    "options_ar": ["ستاليميت", "كش", "أسر", "تمرير"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_131",
+    "questionText_en": "Which sport is played on ice with stones and brooms?",
+    "questionText_ar": "ما هي الرياضة التي تُمارس على الجليد باستخدام الأحجار والمكانس؟",
+    "options_en": ["Ice Hockey", "Curling", "Skiing", "Skating"],
+    "options_ar": ["هوكي الجليد", "الكيرلنغ", "التزلج", "التزلج على الجليد"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_132",
+    "questionText_en": "What does a tennis player use to hit the ball?",
+    "questionText_ar": "ماذا يستخدم لاعب التنس لضرب الكرة؟",
+    "options_en": ["Bat", "Racket", "Club", "Stick"],
+    "options_ar": ["مضرب خشبي", "مضرب (Racket)", "عصا", "عصا"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_133",
+    "questionText_en": "Which sport is played on a table?",
+    "questionText_ar": "ما هي الرياضة التي تُمارس على طاولة؟",
+    "options_en": ["Basketball", "Table Tennis", "Football", "Golf"],
+    "options_ar": ["كرة السلة", "تنس الطاولة", "كرة القدم", "الجولف"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_134",
+    "questionText_en": "In what sport is the 'Davis Cup' awarded?",
+    "questionText_ar": "في أي رياضة يُمنح 'كأس ديفيس'؟",
+    "options_en": ["Football", "Tennis", "Cricket", "Basketball"],
+    "options_ar": ["كرة القدم", "التنس", "الكريكيت", "كرة السلة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_135",
+    "questionText_en": "What is the duration of a quarter in a basketball game?",
+    "questionText_ar": "ما هي مدة الربع في مباراة كرة السلة؟",
+    "options_en": ["10 mins", "12 mins", "15 mins", "20 mins"],
+    "options_ar": ["10 دقائق", "12 دقيقة", "15 دقيقة", "20 دقيقة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_136",
+    "questionText_en": "Which country hosted the first World Cup?",
+    "questionText_ar": "أي دولة استضافت أول كأس عالم؟",
+    "options_en": ["Brazil", "Uruguay", "France", "Italy"],
+    "options_ar": ["البرازيل", "الأوروجواي", "فرنسا", "إيطاليا"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_137",
+    "questionText_en": "What is the main objective in tennis?",
+    "questionText_ar": "ما هو الهدف الرئيسي في التنس؟",
+    "options_en": ["Hit over the net", "Run fast", "Throw the ball", "Jump high"],
+    "options_ar": ["ضرب الكرة فوق الشبكة", "الجري السريع", "رمي الكرة", "القفز عالياً"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_138",
+    "questionText_en": "Which sport is played with a 12-pound ball in professional competition?",
+    "questionText_ar": "ما هي الرياضة التي تُمارس بكرة وزنها 12 رطلاً في المنافسات الاحترافية؟",
+    "options_en": ["Bowling", "Basketball", "Golf", "Football"],
+    "options_ar": ["البولينج", "كرة السلة", "الجولف", "كرة القدم"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_139",
+    "questionText_en": "What is the score when players are 40-40 in tennis?",
+    "questionText_ar": "ماذا تسمى النتيجة عندما يكون اللاعبان 40-40 في التنس؟",
+    "options_en": ["Deuce", "Game", "Set", "Tie"],
+    "options_ar": ["تعادل (Deuce)", "لعبة", "مجموعة", "تعادل"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_140",
+    "questionText_en": "How many teams make it to the World Cup final?",
+    "questionText_ar": "كم عدد الفرق التي تصل إلى نهائي كأس العالم؟",
+    "options_en": ["1", "2", "3", "4"],
+    "options_ar": ["1", "2", "3", "4"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_141",
+    "questionText_en": "Which sport is known for 'dunking'?",
+    "questionText_ar": "ما هي الرياضة المشهورة بـ 'الدانك' (dunking)؟",
+    "options_en": ["Football", "Basketball", "Tennis", "Baseball"],
+    "options_ar": ["كرة القدم", "كرة السلة", "التنس", "البيسبول"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_142",
+    "questionText_en": "What do players wear in fencing to protect their face?",
+    "questionText_ar": "ماذا يرتدي لاعبو المبارزة لحماية وجوههم؟",
+    "options_en": ["Helmet", "Mask", "Hat", "Cap"],
+    "options_ar": ["خوذة", "قناع", "قبعة", "غطاء رأس"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_143",
+    "questionText_en": "Which sport is played with a net on a hard surface?",
+    "questionText_ar": "ما هي الرياضة التي تُمارس بشبكة على سطح صلب؟",
+    "options_en": ["Football", "Tennis", "Basketball", "Baseball"],
+    "options_ar": ["كرة القدم", "التنس", "كرة السلة", "البيسبول"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_144",
+    "questionText_en": "What is the length of a professional football match?",
+    "questionText_ar": "ما هي مدة مباراة كرة القدم الاحترافية؟",
+    "options_en": ["45 mins", "90 mins", "100 mins", "120 mins"],
+    "options_ar": ["45 دقيقة", "90 دقيقة", "100 دقيقة", "120 دقيقة"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_145",
+    "questionText_en": "Which sport involves 'serving'?",
+    "questionText_ar": "أي رياضة تتضمن 'الإرسال' (serving)؟",
+    "options_en": ["Football", "Tennis", "Baseball", "Golf"],
+    "options_ar": ["كرة القدم", "التنس", "البيسبول", "الجولف"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "sports_146",
+    "questionText_en": "How many players are in a starting basketball lineup?",
+    "questionText_ar": "كم عدد اللاعبين في التشكيلة الأساسية لكرة السلة؟",
+    "options_en": ["5", "6", "7", "11"],
+    "options_ar": ["5", "6", "7", "11"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_147",
+    "questionText_en": "What is the term for a tie in many sports?",
+    "questionText_ar": "ماذا يسمى التعادل في العديد من الرياضات؟",
+    "options_en": ["Draw", "Win", "Lose", "Score"],
+    "options_ar": ["تعادل (Draw)", "فوز", "خسارة", "نتيجة"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_148",
+    "questionText_en": "Which sport uses a ball and a stick?",
+    "questionText_ar": "أي رياضة تستخدم كرة وعصا؟",
+    "options_en": ["Golf", "Tennis", "Football", "Swimming"],
+    "options_ar": ["الجولف", "التنس", "كرة القدم", "السباحة"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_149",
+    "questionText_en": "What is the objective of the game of baseball?",
+    "questionText_ar": "ما هو الهدف من لعبة البيسبول؟",
+    "options_en": ["Run bases", "Kick the ball", "Throw the ball", "Hit the ball"],
+    "options_ar": ["الجري بين القواعد", "ركل الكرة", "رمي الكرة", "ضرب الكرة"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "sports_150",
+    "questionText_en": "Which sport has the most fans globally?",
+    "questionText_ar": "ما هي الرياضة الأكثر شعبية عالمياً؟",
+    "options_en": ["Football", "Cricket", "Basketball", "Tennis"],
+    "options_ar": ["كرة القدم", "الكريكيت", "كرة السلة", "التنس"],
+    "correctAnswerIndex": 0
   }
 ]
