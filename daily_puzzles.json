@@ -1,19 +1,903 @@
 {
   "puzzles": [
     {
-      "id": 1,
-      "day": 1,
-      "question": "ما هو الشيء الذي كلما أخذت منه كبر؟",
-      "options": ["الحفرة", "الجبل", "البحر", "السحاب"],
-      "correctAnswer": "الحفرة",
+      "id": "puzzle_01",
+      "questionText_en": "What has to be broken before you can use it?",
+      "questionText_ar": "ما الذي يجب كسره قبل أن تتمكن من استخدامه؟",
+      "options_en": ["An egg", "A lock", "A coconut", "A window"],
+      "options_ar": ["بيضة", "قفل", "جوز الهند", "نافذة"],
+      "correctAnswerIndex": 0,
       "reward": 30
     },
     {
-      "id": 2,
-      "day": 2,
-      "question": "ما هو الشيء الذي يتكلم جميع لغات العالم ولكنه لا يملك لساناً؟",
-      "options": ["راديو", "صدى الصوت", "الكمبيوتر", "الكتاب"],
-      "correctAnswer": "صدى الصوت",
+      "id": "puzzle_02",
+      "questionText_en": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+      "questionText_ar": "أتكلم بلا فم وأسمع بلا آذان. ليس لدي جسد، لكني أحيى مع الريح. فمن أنا؟",
+      "options_en": ["Fire", "An echo", "A cloud", "A shadow"],
+      "options_ar": ["النار", "صدى الصوت", "سحابة", "ظل"],
+      "correctAnswerIndex": 1,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_03",
+      "questionText_en": "I have keys but no locks. I have space but no room. You can enter, but can't go outside. What am I?",
+      "questionText_ar": "لدى مفاتيح ولكن لا أقفال. لدي مساحة ولكن لا غرف. يمكنك الدخول ولكن لا يمكنك الخروج. فمن أنا؟",
+      "options_en": ["A piano", "A keyboard", "A map", "A house"],
+      "options_ar": ["بيانو", "لوحة مفاتيح الكمبيوتر", "خريطة", "منزل"],
+      "correctAnswerIndex": 1,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_04",
+      "questionText_en": "What gets wetter the more it dries?",
+      "questionText_ar": "ما الذي يزداد بللاً كلما جفف شيئاً؟",
+      "options_en": ["A sponge", "Water", "A towel", "A soap"],
+      "options_ar": ["إسفنجة", "ماء", "منشفة", "صابون"],
+      "correctAnswerIndex": 2,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_05",
+      "questionText_en": "What has one eye, but cannot see?",
+      "questionText_ar": "ما الذي له عين واحدة ولكن لا يمكنه الرؤية؟",
+      "options_en": ["A needle", "A storm", "A potato", "A fish"],
+      "options_ar": ["إبرة الخياطة", "عاصفة", "بطاطس", "سمكة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_06",
+      "questionText_en": "What has many teeth, but cannot bite?",
+      "questionText_ar": "ما الذي لديه أسنان كثيرة ولكن لا يقدر على العض؟",
+      "options_en": ["A saw", "A comb", "A shark", "A zipper"],
+      "options_ar": ["منشار", "مشط الشعر", "سمك القرش", "سحاب الملابس"],
+      "correctAnswerIndex": 1,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_07",
+      "questionText_en": "What goes up and down but never moves?",
+      "questionText_ar": "ما الذي يصعد وينزل ولكنه لا يتحرك أبداً من مكانه؟",
+      "options_en": ["An elevator", "The temperature", "A staircase", "A mountain"],
+      "options_ar": ["مصعد", "درجة الحرارة", "الدرج (السلم)", "جبل"],
+      "correctAnswerIndex": 2,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_08",
+      "questionText_en": "What can travel all around the world while staying in a corner?",
+      "questionText_ar": "ما الذي يمكنه السفر حول العالم كله بينما يستقر في مكانه بزاوية؟",
+      "options_en": ["A stamp", "A coin", "A globe", "A letter"],
+      "options_ar": ["طابع البريد", "عملة معدنية", "مجسم الكرة الأرضية", "رسالة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_09",
+      "questionText_en": "What has a head and a tail, but no body?",
+      "questionText_ar": "ما الذي له رأس وذيل ولكن ليس له جسد؟",
+      "options_en": ["A snake", "A coin", "A comet", "A pin"],
+      "options_ar": ["ثعبان", "قطعة معدنية (عملة)", "مذنب", "دبوس"],
+      "correctAnswerIndex": 1,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_10",
+      "questionText_en": "What is full of holes but still holds water?",
+      "questionText_ar": "ما المليء بالثقوب ولكنه مع ذلك يحتفظ بالماء؟",
+      "options_en": ["A net", "A sponge", "A bucket", "A strainer"],
+      "options_ar": ["شبكة", "إسفنجة", "دلو", "مصفاة"],
+      "correctAnswerIndex": 1,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_11",
+      "questionText_en": "What is so fragile that saying its name breaks it?",
+      "questionText_ar": "ما هو الشيء شديد الهشاشة لدرجة أن مجرد نطق اسمه يكسره؟",
+      "options_en": ["Glass", "Silence", "A promise", "An egg"],
+      "options_ar": ["زجاج", "الصمت", "وعد", "بيضة"],
+      "correctAnswerIndex": 1,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_12",
+      "questionText_en": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+      "questionText_ar": "ما الذي يأتي مرة واحدة في الدقيقة، ومرتين في اللحظة، ولكن لا يأتي أبداً في ألف سنة؟",
+      "options_en": ["The letter M", "Time", "A heartbeat", "The number 1"],
+      "options_ar": ["حرف الميم (M)", "الوقت", "نبضة قلب", "الرقم 1"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_13",
+      "questionText_en": "What can you catch, but not throw?",
+      "questionText_ar": "ما الذي يمكنك التقاطه ولكن لا يمكنك رميه؟",
+      "options_en": ["A cold", "A ball", "A Frisbee", "A fish"],
+      "options_ar": ["مرض البرد (الرشح)", "كرة", "قرص طائر", "سمكة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_14",
+      "questionText_en": "What has hands, but cannot clap?",
+      "questionText_ar": "ما الذي لديه يدين ولكن لا يستطيع التصفيق؟",
+      "options_en": ["A person", "A clock", "A robot", "A statue"],
+      "options_ar": ["إنسان", "ساعة الحائط", "روبوت", "تمثال"],
+      "correctAnswerIndex": 1,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_15",
+      "questionText_en": "Where does today come before yesterday?",
+      "questionText_ar": "أين يأتي اليوم قبل الأمس؟",
+      "options_en": ["In the dictionary", "In history", "In a dream", "In physics"],
+      "options_ar": ["في القاموس (المعجم)", "في التاريخ", "في الحلم", "في الفيزياء"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_16",
+      "questionText_en": "What building has the most stories?",
+      "questionText_ar": "أي مبنى يحتوي على أكبر عدد من القصص (الطبقات/الحكايات)؟",
+      "options_en": ["A skyscraper", "A library", "A hotel", "A school"],
+      "options_ar": ["ناطحة سحاب", "مكتبة", "فندق", "مدرسة"],
+      "correctAnswerIndex": 1,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_17",
+      "questionText_en": "What goes around the world and stays in a corner?",
+      "questionText_ar": "ما الذي يطوف حول العالم ويبقى في الزاوية؟",
+      "options_en": ["A stamp", "A compass", "A map", "Dust"],
+      "options_ar": ["طابع بريد", "بوصلة", "خريطة", "الغبار"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_18",
+      "questionText_en": "What has legs, but cannot walk?",
+      "questionText_ar": "ما الذي لديه سيقان (أرجل) ولكن لا يمكنه المشي؟",
+      "options_en": ["A table", "A dog", "A car", "A snake"],
+      "options_ar": ["طاولة", "كلب", "سيارة", "ثعبان"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_19",
+      "questionText_en": "What is black when it’s clean and white when it’s dirty?",
+      "questionText_ar": "ما هو الأسود عندما يكون نظيفاً والأبيض عندما يكون متسخاً؟",
+      "options_en": ["A chalkboard", "Coal", "Shoes", "A tire"],
+      "options_ar": ["سبورة سوداء (للكتابة بالطباشير)", "فحم", "أحذية", "إطار سيارة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_20",
+      "questionText_en": "What can you keep after giving it to someone?",
+      "questionText_ar": "ما الذي يمكنك الاحتفاظ به حتى بعد إعطائه لشخص آخر؟",
+      "options_en": ["Your word", "Money", "Food", "Keys"],
+      "options_ar": ["كلمتك (وعْدك)", "المال", "الطعام", "المفاتيح"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_21",
+      "questionText_en": "I am full of water, but I never get wet. What am I?",
+      "questionText_ar": "أنا مليء بالماء، لكني لا أبتل أبداً فمن أنا؟",
+      "options_en": ["A sponge", "A cloud", "A bottle", "The ocean"],
+      "options_ar": ["إسفنجة", "سحابة", "زجاجة", "المحيط"],
+      "correctAnswerIndex": 1,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_22",
+      "questionText_en": "What has a neck, but no head?",
+      "questionText_ar": "ما الذي له رقبة ولكن ليس له رأس؟",
+      "options_en": ["A shirt", "A bottle", "A guitar", "A snake"],
+      "options_ar": ["قميص", "زجاجة", "جيتار", "ثعبان"],
+      "correctAnswerIndex": 1,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_23",
+      "questionText_en": "What has a face and two hands, but no arms or legs?",
+      "questionText_ar": "ما الذي له وجه ويدان، ولكن ليس له أذرع أو أرجل؟",
+      "options_en": ["A clock", "A doll", "A monster", "A robot"],
+      "options_ar": ["ساعة", "دمية", "وحش", "روبوت"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_24",
+      "questionText_en": "What is light as a feather, but even the strongest person cannot hold it for long?",
+      "questionText_ar": "ما هو خفيف كریشة، ولكن لا يستطيع أقوى الناس حمله لفترة طويلة؟",
+      "options_en": ["Breath", "Air", "Water", "A shadow"],
+      "options_ar": ["النفس (الأنفاس)", "هواء", "ماء", "ظل"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_25",
+      "questionText_en": "What goes through cities and fields, but never moves?",
+      "questionText_ar": "ما الذي يمر عبر المدن والحقول ولكنه لا يتحرك أبداً؟",
+      "options_en": ["A road", "A river", "A train", "Wind"],
+      "options_ar": ["طريق", "نهر", "قطار", "ريح"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_26",
+      "questionText_en": "What has an infinite number of problems, but no answers?",
+      "questionText_ar": "ما الذي يحتوي على عدد لا نهائي من المشاكل، ولكن ليس لديه إجابات؟",
+      "options_en": ["Math test", "The internet", "A computer", "A puzzle"],
+      "options_ar": ["اختبار رياضيات", "إنترنت", "كمبيوتر", "لغز"],
+      "correctAnswerIndex": 1,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_27",
+      "questionText_en": "What belongs to you, but everyone else uses it more than you do?",
+      "questionText_ar": "ما الذي يخصك، ولكل شخص آخر يستخدمه أكثر منك؟",
+      "options_en": ["Your name", "Your car", "Your phone", "Your house"],
+      "options_ar": ["اسمك", "سيارتك", "هاتفك", "منزلك"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_28",
+      "questionText_en": "What starts with a T, ends with a T, and has T in it?",
+      "questionText_ar": "ما الذي يبدأ بحرف T، وينتهي بحرف T، ويحتوي على الشاي (T) بداخله؟",
+      "options_en": ["A teapot", "A tent", "A target", "A throat"],
+      "options_ar": ["إبريق شاي (Teapot)", "خيمة", "هدف", "حلق"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_29",
+      "questionText_en": "If you drop me, I’m sure to crack, but give me a smile and I’ll always smile back. What am I?",
+      "questionText_ar": "إذا أسقطتني فسوف أنكسر بالتأكيد، ولكن امنحني ابتسامة وسأبتسم لك بالمثل دائماً. فمن أنا؟",
+      "options_en": ["A mirror", "An egg", "Glass", "A phone"],
+      "options_ar": ["مرآة", "بيضة", "زجاج", "هاتف"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_30",
+      "questionText_en": "What is made of water, but if you put it into water it will die?",
+      "questionText_ar": "ما المصنوع من الماء، ولكن إذا وضعته في الماء فسوف يذوب أو يموت؟",
+      "options_en": ["Ice", "Fish", "Salt", "Plastic"],
+      "options_ar": ["ثلج", "سمك", "ملح", "بلاستيك"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_31",
+      "questionText_en": "What has 4 fingers and a thumb, but has no flesh or bones?",
+      "questionText_ar": "ما الذي له 4 أصابع وإبهام، ولكن ليس له لحم أو عظام؟",
+      "options_en": ["A glove", "A robot", "A skeleton", "A drawing"],
+      "options_ar": ["قفاز (قُفّاز اليد)", "روبوت", "هيكل عظمي", "رسمة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_32",
+      "questionText_en": "What is dark and sits at the bottom of the ocean?",
+      "questionText_ar": "ما هو الشيء المظلم الذي يستقر في قاع المحيط؟",
+      "options_en": ["A shipwreck", "A whale", "A submarine", "A rock"],
+      "options_ar": ["سفينة غارقة", "حوت", "غواصة", "صخرة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_33",
+      "questionText_en": "What can you break, even if you never pick it up or touch it?",
+      "questionText_ar": "ما الذي يمكنك كسره، حتى لو لم تقم برفعه أو لمسه أبداً؟",
+      "options_en": ["A promise", "A heart", "A glass", "A branch"],
+      "options_ar": ["وعد (عهد)", "قلب", "زجاج", "غصن شجرة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_34",
+      "questionText_en": "What goes up when rain comes down?",
+      "questionText_ar": "ما الذي يصعد للأعلى عندما ينزل المطر للأسفل؟",
+      "options_en": ["An umbrella", "A river", "A plant", "A kite"],
+      "options_ar": ["مظلة المطر (الشمسية)", "نهر", "نبات", "طائرة ورقية"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_35",
+      "questionText_en": "What has to be fed, but never eats?",
+      "questionText_ar": "ما الذي يجب إطعامه، ولكنه لا يأكل أبداً؟",
+      "options_en": ["A fire", "A baby", "A plant", "A dog"],
+      "options_ar": ["النار (تحتاج حطب لتشتعل)", "طفل", "نبات", "كلب"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_36",
+      "questionText_en": "What word is spelled incorrectly in every single dictionary?",
+      "questionText_ar": "ما هي الكلمة التي يتم تهجئتها بشكل خاطئ دائماً في كل القواميس؟",
+      "options_en": ["Incorrectly", "Wrong", "Dictionary", "Spelling"],
+      "options_ar": ["بشكل خاطئ (Incorrectly)", "خطأ", "قاموس", "تهجئة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_37",
+      "questionText_en": "What is full of keys but opens no doors?",
+      "questionText_ar": "ما المليء بالمفاتيح ولكنه لا يفتح أي أبواب؟",
+      "options_en": ["A keyboard", "A piano", "A music box", "A keychain"],
+      "options_ar": ["لوحة مفاتيح (Keyboard)", "بيانو", "صندوق موسيقى", "ميدالية مفاتيح"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_38",
+      "questionText_en": "What runs around the whole yard without moving?",
+      "questionText_ar": "ما الذي يجري حول الفناء بأكمله دون أن يتحرك من مكانه؟",
+      "options_en": ["A fence", "A dog", "A path", "Grass"],
+      "options_ar": ["سياج (سور الفناء)", "كلب", "ممر", "عشب"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_39",
+      "questionText_en": "What can you open, but never close?",
+      "questionText_ar": "ما الذي يمكنك فتحه، ولكن لا يمكنك إغلاقه أبداً؟",
+      "options_en": ["An egg", "A door", "A box", "A book"],
+      "options_ar": ["بيضة", "باب", "صندوق", "كتاب"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_40",
+      "questionText_en": "What has a thumb and four fingers, but is not alive?",
+      "questionText_ar": "ما الذي له إبهام وأربعة أصابع، ولكنه ليس حياً؟",
+      "options_en": ["A glove", "A hand sculpture", "A robot hand", "A mannequin"],
+      "options_ar": ["قفاز", "تمثال يد", "يد روبوت", "مانيكان"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_41",
+      "questionText_en": "What kind of coat is best put on wet?",
+      "questionText_ar": "ما هو نوع المعطف الذي يُفضل ارتدائه وهو مبلل؟",
+      "options_en": ["A coat of paint", "A rain coat", "A winter coat", "A jacket"],
+      "options_ar": ["طبقة من الطلاء (دهان)", "معطف المطر", "معطف شتوي", "جاكيت"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_42",
+      "questionText_en": "What has wheels and flies, but is not an airplane?",
+      "questionText_ar": "ما الذي له عجلات ويطير، ولكنه ليس طائرة؟",
+      "options_en": ["A garbage truck", "A bird", "A bus", "A bicycle"],
+      "options_ar": ["شاحنة القمامة", "طائر", "حافلة", "دراجة هوائية"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_43",
+      "questionText_en": "What has roots as nobody sees, is taller than trees, up, up it goes, and yet never grows?",
+      "questionText_ar": "ما له جذور لا يراها أحد، وأطول من الأشجار، يصعد للأعلى ولا ينمو أبداً؟",
+      "options_en": ["A mountain", "A skyscraper", "A cloud", "A ladder"],
+      "options_ar": ["جبل", "ناطحة سحاب", "سحابة", "سلم"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_44",
+      "questionText_en": "What can fill a room but takes up no space?",
+      "questionText_ar": "ما الذي يمكنه ملء غرفة بأكملها ولكنه لا يشغل أي مساحة؟",
+      "options_en": ["Light", "Air", "Water", "Gas"],
+      "options_ar": ["الضوء", "هواء", "ماء", "غاز"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_45",
+      "questionText_en": "If two's company, and three's a crowd, what are four and five?",
+      "questionText_ar": "إذا كان اثنان شركة وثلاثة زحمة، فما هما الأربعة والخمسة؟",
+      "options_en": ["Nine", "Ten", "Eight", "Seven"],
+      "options_ar": ["تسعة (حاصل جمعهما)", "عشرة", "ثمانية", "سبعة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_46",
+      "questionText_en": "What is so much bigger when it’s empty than when it’s full?",
+      "questionText_ar": "ما هو الأكبر بكثير عندما يكون فارغاً مقارنة بما يكون عليه عندما يكون ممتلئاً؟",
+      "options_en": ["A hole", "A balloon", "A cup", "A box"],
+      "options_ar": ["حفرة", "بالون", "كوب", "صندوق"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_47",
+      "questionText_en": "What has 13 hearts, but no other organs?",
+      "questionText_ar": "ما الذي يحتوي على 13 قلباً، وليس لديه أي أعضاء أخرى؟",
+      "options_en": ["A deck of cards", "A puzzle", "A robot", "A toy"],
+      "options_ar": ["ورقة اللعب (الكوتشينة)", "لغز", "روبوت", "لعبة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_48",
+      "questionText_en": "What goes on four legs in the morning, two legs in the afternoon, and three legs in the evening?",
+      "questionText_ar": "ما الذي يمشي على أربع أرجل في الصباح، وعلى رجلين في الظهيرة، وعلى ثلاث أرجل في المساء؟",
+      "options_en": ["Man", "A dog", "A cat", "A bird"],
+      "options_ar": ["الإنسان (طفل يحبو، شاب يمشي، عِصيّة الشيخوخة)", "كلب", "قطة", "طائر"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_49",
+      "questionText_en": "What can you keep after giving it to your friend?",
+      "questionText_ar": "ما الذي يمكنك الاحتفاظ به حتى بعد إعطائه لصديقك؟",
+      "options_en": ["Your secret", "Your money", "Your food", "Your shirt"],
+      "options_ar": ["سرك", "مالك", "طعامك", "قميصك"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_50",
+      "questionText_en": "What is orange and sounds like a parrot?",
+      "questionText_ar": "ما هو الشيء البرتقالي الذي يشبه صوته صوت الببغاء؟",
+      "options_en": ["A carrot", "An orange", "A peach", "A pumpkin"],
+      "options_ar": ["جزر (Carrot تشبه صوت Parrot)", "برتقالة", "خوخ", "يقطين"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_51",
+      "questionText_en": "What has a bottom at the top?",
+      "questionText_ar": "ما الذي توجد قاعدته في الأعلى؟",
+      "options_en": ["A leg", "A hat", "A shoe", "A tree"],
+      "options_ar": ["ساق (أو الجبل المقلوب)", "قبعة", "حذاء", "شجرة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_52",
+      "questionText_en": "What gets bigger the more you take away from it?",
+      "questionText_ar": "ما الذي يزداد حجماً كلما أخذت منه أكثر؟",
+      "options_en": ["A hole", "A mountain", "A pile of gold", "An ocean"],
+      "options_ar": ["حفرة", "جبل", "كومة ذهب", "محيط"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_53",
+      "questionText_en": "What is dark, but made by light?",
+      "questionText_ar": "ما هو مظلم، ولكنه ينتج بسبب الضوء؟",
+      "options_en": ["A shadow", "The night", "A cave", "Charcoal"],
+      "options_ar": ["الظل", "الليل", "كهف", "فحم"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_54",
+      "questionText_en": "What can you hear, but not touch or see?",
+      "questionText_ar": "ما الذي يمكنك سماعه، ولكن لا يمكنك لمسه أو رؤيته؟",
+      "options_en": ["Your voice", "The wind", "Thunder", "Music"],
+      "options_ar": ["صوتك", "الرياح", "الرعد", "الموسيقى"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_55",
+      "questionText_en": "What has many keys, but cannot lock a single door?",
+      "questionText_ar": "ما الذي يحتوي على مفاتيح كثيرة، ولكنه لا يستطيع إغلاق باب واحد؟",
+      "options_en": ["A piano", "A keychain", "A house", "A car"],
+      "options_ar": ["بيانو", "ميدالية مفاتيح", "منزل", "سيارة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_56",
+      "questionText_en": "What is made to drive away, but never drives?",
+      "questionText_ar": "ما المصنوع ليتم قيادته بعيداً، ولكنه لا يقود أبداً؟",
+      "options_en": ["A golf ball", "A car", "A bicycle", "A train"],
+      "options_ar": ["كرة الجولف", "سيارة", "دراجة", "قطار"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_57",
+      "questionText_en": "What has a head, a tail, is brown, and has no legs?",
+      "questionText_ar": "ما الذي له رأس وذيل، وبلونه البني، وليس له أرجل؟",
+      "options_en": ["A penny", "A snake", "A worm", "A stick"],
+      "options_ar": ["عملة معدنية بنية (Penny)", "ثعبان", "دودة", "عصا"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_58",
+      "questionText_en": "What has teeth, but cannot eat anything?",
+      "questionText_ar": "ما الذي لديه أسنان، ولكنه لا يستطيع أكل أي شيء؟",
+      "options_en": ["A comb", "A shark", "A tiger", "A baby"],
+      "options_ar": ["مشط الشعر", "سمك قرش", "نمر", "طفل صغير"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_59",
+      "questionText_en": "What has a tongue, but cannot speak?",
+      "questionText_ar": "ما الذي لديه لسان، ولكنه لا يستطيع التحدث؟",
+      "options_en": ["A shoe", "A snake", "A frog", "A bell"],
+      "options_ar": ["حذاء (لسان الحذاء)", "ثعبان", "ضفدع", "جرس"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_60",
+      "questionText_en": "What has eyes, but cannot see anything?",
+      "questionText_ar": "ما الذي له عيون، ولكنه لا يستطيع رؤية أي شيء؟",
+      "options_en": ["A potato", "A cat", "An owl", "A person"],
+      "options_ar": ["بطاطس (عيون البطاطس)", "قطة", "بومة", "إنسان"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_61",
+      "questionText_en": "What has a spine, but no bones?",
+      "questionText_ar": "ما الذي له عمود فقري (فهرس)، ولكن ليس له عظام؟",
+      "options_en": ["A book", "A fish", "A snake", "A turtle"],
+      "options_ar": ["كتاب", "سمكة", "ثعبان", "سلحفاة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_62",
+      "questionText_en": "What has to be open before it works?",
+      "questionText_ar": "ما الذي يجب فتحه لكي يعمل؟",
+      "options_en": ["An umbrella", "A door", "A box", "A computer"],
+      "options_ar": ["مظلة المطر", "باب", "صندوق", "كمبيوتر"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_63",
+      "questionText_en": "What is full of water and can swim?",
+      "questionText_ar": "ما المليء بالماء ويمكنه السباحة؟",
+      "options_en": ["A fish", "A boat", "A sponge", "A cloud"],
+      "options_ar": ["سمكة", "قارب", "إسفنجة", "سحابة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_64",
+      "questionText_en": "What has four fingers and a thumb, but no blood?",
+      "questionText_ar": "ما الذي له أربعة أصابع وإبهام، ولكن ليس له دم؟",
+      "options_en": ["A glove", "A zombie", "A ghost", "A statue"],
+      "options_ar": ["قفاز اليد", "زومبي", "شبح", "تمثال"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_65",
+      "questionText_en": "What has a start, a middle, and an end, but no story?",
+      "questionText_ar": "ما الذي له بداية ونهاية ووسط، ولكن ليس له قصة؟",
+      "options_en": ["A pencil", "A book", "A movie", "A road"],
+      "options_ar": ["قلم رصاص", "كتاب", "فيلم", "طريق"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_66",
+      "questionText_en": "What has feet, but cannot walk?",
+      "questionText_ar": "ما الذي له قدمين، ولكنه لا يستطيع المشي؟",
+      "options_en": ["A mountain", "A table", "A chair", "A bed"],
+      "options_ar": ["جبل", "طاولة", "كرسي", "سرير"],
+      "correctAnswerIndex": 1,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_67",
+      "questionText_en": "What has a golden head and a golden tail, but no body?",
+      "questionText_ar": "ما الذي له رأس ذهبي وذيل ذهبي، ولكن ليس له جسد؟",
+      "options_en": ["A golden coin", "A crown", "A ring", "A star"],
+      "options_ar": ["عملة ذهبية", "تاج", "خاتم", "نجمة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_68",
+      "questionText_en": "What goes up when the water goes down?",
+      "questionText_ar": "ما الذي يصعد للأعلى عندما ينخفض مستوى الماء؟",
+      "options_en": ["An anchor", "A boat", "A fish", "A swimmer"],
+      "options_ar": ["مرساة السفينة (الأنكر)", "قارب", "سمكة", "سباح"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_69",
+      "questionText_en": "What has a single eye, but can look all around?",
+      "questionText_ar": "ما الذي له عين واحدة، ولكنه يستطيع النظر في كل الاتجاهات؟",
+      "options_en": ["A storm", "A camera", "A needle", "A ring"],
+      "options_ar": ["عاصفة (عين العاصفة)", "كاميرا", "إبرة", "خاتم"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_70",
+      "questionText_en": "What has words, but never speaks?",
+      "questionText_ar": "ما الذي يحتوي على كلمات، ولكنه لا يتحدث أبداً؟",
+      "options_en": ["A book", "A radio", "A person", "A computer"],
+      "options_ar": ["كتاب", "راديو", "شخص", "كمبيوتر"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_71",
+      "questionText_en": "What has a core, but no apple?",
+      "questionText_ar": "ما الذي له نواة (لب داخلي)، ولكن ليس تفاحة؟",
+      "options_en": ["The Earth", "An orange", "A banana", "A peach"],
+      "options_ar": ["الأرض (لب الأرض)", "برتقال", "موز", "خوخ"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_72",
+      "questionText_en": "What has legs, but cannot run?",
+      "questionText_ar": "ما الذي له أرجل، ولكنه لا يستطيع الجري؟",
+      "options_en": ["A chair", "A horse", "A dog", "A cat"],
+      "options_ar": ["كرسي", "حصان", "كلب", "قطة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_73",
+      "questionText_en": "What has to be lit to give light?",
+      "questionText_ar": "ما الذي يجب إشعاله ليعطي ضوءاً؟",
+      "options_en": ["A candle", "A lamp", "The sun", "A star"],
+      "options_ar": ["شمعة", "مصباح", "الشمس", "نجمة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_74",
+      "questionText_en": "What has wings, but cannot fly?",
+      "questionText_ar": "ما الذي له أجنحة، ولكنه لا يستطيع الطيران؟",
+      "options_en": ["A building", "A bird", "A plane", "An insect"],
+      "options_ar": ["مبنى (أجنحة المبنى)", "طائر", "طائرة", "حشرة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_75",
+      "questionText_en": "What has keys, but cannot lock anything?",
+      "questionText_ar": "ما الذي له مفاتيح، ولكنه لا يقفل أي شيء؟",
+      "options_en": ["A keyboard", "A door", "A chest", "A safe"],
+      "options_ar": ["لوحة مفاتيح", "باب", "صندوق", "خزنة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_76",
+      "questionText_en": "What is always coming, but never arrives?",
+      "questionText_ar": "ما الذي يأتي دائماً، ولكنه لا يصل أبداً؟",
+      "options_en": ["Tomorrow", "Yesterday", "Today", "Now"],
+      "options_ar": ["الغد (Tomorrow)", "أمس", "اليوم", "الآن"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_77",
+      "questionText_en": "What has a head and a foot, but no body?",
+      "questionText_ar": "ما الذي له رأس وقدم، ولكن ليس له جسد؟",
+      "options_en": ["A bed", "A snake", "A person", "A chair"],
+      "options_ar": ["سرير (رأس وقدم السرير)", "ثعبان", "إنسان", "كرسي"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_78",
+      "questionText_en": "What can you break without touching it?",
+      "questionText_ar": "ما الذي يمكنك كسره دون لمسه؟",
+      "options_en": ["A promise", "A rock", "A tree", "A glass"],
+      "options_ar": ["وعد", "صخرة", "شجرة", "زجاج"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_79",
+      "questionText_en": "What has a mouth, but never speaks?",
+      "questionText_ar": "ما الذي له فم، ولكنه لا يتحدث أبداً؟",
+      "options_en": ["A river", "A person", "A bird", "A cat"],
+      "options_ar": ["نهر (فم النهر)", "إنسان", "طائر", "قطة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_80",
+      "questionText_en": "What has hands, but cannot hold anything?",
+      "questionText_ar": "ما الذي له أيدٍ، ولكنه لا يستطيع حمل أي شيء؟",
+      "options_en": ["A clock", "A person", "A robot", "A monkey"],
+      "options_ar": ["ساعة", "إنسان", "روبوت", "قرد"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_81",
+      "questionText_en": "What is full of holes, but still holds water?",
+      "questionText_ar": "ما المليء بالثقوب، ولكنه يحتفظ بالماء؟",
+      "options_en": ["A sponge", "A net", "A bucket", "A bottle"],
+      "options_ar": ["إسفنجة", "شبكة", "دلو", "زجاجة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_82",
+      "questionText_en": "What has to be broken before you can eat it?",
+      "questionText_ar": "ما الذي يجب كسره قبل أن تتمكن من أكله؟",
+      "options_en": ["A nut", "An apple", "A banana", "Bread"],
+      "options_ar": ["جوز (أو مكسرات)", "تفاحة", "موز", "خبز"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_83",
+      "questionText_en": "What has a face, but no eyes?",
+      "questionText_ar": "ما الذي له وجه، ولكنه ليس له عيون؟",
+      "options_en": ["A clock", "A person", "An animal", "A statue"],
+      "options_ar": ["ساعة", "إنسان", "حيوان", "تمثال"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_84",
+      "questionText_en": "What is hard to find and easy to lose?",
+      "questionText_ar": "ما هو الصعب العثور عليه والسهل جداً فقدانه؟",
+      "options_en": ["Time", "Money", "A key", "A friend"],
+      "options_ar": ["الوقت", "المال", "مفتاح", "صديق"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_85",
+      "questionText_en": "What has a back, but no front?",
+      "questionText_ar": "ما الذي له ظهر، ولكنه ليس له مقدمة؟",
+      "options_en": ["A chair", "A person", "A car", "A house"],
+      "options_ar": ["كرسي (ظهر الكرسي)", "إنسان", "سيارة", "منزل"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_86",
+      "questionText_en": "What has a ring, but no finger?",
+      "questionText_ar": "ما الذي له خاتم، ولكنه ليس له إبع أو إصبع؟",
+      "options_en": ["A telephone", "A box", "A book", "A tree"],
+      "options_ar": ["هاتف (رنين الهاتف Ring)", "صندوق", "كتاب", "شجرة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_87",
+      "questionText_en": "What has teeth, but no mouth?",
+      "questionText_ar": "ما الذي له أسنان، ولكنه ليس له فم؟",
+      "options_en": ["A zipper", "A shark", "A comb", "A saw"],
+      "options_ar": ["سحاب الملابس (السوستة)", "سمك قرش", "مشط", "منشار"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_88",
+      "questionText_en": "What has a heart that doesn’t beat?",
+      "questionText_ar": "ما الذي له قلب ولكنه لا ينبض؟",
+      "options_en": ["An artichoke", "A person", "An animal", "A bird"],
+      "options_ar": ["خرشوف (قلب الخرشوف)", "إنسان", "حيوان", "طائر"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_89",
+      "questionText_en": "What has a bed, but never sleeps?",
+      "questionText_ar": "ما الذي له سرير، ولكنه لا ينام أبداً؟",
+      "options_en": ["A river", "A person", "A dog", "A cat"],
+      "options_ar": ["نهر (سرير النهر / مجراه)", "إنسان", "كلب", "قطة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_90",
+      "questionText_en": "What has a thumb, but no fingers?",
+      "questionText_ar": "ما الذي له إبهام، ولكنه ليس له أصابع أخرى؟",
+      "options_en": ["An avocado", "A hand", "A glove", "A person"],
+      "options_ar": ["أفوكادو (بذرة الأفوكادو)", "يد", "قفاز", "إنسان"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_91",
+      "questionText_en": "What has a tail, but no body?",
+      "questionText_ar": "ما الذي له ذيل، ولكنه ليس له جسد؟",
+      "options_en": ["A coin", "A dog", "A cat", "A fish"],
+      "options_ar": ["عملة معدنية", "كلب", "قطة", "سمكة"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_92",
+      "questionText_en": "What has a sheet, but no bed?",
+      "questionText_ar": "ما الذي له ملاءة (ورقة)، ولكنه ليس له سرير؟",
+      "options_en": ["A paper", "A book", "A table", "A chair"],
+      "options_ar": ["ورقة", "كتاب", "طاولة", "كرسي"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_93",
+      "questionText_en": "What has a cap, but no head?",
+      "questionText_ar": "ما الذي له غطاء (قبعة)، ولكنه ليس له رأس؟",
+      "options_en": ["A bottle", "A person", "A pen", "A marker"],
+      "options_ar": ["زجاجة", "إنسان", "قلم", "قلم تلوين"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_94",
+      "questionText_en": "What has a bow, but no arrow?",
+      "questionText_ar": "ما الذي له ربطة (قوس)، ولكنه ليس له سهم؟",
+      "options_en": ["A ribbon", "A bow tie", "A box", "A present"],
+      "options_ar": ["شريط ربط (Ribbon)", "ربطة عنق (فيونكة)", "صندوق", "هدية"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_95",
+      "questionText_en": "What has a foot, but no leg?",
+      "questionText_ar": "ما الذي له قدم، ولكنه ليس له ساق؟",
+      "options_en": ["A mountain", "A table", "A chair", "A bed"],
+      "options_ar": ["جبل (سفح الجبل)", "طاولة", "كرسي", "سرير"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_96",
+      "questionText_en": "What has a voice, but no throat?",
+      "questionText_ar": "ما الذي له صوت، ولكنه ليس له حنجرة؟",
+      "options_en": ["A telephone", "A person", "A bird", "A singer"],
+      "options_ar": ["هاتف", "إنسان", "طائر", "مغني"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_97",
+      "questionText_en": "What has a horn, but no sound?",
+      "questionText_ar": "ما الذي له قرن، ولكنه لا يصدر صوتاً؟",
+      "options_en": ["A rhinoceros", "A car", "A bicycle", "A train"],
+      "options_ar": ["وحيد القرن (كركدن)", "سيارة", "دراجة", "قطار"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_98",
+      "questionText_en": "What has a shell, but no animal inside?",
+      "questionText_ar": "ما الذي له قشرة (صدفة)، ولكنه ليس داخله حيوان؟",
+      "options_en": ["An egg", "A turtle", "A snail", "An oyster"],
+      "options_ar": ["بيضة", "سلحفاة", "حلزون", "محار"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_99",
+      "questionText_en": "What has a key, but no lock?",
+      "questionText_ar": "ما الذي له مفتاح، ولكنه ليس له قفل؟",
+      "options_en": ["A piano", "A door", "A safe", "A box"],
+      "options_ar": ["بيانو", "باب", "خزنة", "صندوق"],
+      "correctAnswerIndex": 0,
+      "reward": 30
+    },
+    {
+      "id": "puzzle_100",
+      "questionText_en": "What has a path, but no cars?",
+      "questionText_ar": "ما الذي له طريق، ولكنه لا يحتوي على سيارات؟",
+      "options_en": ["A maze", "A highway", "A street", "A bridge"],
+      "options_ar": ["متاهة", "طريق سريع", "شارع", "جسر"],
+      "correctAnswerIndex": 0,
       "reward": 30
     }
   ]
