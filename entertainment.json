@@ -148,7 +148,2913 @@
   {"id": "ent_147", "questionText_en": "Which is the tallest mountain in the world?", "questionText_ar": "ما هو أعلى جبل في العالم؟", "options_en": ["K2", "Everest", "Kilimanjaro", "Fuji"], "options_ar": ["ك2", "إيفرست", "كيليمانجارو", "فوجي"], "correctAnswerIndex": 1},
   {"id": "ent_148", "questionText_en": "Who wrote '1984'?", "questionText_ar": "من كتب رواية '1984'؟", "options_en": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "H.G. Wells"], "options_ar": ["ألدوس هكسلي", "جورج أورويل", "راي برادبري", "إتش جي ويلز"], "correctAnswerIndex": 1},
   {"id": "ent_149", "questionText_en": "How many states in Australia?", "questionText_ar": "كم عدد الولايات في أستراليا؟", "options_en": ["4", "5", "6", "7"], "options_ar": ["4", "5", "6", "7"], "correctAnswerIndex": 2},
-  {"id": "ent_150", "questionText_en": "Which animal is the symbol of the USA?", "questionText_ar": "أي حيوان هو رمز الولايات المتحدة؟", "options_en": ["Eagle", "Bear", "Lion", "Horse"], "options_ar": ["النسر", "الدب", "الأسد", "الحصان"], "correctAnswerIndex": 0}
+  {"id": "ent_150", "questionText_en": "Which animal is the symbol of the USA?", "questionText_ar": "أي حيوان هو رمز الولايات المتحدة؟", "options_en": ["Eagle", "Bear", "Lion", "Horse"], "options_ar": ["النسر", "الدب", "الأسد", "الحصان"], "correctAnswerIndex": 0},
+    {
+    "id": "ent_151",
+    "questionText_en": "Who played Jack Sparrow in Pirates of the Caribbean?",
+    "questionText_ar": "من لعب دور جاك سبارو في قراصنة الكاريبي؟",
+    "options_en": ["Orlando Bloom", "Johnny Depp", "Brad Pitt", "Tom Hanks"],
+    "options_ar": ["أورلاندو بلوم", "جوني ديب", "براد بيت", "توم هانكس"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "ent_152",
+    "questionText_en": "Which movie features the character Forrest Gump?",
+    "questionText_ar": "أي فيلم يتضمن شخصية فورست غامب؟",
+    "options_en": ["Forrest Gump", "Cast Away", "The Green Mile", "Saving Private Ryan"],
+    "options_ar": ["فورست غامب", "كاست أواي", "الميل الأخضر", "إنقاذ الجندي رايان"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_153",
+    "questionText_en": "Who played Hermione Granger in Harry Potter?",
+    "questionText_ar": "من لعبت دور هيرميون غرينجر في هاري بوتر؟",
+    "options_en": ["Emma Watson", "Emma Stone", "Jennifer Lawrence", "Keira Knightley"],
+    "options_ar": ["إيما واتسون", "إيما ستون", "جينيفر لورنس", "كيرا نايتلي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_154",
+    "questionText_en": "Which film won the Academy Award for Best Picture in 1998?",
+    "questionText_ar": "أي فيلم فاز بجائزة أفضل فيلم في حفل الأوسكار عام 1998؟",
+    "options_en": ["Titanic", "Good Will Hunting", "Saving Private Ryan", "Shakespeare in Love"],
+    "options_ar": ["تايتانيك", "غود ويل هانتينغ", "إنقاذ الجندي رايان", "شكسبير عاشقًا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_155",
+    "questionText_en": "Who directed Pulp Fiction?",
+    "questionText_ar": "من أخرج فيلم بالْب فيكشن؟",
+    "options_en": ["Quentin Tarantino", "Martin Scorsese", "Francis Ford Coppola", "Tim Burton"],
+    "options_ar": ["كوينتن تارانتينو", "مارتن سكورسيزي", "فرانسيس فورد كوبولا", "تيم برتون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_156",
+    "questionText_en": "Which actor played Neo in The Matrix?",
+    "questionText_ar": "من لعب دور نيو في فيلم ماتريكس؟",
+    "options_en": ["Keanu Reeves", "Christian Bale", "Hugh Jackman", "Matt Damon"],
+    "options_ar": ["كيانو ريفز", "كريستيان بيل", "هيو جاكمان", "مات ديمون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_157",
+    "questionText_en": "What is the fictional African country in Black Panther?",
+    "questionText_ar": "ما اسم الدولة الأفريقية الخيالية في فيلم بلاك بانثر؟",
+    "options_en": ["Wakanda", "Genovia", "Zamunda", "Latveria"],
+    "options_ar": ["واكاندا", "جينوفيا", "زاموندا", "لاتفيريا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_158",
+    "questionText_en": "Who played Jack in The Shining?",
+    "questionText_ar": "من لعب دور جاك في فيلم ذا شاينينغ؟",
+    "options_en": ["Jack Nicholson", "Al Pacino", "Robert De Niro", "Anthony Hopkins"],
+    "options_ar": ["جاك نيكلسون", "آل باتشينو", "روبرت دي نيرو", "أنتوني هوبكنز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_159",
+    "questionText_en": "Which movie features the character Tony Montana?",
+    "questionText_ar": "أي فيلم يتضمن شخصية توني مونتانا؟",
+    "options_en": ["Scarface", "Heat", "Casino", "The Godfather"],
+    "options_ar": ["سكارفيس", "هيت", "كازينو", "العراب"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_160",
+    "questionText_en": "Who played the Joker in The Dark Knight?",
+    "questionText_ar": "من لعب دور الجوكر في فيلم ذا دارك نايت؟",
+    "options_en": ["Jared Leto", "Heath Ledger", "Joaquin Phoenix", "Jack Nicholson"],
+    "options_ar": ["جاريد ليتو", "هيث ليدجر", "خواكين فينيكس", "جاك نيكلسون"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "ent_161",
+    "questionText_en": "Which movie is about a theme park filled with cloned dinosaurs?",
+    "questionText_ar": "أي فيلم تدور قصته حول حديقة مليئة بالديناصورات المستنسخة؟",
+    "options_en": ["Jurassic Park", "King Kong", "Godzilla", "The Lost World"],
+    "options_ar": ["جوراسيك بارك", "كينغ كونغ", "غودزيلا", "العالم المفقود"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_162",
+    "questionText_en": "Who played Wonder Woman in the DC films?",
+    "questionText_ar": "من لعبت دور المرأة المعجزة في أفلام دي سي؟",
+    "options_en": ["Gal Gadot", "Scarlett Johansson", "Natalie Portman", "Charlize Theron"],
+    "options_ar": ["غال غادوت", "سكارليت جوهانسون", "ناتالي بورتمان", "تشارليز ثيرون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_163",
+    "questionText_en": "Which movie features a character named Rocky Balboa?",
+    "questionText_ar": "أي فيلم يتضمن شخصية روكي بالبوا؟",
+    "options_en": ["Rocky", "Creed", "Rambo", "Warrior"],
+    "options_ar": ["روكي", "كريد", "رامبو", "واريور"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_164",
+    "questionText_en": "Who played the title role in Edward Scissorhands?",
+    "questionText_ar": "من لعب الدور الرئيسي في فيلم إدوارد ذو الأيدي المقصية؟",
+    "options_en": ["Johnny Depp", "Jim Carrey", "Michael Keaton", "Robin Williams"],
+    "options_ar": ["جوني ديب", "جيم كاري", "مايكل كيتون", "روبن ويليامز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_165",
+    "questionText_en": "Which movie follows a boxer named Adonis Creed?",
+    "questionText_ar": "أي فيلم يتابع قصة الملاكم أدونيس كريد؟",
+    "options_en": ["Creed", "Rocky IV", "Southpaw", "Million Dollar Baby"],
+    "options_ar": ["كريد", "روكي 4", "ساوثباو", "مليون دولار بيبي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_166",
+    "questionText_en": "Who played Katniss Everdeen in The Hunger Games?",
+    "questionText_ar": "من لعبت دور كاتنيس إيفردين في ألعاب الجوع؟",
+    "options_en": ["Jennifer Lawrence", "Kristen Stewart", "Emma Watson", "Shailene Woodley"],
+    "options_ar": ["جينيفر لورنس", "كريستن ستيوارت", "إيما واتسون", "شايلين وودلي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_167",
+    "questionText_en": "Which film features the fictional world of Pandora?",
+    "questionText_ar": "أي فيلم يتضمن عالم باندورا الخيالي؟",
+    "options_en": ["Avatar", "Interstellar", "Dune", "Gravity"],
+    "options_ar": ["أفاتار", "إنترستيلر", "ديون", "غرافيتي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_168",
+    "questionText_en": "Who played the title character in Gladiator?",
+    "questionText_ar": "من لعب الشخصية الرئيسية في فيلم غلادياتور؟",
+    "options_en": ["Russell Crowe", "Gerard Butler", "Hugh Jackman", "Eric Bana"],
+    "options_ar": ["راسل كرو", "جيرارد بتلر", "هيو جاكمان", "إريك بانا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_169",
+    "questionText_en": "Which film stars Tom Hanks as a man stranded on an island?",
+    "questionText_ar": "أي فيلم يلعب فيه توم هانكس دور رجل عالق على جزيرة؟",
+    "options_en": ["Cast Away", "The Terminal", "Big", "Apollo 13"],
+    "options_ar": ["كاست أواي", "ذا تيرمنال", "بيغ", "أبولو 13"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_170",
+    "questionText_en": "Who directed Avatar?",
+    "questionText_ar": "من أخرج فيلم أفاتار؟",
+    "options_en": ["James Cameron", "Peter Jackson", "Steven Spielberg", "Denis Villeneuve"],
+    "options_ar": ["جيمس كاميرون", "بيتر جاكسون", "ستيفن سبيلبرغ", "دينيس فيلنوف"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_171",
+    "questionText_en": "Which movie features a character named Andy Dufresne?",
+    "questionText_ar": "أي فيلم يتضمن شخصية آندي دوفريسن؟",
+    "options_en": ["The Shawshank Redemption", "The Green Mile", "Mystic River", "Se7en"],
+    "options_ar": ["الخلاص من شاوشانك", "الميل الأخضر", "نهر غامض", "سيفن"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_172",
+    "questionText_en": "Who played Wolverine in the X-Men films?",
+    "questionText_ar": "من لعب دور وولفرين في أفلام إكس-من؟",
+    "options_en": ["Hugh Jackman", "Ryan Reynolds", "Chris Pratt", "Ben Affleck"],
+    "options_ar": ["هيو جاكمان", "رايان رينولدز", "كريس برات", "بن أفليك"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_173",
+    "questionText_en": "Which film features the song 'My Heart Will Go On'?",
+    "questionText_ar": "أي فيلم يتضمن أغنية 'My Heart Will Go On'؟",
+    "options_en": ["Titanic", "Pearl Harbor", "The Notebook", "Ghost"],
+    "options_ar": ["تايتانيك", "بيرل هاربور", "ذا نوتبوك", "غوست"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_174",
+    "questionText_en": "Who played Forrest Gump?",
+    "questionText_ar": "من لعب دور فورست غامب؟",
+    "options_en": ["Tom Hanks", "Tom Cruise", "Robin Williams", "Richard Gere"],
+    "options_ar": ["توم هانكس", "توم كروز", "روبن ويليامز", "ريتشارد غير"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_175",
+    "questionText_en": "Which movie features the character Hannibal Lecter?",
+    "questionText_ar": "أي فيلم يتضمن شخصية هانيبال ليكتر؟",
+    "options_en": ["The Silence of the Lambs", "Psycho", "The Exorcist", "Saw"],
+    "options_ar": ["صمت الحملان", "سايكو", "ذا إكزورسيست", "سو"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_176",
+    "questionText_en": "Who played Hannibal Lecter in The Silence of the Lambs?",
+    "questionText_ar": "من لعب دور هانيبال ليكتر في فيلم صمت الحملان؟",
+    "options_en": ["Anthony Hopkins", "Gary Oldman", "Ian McKellen", "Christopher Walken"],
+    "options_ar": ["أنتوني هوبكنز", "غاري أولدمان", "إيان ماكيلين", "كريستوفر والكن"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_177",
+    "questionText_en": "Which movie is set in the world of dreams?",
+    "questionText_ar": "أي فيلم تدور أحداثه في عالم الأحلام؟",
+    "options_en": ["Inception", "Tenet", "Memento", "Arrival"],
+    "options_ar": ["إنسبشن", "تينيت", "ميمنتو", "أرايفل"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_178",
+    "questionText_en": "Who played the lead role in The Wolf of Wall Street?",
+    "questionText_ar": "من لعب الدور الرئيسي في فيلم ذئب وول ستريت؟",
+    "options_en": ["Leonardo DiCaprio", "Christian Bale", "Matt Damon", "Brad Pitt"],
+    "options_ar": ["ليوناردو دي كابريو", "كريستيان بيل", "مات ديمون", "براد بيت"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_179",
+    "questionText_en": "Which actor played John Wick?",
+    "questionText_ar": "من الممثل الذي لعب دور جون ويك؟",
+    "options_en": ["Keanu Reeves", "Jason Statham", "Liam Neeson", "Gerard Butler"],
+    "options_ar": ["كيانو ريفز", "جيسون ستاثام", "ليام نيسون", "جيرارد بتلر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_180",
+    "questionText_en": "Which movie features the character Ethan Hunt?",
+    "questionText_ar": "أي فيلم يتضمن شخصية إيثان هانت؟",
+    "options_en": ["Mission: Impossible", "Jason Bourne", "Die Hard", "Taken"],
+    "options_ar": ["مهمة مستحيلة", "جيسون بورن", "داي هارد", "تيكن"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_181",
+    "questionText_en": "Who played Jason Bourne in the Bourne series?",
+    "questionText_ar": "من لعب دور جيسون بورن في سلسلة بورن؟",
+    "options_en": ["Matt Damon", "Mark Wahlberg", "Ben Affleck", "Chris Pine"],
+    "options_ar": ["مات ديمون", "مارك والبرغ", "بن أفليك", "كريس باين"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_182",
+    "questionText_en": "Which movie features the character John McClane?",
+    "questionText_ar": "أي فيلم يتضمن شخصية جون ماكلين؟",
+    "options_en": ["Die Hard", "Speed", "Taken", "Heat"],
+    "options_ar": ["داي هارد", "سبيد", "تيكن", "هيت"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_183",
+    "questionText_en": "Who played John McClane?",
+    "questionText_ar": "من لعب دور جون ماكلين؟",
+    "options_en": ["Bruce Willis", "Sylvester Stallone", "Arnold Schwarzenegger", "Jean-Claude Van Damme"],
+    "options_ar": ["بروس ويليس", "سيلفستر ستالون", "أرنولد شوارزنيغر", "جان كلود فان دام"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_184",
+    "questionText_en": "Which movie features the character Maximus?",
+    "questionText_ar": "أي فيلم يتضمن شخصية ماكسيموس؟",
+    "options_en": ["Gladiator", "Troy", "300", "Spartacus"],
+    "options_ar": ["غلادياتور", "طروادة", "300", "سبارتاكوس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_185",
+    "questionText_en": "Which movie features a magical nanny named Mary Poppins?",
+    "questionText_ar": "أي فيلم يتضمن المربية السحرية ماري بوبينز؟",
+    "options_en": ["Mary Poppins", "Matilda", "Annie", "Chitty Chitty Bang Bang"],
+    "options_ar": ["ماري بوبينز", "ماتيلدا", "آني", "تشيتي تشيتي بانغ بانغ"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_186",
+    "questionText_en": "Who played Mary Poppins in the original film?",
+    "questionText_ar": "من لعبت دور ماري بوبينز في الفيلم الأصلي؟",
+    "options_en": ["Julie Andrews", "Audrey Hepburn", "Judy Garland", "Grace Kelly"],
+    "options_ar": ["جولي أندروز", "أودري هيبورن", "جودي غارلاند", "غريس كيلي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_187",
+    "questionText_en": "Which film features a character named Dorothy Gale?",
+    "questionText_ar": "أي فيلم يتضمن شخصية دوروثي غيل؟",
+    "options_en": ["The Wizard of Oz", "Alice in Wonderland", "Peter Pan", "Mary Poppins"],
+    "options_ar": ["ساحر أوز", "أليس في بلاد العجائب", "بيتر بان", "ماري بوبينز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_188",
+    "questionText_en": "What is the name of Dorothy's dog?",
+    "questionText_ar": "ما اسم كلب دوروثي؟",
+    "options_en": ["Toto", "Max", "Buddy", "Lucky"],
+    "options_ar": ["توتو", "ماكس", "بادي", "لاكي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_189",
+    "questionText_en": "Which Disney movie features a girl named Mulan?",
+    "questionText_ar": "أي فيلم من ديزني يتضمن فتاة تدعى مولان؟",
+    "options_en": ["Mulan", "Pocahontas", "Brave", "Moana"],
+    "options_ar": ["مولان", "بوكاهونتاس", "بريف", "موانا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_190",
+    "questionText_en": "Which Disney character has a pet tiger named Rajah?",
+    "questionText_ar": "أي شخصية من ديزني لديها نمر أليف اسمه راجا؟",
+    "options_en": ["Jasmine", "Belle", "Ariel", "Pocahontas"],
+    "options_ar": ["ياسمين", "بيل", "أرييل", "بوكاهونتاس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_191",
+    "questionText_en": "What is the name of Aladdin's monkey?",
+    "questionText_ar": "ما اسم قرد علاء الدين؟",
+    "options_en": ["Abu", "Rajah", "Timon", "Meeko"],
+    "options_ar": ["أبو", "راجا", "تيمون", "ميكو"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_192",
+    "questionText_en": "Which Disney film features the character Scar?",
+    "questionText_ar": "أي فيلم من ديزني يتضمن شخصية سكار؟",
+    "options_en": ["The Lion King", "Tarzan", "Hercules", "Bambi"],
+    "options_ar": ["الأسد الملك", "طرزان", "هرقل", "بامبي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_193",
+    "questionText_en": "What is the name of Ariel's father?",
+    "questionText_ar": "ما اسم والد أرييل؟",
+    "options_en": ["King Triton", "King Stefan", "King Fergus", "King Agnarr"],
+    "options_ar": ["الملك ترايتون", "الملك ستيفان", "الملك فيرغوس", "الملك أغنار"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_194",
+    "questionText_en": "Which Disney movie features the song 'Under the Sea'?",
+    "questionText_ar": "أي فيلم من ديزني يتضمن أغنية 'Under the Sea'؟",
+    "options_en": ["The Little Mermaid", "Moana", "Frozen", "The Lion King"],
+    "options_ar": ["حورية البحر الصغيرة", "موانا", "فروزن", "الأسد الملك"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_195",
+    "questionText_en": "What is the name of Belle's father in Beauty and the Beast?",
+    "questionText_ar": "ما اسم والد بيل في الجميلة والوحش؟",
+    "options_en": ["Maurice", "Gaston", "Lumiere", "Philippe"],
+    "options_ar": ["موريس", "غاستون", "لوميير", "فيليب"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_196",
+    "questionText_en": "Which Disney character says 'Hakuna Matata'?",
+    "questionText_ar": "أي شخصية من ديزني ترتبط بعبارة 'هاكونا ماتاتا'؟",
+    "options_en": ["Timon", "Simba", "Mufasa", "Scar"],
+    "options_ar": ["تيمون", "سيمبا", "موفاسا", "سكار"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_197",
+    "questionText_en": "What is the name of the snow queen in Frozen?",
+    "questionText_ar": "ما اسم ملكة الثلج في فروزن؟",
+    "options_en": ["Elsa", "Anna", "Olaf", "Iduna"],
+    "options_ar": ["إلسا", "آنا", "أولاف", "إيدونا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_198",
+    "questionText_en": "Which Disney movie features a demigod named Maui?",
+    "questionText_ar": "أي فيلم من ديزني يتضمن نصف إله اسمه ماوي؟",
+    "options_en": ["Moana", "Encanto", "Coco", "Luca"],
+    "options_ar": ["موانا", "إنكانتو", "كوكو", "لوكا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_199",
+    "questionText_en": "What is the name of the magical family in Encanto?",
+    "questionText_ar": "ما اسم العائلة السحرية في فيلم إنكانتو؟",
+    "options_en": ["Madrigal", "Montoya", "Rivera", "Garcia"],
+    "options_ar": ["مادريغال", "مونتويا", "ريفيرا", "غارسيا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_200",
+    "questionText_en": "Which animated film features a boy named Miguel?",
+    "questionText_ar": "أي فيلم رسوم متحركة يتضمن فتى اسمه ميغيل؟",
+    "options_en": ["Coco", "Luca", "Encanto", "Soul"],
+    "options_ar": ["كوكو", "لوكا", "إنكانتو", "سول"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_201",
+    "questionText_en": "What instrument does Miguel play in Coco?",
+    "questionText_ar": "ما الآلة الموسيقية التي يعزف عليها ميغيل في كوكو؟",
+    "options_en": ["Guitar", "Piano", "Violin", "Trumpet"],
+    "options_ar": ["جيتار", "بيانو", "كمان", "بوق"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_202",
+    "questionText_en": "Which Pixar movie features toys that come alive?",
+    "questionText_ar": "أي فيلم من بيكسار يتضمن ألعابًا تنبض بالحياة؟",
+    "options_en": ["Toy Story", "Cars", "Up", "Ratatouille"],
+    "options_ar": ["توي ستوري", "كارز", "أب", "راتاتوي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_203",
+    "questionText_en": "What is the name of the cowboy in Toy Story?",
+    "questionText_ar": "ما اسم راعي البقر في توي ستوري؟",
+    "options_en": ["Woody", "Buzz", "Andy", "Jessie"],
+    "options_ar": ["وودي", "باز", "آندي", "جيسي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_204",
+    "questionText_en": "What is the name of the space ranger in Toy Story?",
+    "questionText_ar": "ما اسم حارس الفضاء في توي ستوري؟",
+    "options_en": ["Buzz Lightyear", "Woody", "Zurg", "Rex"],
+    "options_ar": ["باز لايتيير", "وودي", "زيرغ", "ريكس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_205",
+    "questionText_en": "Which Pixar film features a rat who wants to become a chef?",
+    "questionText_ar": "أي فيلم من بيكسار يتضمن فأرًا يريد أن يصبح طاهيًا؟",
+    "options_en": ["Ratatouille", "Ratatouille", "Bolt", "Wall-E"],
+    "options_ar": ["راتاتوي", "راتاتوي", "بولت", "وال-إي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_206",
+    "questionText_en": "What is the name of the rat in Ratatouille?",
+    "questionText_ar": "ما اسم الفأر في فيلم راتاتوي؟",
+    "options_en": ["Remy", "Emile", "Django", "Alfredo"],
+    "options_ar": ["ريمي", "إميل", "جانغو", "ألفريدو"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_207",
+    "questionText_en": "Which Pixar movie features a house lifted by balloons?",
+    "questionText_ar": "أي فيلم من بيكسار يتضمن منزلًا يرتفع بواسطة البالونات؟",
+    "options_en": ["Up", "Inside Out", "Soul", "Brave"],
+    "options_ar": ["أب", "إنسايد آوت", "سول", "بريف"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_208",
+    "questionText_en": "What is the name of the elderly man in Up?",
+    "questionText_ar": "ما اسم الرجل المسن في فيلم أب؟",
+    "options_en": ["Carl Fredricksen", "Russell", "Dug", "Charles Muntz"],
+    "options_ar": ["كارل فريدريكسن", "راسل", "دوغ", "تشارلز مونتز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_209",
+    "questionText_en": "Which Pixar film explores emotions inside a girl's mind?",
+    "questionText_ar": "أي فيلم من بيكسار يستكشف المشاعر داخل عقل فتاة؟",
+    "options_en": ["Inside Out", "Soul", "Up", "Turning Red"],
+    "options_ar": ["إنسايد آوت", "سول", "أب", "ترنينغ ريد"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_210",
+    "questionText_en": "Which emotion is represented by the color blue in Inside Out?",
+    "questionText_ar": "أي شعور يمثله اللون الأزرق في فيلم إنسايد آوت؟",
+    "options_en": ["Sadness", "Joy", "Anger", "Fear"],
+    "options_ar": ["الحزن", "الفرح", "الغضب", "الخوف"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_211",
+    "questionText_en": "Which animated movie features a robot named WALL-E?",
+    "questionText_ar": "أي فيلم رسوم متحركة يتضمن روبوتًا اسمه WALL-E؟",
+    "options_en": ["WALL-E", "Robots", "Big Hero 6", "Astro Boy"],
+    "options_ar": ["وال-إي", "روبوتس", "بيغ هيرو 6", "أسترو بوي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_212",
+    "questionText_en": "Which animated film features a young robot named Baymax?",
+    "questionText_ar": "أي فيلم رسوم متحركة يتضمن الروبوت بايماكس؟",
+    "options_en": ["Big Hero 6", "WALL-E", "Robots", "Next Gen"],
+    "options_ar": ["بيغ هيرو 6", "وال-إي", "روبوتس", "نيكست جين"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_213",
+    "questionText_en": "What is the name of the boy who teams up with Baymax?",
+    "questionText_ar": "ما اسم الفتى الذي يتعاون مع بايماكس؟",
+    "options_en": ["Hiro", "Tadashi", "Fred", "Wasabi"],
+    "options_ar": ["هيرو", "تاداشي", "فريد", "واسابي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_214",
+    "questionText_en": "Which DreamWorks film features a green ogre?",
+    "questionText_ar": "أي فيلم من دريم ووركس يتضمن غولًا أخضر؟",
+    "options_en": ["Shrek", "Madagascar", "Trolls", "Kung Fu Panda"],
+    "options_ar": ["شريك", "مدغشقر", "ترولز", "كونغ فو باندا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_215",
+    "questionText_en": "What is the name of Shrek's wife?",
+    "questionText_ar": "ما اسم زوجة شريك؟",
+    "options_en": ["Fiona", "Doris", "Ginger", "Kitty"],
+    "options_ar": ["فيونا", "دوريس", "جينجر", "كيتي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_216",
+    "questionText_en": "What animal is Donkey in Shrek?",
+    "questionText_ar": "ما الحيوان الذي تمثله شخصية دونكي في شريك؟",
+    "options_en": ["Donkey", "Horse", "Mule", "Goat"],
+    "options_ar": ["حمار", "حصان", "بغل", "ماعز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_217",
+    "questionText_en": "Which DreamWorks movie features Po?",
+    "questionText_ar": "أي فيلم من دريم ووركس يتضمن شخصية بو؟",
+    "options_en": ["Kung Fu Panda", "How to Train Your Dragon", "Shrek", "Madagascar"],
+    "options_ar": ["كونغ فو باندا", "كيف تروض تنينك", "شريك", "مدغشقر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_218",
+    "questionText_en": "What kind of animal is Po?",
+    "questionText_ar": "ما نوع الحيوان الذي يمثله بو؟",
+    "options_en": ["Giant Panda", "Red Panda", "Bear", "Koala"],
+    "options_ar": ["باندا عملاقة", "باندا حمراء", "دب", "كوالا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_219",
+    "questionText_en": "Which animated series features the character Homer Simpson?",
+    "questionText_ar": "أي مسلسل رسوم متحركة يتضمن شخصية هومر سيمبسون؟",
+    "options_en": ["The Simpsons", "Family Guy", "South Park", "Futurama"],
+    "options_ar": ["ذا سيمبسونز", "فاميلي غاي", "ساوث بارك", "فيوتشراما"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_220",
+    "questionText_en": "What is the name of Homer's wife?",
+    "questionText_ar": "ما اسم زوجة هومر؟",
+    "options_en": ["Marge", "Lisa", "Maggie", "Patty"],
+    "options_ar": ["مارج", "ليزا", "ماجي", "باتي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_221",
+    "questionText_en": "What is the name of the Simpsons' son?",
+    "questionText_ar": "ما اسم ابن عائلة سيمبسون؟",
+    "options_en": ["Bart", "Milhouse", "Nelson", "Ralph"],
+    "options_ar": ["بارت", "ميلهاوس", "نيلسون", "رالف"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_222",
+    "questionText_en": "What is the name of the Simpsons' youngest daughter?",
+    "questionText_ar": "ما اسم أصغر ابنة لعائلة سيمبسون؟",
+    "options_en": ["Maggie", "Lisa", "Bart", "Marge"],
+    "options_ar": ["ماجي", "ليزا", "بارت", "مارج"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_223",
+    "questionText_en": "Which animated series features Peter Griffin?",
+    "questionText_ar": "أي مسلسل رسوم متحركة يتضمن بيتر غريفين؟",
+    "options_en": ["Family Guy", "The Simpsons", "American Dad", "South Park"],
+    "options_ar": ["فاميلي غاي", "ذا سيمبسونز", "أمريكان داد", "ساوث بارك"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_224",
+    "questionText_en": "What is the name of Peter Griffin's dog?",
+    "questionText_ar": "ما اسم كلب بيتر غريفين؟",
+    "options_en": ["Brian", "Stewie", "Chris", "Cleveland"],
+    "options_ar": ["براين", "ستيوي", "كريس", "كليفلاند"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_225",
+    "questionText_en": "Which animated show features a character named Eric Cartman?",
+    "questionText_ar": "أي مسلسل رسوم متحركة يتضمن شخصية إريك كارتمان؟",
+    "options_en": ["South Park", "Family Guy", "The Simpsons", "Beavis and Butt-Head"],
+    "options_ar": ["ساوث بارك", "فاميلي غاي", "ذا سيمبسونز", "بيفيس أند بات-هيد"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_226",
+    "questionText_en": "Which TV series features the fictional town of Hawkins?",
+    "questionText_ar": "أي مسلسل تلفزيوني تدور أحداثه في بلدة هوكينز الخيالية؟",
+    "options_en": ["Stranger Things", "Dark", "The Walking Dead", "Lost"],
+    "options_ar": ["سترينجر ثينغز", "دارك", "ذا ووكينغ ديد", "لوست"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_227",
+    "questionText_en": "What is Eleven's real first name in Stranger Things?",
+    "questionText_ar": "ما الاسم الأول الحقيقي لإليفن في سترينجر ثينغز؟",
+    "options_en": ["Jane", "Sarah", "Nancy", "Joyce"],
+    "options_ar": ["جين", "سارة", "نانسي", "جويس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_228",
+    "questionText_en": "What is the name of the alternate dimension in Stranger Things?",
+    "questionText_ar": "ما اسم البعد البديل في سترينجر ثينغز؟",
+    "options_en": ["The Upside Down", "The Other Side", "The Void", "The Dark World"],
+    "options_ar": ["العالم المقلوب", "الجانب الآخر", "الفراغ", "العالم المظلم"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_229",
+    "questionText_en": "Which TV series follows a chemistry teacher who becomes a drug manufacturer?",
+    "questionText_ar": "أي مسلسل يتابع مدرس كيمياء يصبح مصنعًا للمخدرات؟",
+    "options_en": ["Breaking Bad", "Better Call Saul", "Ozark", "Narcos"],
+    "options_ar": ["بريكنغ باد", "بيتر كول سول", "أوزارك", "ناركوس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_230",
+    "questionText_en": "What is Walter White's alias in Breaking Bad?",
+    "questionText_ar": "ما الاسم المستعار لوالتر وايت في بريكنغ باد؟",
+    "options_en": ["Heisenberg", "Gus", "Tuco", "Saul"],
+    "options_ar": ["هايزنبرغ", "غاس", "توكو", "سول"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_231",
+    "questionText_en": "Who plays Walter White?",
+    "questionText_ar": "من يلعب دور والتر وايت؟",
+    "options_en": ["Bryan Cranston", "Aaron Paul", "Bob Odenkirk", "Jon Hamm"],
+    "options_ar": ["براين كرانستون", "آرون بول", "بوب أودينكيرك", "جون هام"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_232",
+    "questionText_en": "What is Jesse Pinkman's catchphrase?",
+    "questionText_ar": "ما العبارة الشهيرة المرتبطة بجيسي بينكمان؟",
+    "options_en": ["Yo", "Bazinga", "How you doin'?", "D'oh!"],
+    "options_ar": ["يو", "بازينغا", "كيف حالك؟", "دوه!"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_233",
+    "questionText_en": "Which series follows the Roy family?",
+    "questionText_ar": "أي مسلسل يتابع عائلة روي؟",
+    "options_en": ["Succession", "Billions", "Empire", "Mad Men"],
+    "options_ar": ["ساكسيشن", "بليليونات", "إمباير", "ماد مين"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_234",
+    "questionText_en": "Which TV series is set in Westeros?",
+    "questionText_ar": "أي مسلسل تدور أحداثه في ويستروس؟",
+    "options_en": ["Game of Thrones", "The Witcher", "Vikings", "Rome"],
+    "options_ar": ["صراع العروش", "ذا ويتشر", "فايكنغز", "روما"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_235",
+    "questionText_en": "What is the name of Jon Snow's direwolf?",
+    "questionText_ar": "ما اسم الذئب الضخم الخاص بجون سنو؟",
+    "options_en": ["Ghost", "Grey Wind", "Summer", "Nymeria"],
+    "options_ar": ["غوست", "غراي ويند", "سامر", "نايميريا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_236",
+    "questionText_en": "Who is known as the Mother of Dragons?",
+    "questionText_ar": "من تُعرف بلقب أم التنانين؟",
+    "options_en": ["Daenerys Targaryen", "Cersei Lannister", "Sansa Stark", "Arya Stark"],
+    "options_ar": ["دينيريس تارغاريان", "سيرسي لانيستر", "سانسا ستارك", "آريا ستارك"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_237",
+    "questionText_en": "Which series features the Iron Throne?",
+    "questionText_ar": "أي مسلسل يتضمن العرش الحديدي؟",
+    "options_en": ["Game of Thrones", "The Witcher", "House", "Vikings"],
+    "options_ar": ["صراع العروش", "ذا ويتشر", "هاوس", "فايكنغز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_238",
+    "questionText_en": "Which series is a prequel to Game of Thrones?",
+    "questionText_ar": "أي مسلسل هو مقدمة لأحداث صراع العروش؟",
+    "options_en": ["House of the Dragon", "The Last Kingdom", "Vikings", "Westworld"],
+    "options_ar": ["هاوس أوف ذا دراغون", "ذا لاست كينغدوم", "فايكنغز", "ويست وورلد"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_239",
+    "questionText_en": "Which TV show follows a group of survivors after a zombie apocalypse?",
+    "questionText_ar": "أي مسلسل يتابع مجموعة من الناجين بعد نهاية عالم بسبب الزومبي؟",
+    "options_en": ["The Walking Dead", "Lost", "Prison Break", "Dexter"],
+    "options_ar": ["ذا ووكينغ ديد", "لوست", "بريزن بريك", "ديكستر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_240",
+    "questionText_en": "What is the name of the main character in Dexter?",
+    "questionText_ar": "ما اسم الشخصية الرئيسية في مسلسل ديكستر؟",
+    "options_en": ["Dexter Morgan", "Michael Scofield", "Rick Grimes", "Don Draper"],
+    "options_ar": ["ديكستر مورغان", "مايكل سكوفيلد", "ريك غرايمز", "دون درابر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_241",
+    "questionText_en": "Which TV series features a prison escape planned by Michael Scofield?",
+    "questionText_ar": "أي مسلسل يتضمن خطة هروب من السجن يخطط لها مايكل سكوفيلد؟",
+    "options_en": ["Prison Break", "24", "Lost", "Ozark"],
+    "options_ar": ["بريزن بريك", "24", "لوست", "أوزارك"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_242",
+    "questionText_en": "Who plays Michael Scofield?",
+    "questionText_ar": "من يلعب دور مايكل سكوفيلد؟",
+    "options_en": ["Wentworth Miller", "Dominic Purcell", "Matthew Fox", "Kiefer Sutherland"],
+    "options_ar": ["وينتورث ميلر", "دومينيك بورسيل", "ماثيو فوكس", "كيفر ساذرلاند"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_243",
+    "questionText_en": "Which TV show features the character Sherlock Holmes?",
+    "questionText_ar": "أي مسلسل تلفزيوني يتضمن شخصية شيرلوك هولمز؟",
+    "options_en": ["Sherlock", "Luther", "Hannibal", "Elementary"],
+    "options_ar": ["شيرلوك", "لوثر", "هانيبال", "إليمينتري"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_244",
+    "questionText_en": "Who played Sherlock Holmes in the BBC series Sherlock?",
+    "questionText_ar": "من لعب دور شيرلوك هولمز في مسلسل بي بي سي شيرلوك؟",
+    "options_en": ["Benedict Cumberbatch", "Martin Freeman", "Tom Hiddleston", "Eddie Redmayne"],
+    "options_ar": ["بنديكت كامبرباتش", "مارتن فريمان", "توم هيدلستون", "إدي ريدماين"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_245",
+    "questionText_en": "Who plays Dr. Watson in Sherlock?",
+    "questionText_ar": "من لعب دور الدكتور واتسون في شيرلوك؟",
+    "options_en": ["Martin Freeman", "Benedict Cumberbatch", "Andrew Scott", "Mark Gatiss"],
+    "options_ar": ["مارتن فريمان", "بنديكت كامبرباتش", "أندرو سكوت", "مارك غاتيس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_246",
+    "questionText_en": "Which sitcom is set in the fictional town of Pawnee?",
+    "questionText_ar": "أي مسلسل كوميدي تدور أحداثه في بلدة باوني الخيالية؟",
+    "options_en": ["Parks and Recreation", "The Office", "Friends", "Community"],
+    "options_ar": ["باركس آند ريكرييشن", "ذا أوفيس", "فريندز", "كوميونيتي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_247",
+    "questionText_en": "Who plays Leslie Knope?",
+    "questionText_ar": "من تلعب دور ليزلي نوب؟",
+    "options_en": ["Amy Poehler", "Tina Fey", "Kristen Wiig", "Maya Rudolph"],
+    "options_ar": ["إيمي بوهلر", "تينا فاي", "كريستن ويغ", "مايا رودولف"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_248",
+    "questionText_en": "Which sitcom is set in an office in Scranton?",
+    "questionText_ar": "أي مسلسل كوميدي تدور أحداثه في مكتب في سكرانتون؟",
+    "options_en": ["The Office", "Friends", "Seinfeld", "Modern Family"],
+    "options_ar": ["ذا أوفيس", "فريندز", "ساينفيلد", "مودرن فاميلي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_249",
+    "questionText_en": "Who is the regional manager in The Office for much of the series?",
+    "questionText_ar": "من هو مدير الفرع الإقليمي في ذا أوفيس خلال معظم المسلسل؟",
+    "options_en": ["Michael Scott", "Jim Halpert", "Dwight Schrute", "Stanley Hudson"],
+    "options_ar": ["مايكل سكوت", "جيم هالبرت", "دوايت شروت", "ستانلي هدسون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_250",
+    "questionText_en": "Who played Michael Scott in The Office?",
+    "questionText_ar": "من لعب دور مايكل سكوت في ذا أوفيس؟",
+    "options_en": ["Steve Carell", "Paul Rudd", "Will Ferrell", "Jason Bateman"],
+    "options_ar": ["ستيف كاريل", "بول رود", "ويل فيريل", "جيسون بيتمان"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_251",
+    "questionText_en": "Which sitcom features the character Sheldon Cooper?",
+    "questionText_ar": "أي مسلسل كوميدي يتضمن شخصية شيلدون كوبر؟",
+    "options_en": ["The Big Bang Theory", "Friends", "How I Met Your Mother", "Community"],
+    "options_ar": ["نظرية الانفجار العظيم", "فريندز", "كيف قابلت أمكما", "كوميونيتي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_252",
+    "questionText_en": "Who played Sheldon Cooper?",
+    "questionText_ar": "من لعب دور شيلدون كوبر؟",
+    "options_en": ["Jim Parsons", "Johnny Galecki", "Simon Helberg", "Kunal Nayyar"],
+    "options_ar": ["جيم بارسونز", "جوني غاليكي", "سايمون هيلبرغ", "كونال نايار"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_253",
+    "questionText_en": "Which sitcom features Ted Mosby?",
+    "questionText_ar": "أي مسلسل كوميدي يتضمن شخصية تيد موسبي؟",
+    "options_en": ["How I Met Your Mother", "Friends", "The Office", "New Girl"],
+    "options_ar": ["كيف قابلت أمكما", "فريندز", "ذا أوفيس", "نيو غيرل"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_254",
+    "questionText_en": "Who plays Barney Stinson?",
+    "questionText_ar": "من يلعب دور بارني ستينسون؟",
+    "options_en": ["Neil Patrick Harris", "Jason Segel", "Josh Radnor", "Cobie Smulders"],
+    "options_ar": ["نيل باتريك هاريس", "جيسون سيغل", "جوش رادنور", "كوبي سمولدرز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_255",
+    "questionText_en": "Which sitcom features Jerry, George, Elaine, and Kramer?",
+    "questionText_ar": "أي مسلسل كوميدي يتضمن جيري وجورج وإيلين وكريمر؟",
+    "options_en": ["Seinfeld", "Friends", "Frasier", "Cheers"],
+    "options_ar": ["ساينفيلد", "فريندز", "فريزر", "تشيرز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_256",
+    "questionText_en": "Which sitcom follows six friends living in New York City?",
+    "questionText_ar": "أي مسلسل كوميدي يتابع ستة أصدقاء يعيشون في نيويورك؟",
+    "options_en": ["Friends", "Seinfeld", "New Girl", "How I Met Your Mother"],
+    "options_ar": ["فريندز", "ساينفيلد", "نيو غيرل", "كيف قابلت أمكما"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_257",
+    "questionText_en": "What is Chandler Bing's job in Friends?",
+    "questionText_ar": "ما وظيفة تشاندلر بينغ في مسلسل فريندز؟",
+    "options_en": ["Statistical analysis and data reconfiguration", "Chef", "Actor", "Doctor"],
+    "options_ar": ["تحليل الإحصاءات وإعادة تهيئة البيانات", "طاهٍ", "ممثل", "طبيب"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_258",
+    "questionText_en": "What is Ross Geller's profession?",
+    "questionText_ar": "ما مهنة روس غيلر؟",
+    "options_en": ["Paleontologist", "Lawyer", "Chef", "Photographer"],
+    "options_ar": ["عالم حفريات", "محامٍ", "طاهٍ", "مصور"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_259",
+    "questionText_en": "What is Joey Tribbiani's famous catchphrase?",
+    "questionText_ar": "ما العبارة الشهيرة لجوي تريبياني؟",
+    "options_en": ["How you doin'?", "We were on a break!", "Pivot!", "D'oh!"],
+    "options_ar": ["كيف حالك؟", "كنا في فترة استراحة!", "حرّك!", "دوه!"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_260",
+    "questionText_en": "What is Monica Geller's profession?",
+    "questionText_ar": "ما مهنة مونيكا غيلر؟",
+    "options_en": ["Chef", "Teacher", "Doctor", "Journalist"],
+    "options_ar": ["طاهية", "معلمة", "طبيبة", "صحفية"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_261",
+    "questionText_en": "What is the name of Ross's pet monkey in Friends?",
+    "questionText_ar": "ما اسم قرد روس الأليف في فريندز؟",
+    "options_en": ["Marcel", "George", "Charlie", "Ben"],
+    "options_ar": ["مارسيل", "جورج", "تشارلي", "بن"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_262",
+    "questionText_en": "Which actress played Rachel Green?",
+    "questionText_ar": "من لعبت دور رايتشل غرين؟",
+    "options_en": ["Jennifer Aniston", "Courteney Cox", "Lisa Kudrow", "Winona Ryder"],
+    "options_ar": ["جينيفر أنيستون", "كورتني كوكس", "ليزا كودرو", "وينونا رايدر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_263",
+    "questionText_en": "Which actress played Monica Geller?",
+    "questionText_ar": "من لعبت دور مونيكا غيلر؟",
+    "options_en": ["Courteney Cox", "Jennifer Aniston", "Lisa Kudrow", "Debra Messing"],
+    "options_ar": ["كورتني كوكس", "جينيفر أنيستون", "ليزا كودرو", "ديبرا ميسينغ"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_264",
+    "questionText_en": "Which actress played Phoebe Buffay?",
+    "questionText_ar": "من لعبت دور فيبي بوفاي؟",
+    "options_en": ["Lisa Kudrow", "Jennifer Aniston", "Courteney Cox", "Maggie Wheeler"],
+    "options_ar": ["ليزا كودرو", "جينيفر أنيستون", "كورتني كوكس", "ماغي ويلر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_265",
+    "questionText_en": "What is the name of Phoebe's twin sister?",
+    "questionText_ar": "ما اسم شقيقة فيبي التوأم؟",
+    "options_en": ["Ursula", "Emily", "Susan", "Carol"],
+    "options_ar": ["أورسولا", "إيميلي", "سوزان", "كارول"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_266",
+    "questionText_en": "Which TV series follows the Shelby family?",
+    "questionText_ar": "أي مسلسل يتابع عائلة شيلبي؟",
+    "options_en": ["Peaky Blinders", "Boardwalk Empire", "The Crown", "Vikings"],
+    "options_ar": ["بيكي بلايندرز", "بوردووك إمباير", "ذا كراون", "فايكنغز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_267",
+    "questionText_en": "Who plays Tommy Shelby?",
+    "questionText_ar": "من يلعب دور تومي شيلبي؟",
+    "options_en": ["Cillian Murphy", "Tom Hardy", "Jason Statham", "Colin Farrell"],
+    "options_ar": ["كيليان مورفي", "توم هاردي", "جيسون ستاثام", "كولين فاريل"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_268",
+    "questionText_en": "Which series features a chemistry teacher named Walter White?",
+    "questionText_ar": "أي مسلسل يتضمن مدرس الكيمياء والتر وايت؟",
+    "options_en": ["Breaking Bad", "Dexter", "Ozark", "Narcos"],
+    "options_ar": ["بريكنغ باد", "ديكستر", "أوزارك", "ناركوس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_269",
+    "questionText_en": "Which series is centered on a wealthy family and a media company?",
+    "questionText_ar": "أي مسلسل يدور حول عائلة ثرية وشركة إعلامية؟",
+    "options_en": ["Succession", "Billions", "Mad Men", "The Crown"],
+    "options_ar": ["ساكسيشن", "بليليونات", "ماد مين", "ذا كراون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_270",
+    "questionText_en": "Which series stars Pedro Pascal as Joel?",
+    "questionText_ar": "أي مسلسل يلعب فيه بيدرو باسكال دور جويل؟",
+    "options_en": ["The Last of Us", "Narcos", "The Mandalorian", "Westworld"],
+    "options_ar": ["ذا لاست أوف أس", "ناركوس", "ذا ماندالوريان", "ويست وورلد"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_271",
+    "questionText_en": "What is the name of Joel's young companion in The Last of Us?",
+    "questionText_ar": "ما اسم رفيقة جويل الصغيرة في ذا لاست أوف أس؟",
+    "options_en": ["Ellie", "Sarah", "Abby", "Riley"],
+    "options_ar": ["إيلي", "سارة", "آبي", "رايلي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_272",
+    "questionText_en": "Which series features a bounty hunter known as Mando?",
+    "questionText_ar": "أي مسلسل يتضمن صائد جوائز يُعرف باسم ماندو؟",
+    "options_en": ["The Mandalorian", "Andor", "Obi-Wan Kenobi", "Ahsoka"],
+    "options_ar": ["ذا ماندالوريان", "أندور", "أوبي وان كينوبي", "أهسوكا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_273",
+    "questionText_en": "What is the real name of The Mandalorian?",
+    "questionText_ar": "ما الاسم الحقيقي لشخصية الماندالوريان؟",
+    "options_en": ["Din Djarin", "Boba Fett", "Jango Fett", "Cassian Andor"],
+    "options_ar": ["دين جارين", "بوبّا فيت", "جانغو فيت", "كاسيان أندور"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_274",
+    "questionText_en": "What species is Grogu commonly called?",
+    "questionText_ar": "ما نوع الكائن الذي ينتمي إليه غروغو؟",
+    "options_en": ["His species is unnamed", "Wookiee", "Ewok", "Jawa"],
+    "options_ar": ["نوعه لم يُذكر اسمه", "ووكي", "إيوك", "جاوا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_275",
+    "questionText_en": "Which Star Wars character is known as Darth Vader?",
+    "questionText_ar": "أي شخصية من حرب النجوم تُعرف باسم دارث فيدر؟",
+    "options_en": ["Anakin Skywalker", "Luke Skywalker", "Obi-Wan Kenobi", "Han Solo"],
+    "options_ar": ["أناكين سكاي ووكر", "لوك سكاي ووكر", "أوبي وان كينوبي", "هان سولو"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_276",
+    "questionText_en": "Who is Luke Skywalker's sister?",
+    "questionText_ar": "من هي شقيقة لوك سكاي ووكر؟",
+    "options_en": ["Leia Organa", "Padmé Amidala", "Rey", "Ahsoka Tano"],
+    "options_ar": ["ليا أورغانا", "بادمي أميدالا", "راي", "أهسوكا تانو"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_277",
+    "questionText_en": "What is Han Solo's ship called?",
+    "questionText_ar": "ما اسم سفينة هان سولو؟",
+    "options_en": ["Millennium Falcon", "X-Wing", "Star Destroyer", "Ghost"],
+    "options_ar": ["ميلينيوم فالكون", "إكس-وينغ", "ستار ديستروير", "غوست"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_278",
+    "questionText_en": "Which Star Wars character is a Wookiee?",
+    "questionText_ar": "أي شخصية من حرب النجوم هي من فصيلة ووكي؟",
+    "options_en": ["Chewbacca", "Yoda", "R2-D2", "C-3PO"],
+    "options_ar": ["تشوباكا", "يودا", "آر تو دي تو", "سي ثري بي أو"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_279",
+    "questionText_en": "Which Star Wars character is a small green Jedi Master?",
+    "questionText_ar": "أي شخصية من حرب النجوم هي سيد جيدي أخضر صغير؟",
+    "options_en": ["Yoda", "Gollum", "Dobby", "Gizmo"],
+    "options_ar": ["يودا", "غولوم", "دوبي", "غيزمو"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_280",
+    "questionText_en": "Which Star Wars film introduced Darth Maul?",
+    "questionText_ar": "أي فيلم من حرب النجوم قدم شخصية دارث مول؟",
+    "options_en": ["The Phantom Menace", "Attack of the Clones", "Revenge of the Sith", "A New Hope"],
+    "options_ar": ["تهديد الشبح", "هجوم المستنسخين", "انتقام السيث", "أمل جديد"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_281",
+    "questionText_en": "Which actor played Captain Jack Sparrow?",
+    "questionText_ar": "أي ممثل لعب دور الكابتن جاك سبارو؟",
+    "options_en": ["Johnny Depp", "Orlando Bloom", "Javier Bardem", "Geoffrey Rush"],
+    "options_ar": ["جوني ديب", "أورلاندو بلوم", "خافيير بارديم", "جيفري راش"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_282",
+    "questionText_en": "What is the name of the ship commanded by Jack Sparrow?",
+    "questionText_ar": "ما اسم السفينة التي يقودها جاك سبارو؟",
+    "options_en": ["Black Pearl", "Flying Dutchman", "Queen Anne's Revenge", "Jolly Roger"],
+    "options_ar": ["اللؤلؤة السوداء", "الهولندي الطائر", "انتقام الملكة آن", "جولي روجر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_283",
+    "questionText_en": "Who played Elizabeth Swann in Pirates of the Caribbean?",
+    "questionText_ar": "من لعبت دور إليزابيث سوان في قراصنة الكاريبي؟",
+    "options_en": ["Keira Knightley", "Natalie Portman", "Anne Hathaway", "Rachel McAdams"],
+    "options_ar": ["كيرا نايتلي", "ناتالي بورتمان", "آن هاثاواي", "راشيل ماكآدامز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_284",
+    "questionText_en": "Who played Will Turner in Pirates of the Caribbean?",
+    "questionText_ar": "من لعب دور ويل تيرنر في قراصنة الكاريبي؟",
+    "options_en": ["Orlando Bloom", "Jude Law", "Henry Cavill", "Kit Harington"],
+    "options_ar": ["أورلاندو بلوم", "جود لو", "هنري كافيل", "كيت هارينغتون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_285",
+    "questionText_en": "Which actor played Harry Potter?",
+    "questionText_ar": "من لعب دور هاري بوتر؟",
+    "options_en": ["Daniel Radcliffe", "Rupert Grint", "Tom Felton", "Elijah Wood"],
+    "options_ar": ["دانيال رادكليف", "روبرت غرينت", "توم فيلتون", "إيليا وود"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_286",
+    "questionText_en": "What house was Harry Potter sorted into?",
+    "questionText_ar": "إلى أي منزل في هوغوورتس تم تصنيف هاري بوتر؟",
+    "options_en": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
+    "options_ar": ["غريفندور", "سليذرين", "رافنكلو", "هافلباف"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_287",
+    "questionText_en": "What house was Draco Malfoy in?",
+    "questionText_ar": "إلى أي منزل ينتمي دراكو مالفوي؟",
+    "options_en": ["Slytherin", "Gryffindor", "Ravenclaw", "Hufflepuff"],
+    "options_ar": ["سليذرين", "غريفندور", "رافنكلو", "هافلباف"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_288",
+    "questionText_en": "What is the name of Harry Potter's best male friend?",
+    "questionText_ar": "ما اسم أفضل صديق لهاري بوتر؟",
+    "options_en": ["Ron Weasley", "Neville Longbottom", "Draco Malfoy", "Seamus Finnigan"],
+    "options_ar": ["رون ويزلي", "نيفيل لونغبوتوم", "دراكو مالفوي", "سيموس فينيغان"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_289",
+    "questionText_en": "Who is the headmaster of Hogwarts for most of the Harry Potter series?",
+    "questionText_ar": "من هو مدير مدرسة هوغوورتس خلال معظم سلسلة هاري بوتر؟",
+    "options_en": ["Albus Dumbledore", "Severus Snape", "Minerva McGonagall", "Rubeus Hagrid"],
+    "options_ar": ["ألباس دمبلدور", "سيفيروس سنيب", "مينيرفا ماكغوناغال", "روبيوس هاغريد"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_290",
+    "questionText_en": "What sport is played on broomsticks in Harry Potter?",
+    "questionText_ar": "ما الرياضة التي تُلعب على المكانس في هاري بوتر؟",
+    "options_en": ["Quidditch", "Gobstones", "Duelling", "Broom Racing"],
+    "options_ar": ["كويدتش", "غوبستونز", "المبارزة", "سباق المكانس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_291",
+    "questionText_en": "What is the golden ball worth the most in Quidditch?",
+    "questionText_ar": "ما اسم الكرة الذهبية الأعلى قيمة في الكويدتش؟",
+    "options_en": ["Golden Snitch", "Quaffle", "Bludger", "Golden Ball"],
+    "options_ar": ["الكرة الذهبية", "الكوافل", "البلودجر", "الكرة الذهبية الكبيرة"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_292",
+    "questionText_en": "Which character owns a house-elf named Dobby?",
+    "questionText_ar": "أي شخصية ترتبط بالجان المنزلي دوبي؟",
+    "options_en": ["Harry Potter", "Draco Malfoy", "Lucius Malfoy", "Ron Weasley"],
+    "options_ar": ["هاري بوتر", "دراكو مالفوي", "لوسيوس مالفوي", "رون ويزلي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_293",
+    "questionText_en": "What is the name of the magical bank in Harry Potter?",
+    "questionText_ar": "ما اسم البنك السحري في هاري بوتر؟",
+    "options_en": ["Gringotts", "Grimmauld", "Hogwarts Bank", "Diagon Bank"],
+    "options_ar": ["غرينغوتس", "غريمولد", "بنك هوغوورتس", "بنك دياغون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_294",
+    "questionText_en": "What is the shopping street for wizards called?",
+    "questionText_ar": "ما اسم شارع التسوق الخاص بالسحرة؟",
+    "options_en": ["Diagon Alley", "Knockturn Alley", "Wizard Street", "Hogsmeade Road"],
+    "options_ar": ["زقاق دياغون", "زقاق نوكتورن", "شارع السحرة", "طريق هوجزميد"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_295",
+    "questionText_en": "Which actor played Gandalf in The Lord of the Rings?",
+    "questionText_ar": "من لعب دور غاندالف في سيد الخواتم؟",
+    "options_en": ["Ian McKellen", "Christopher Lee", "Hugo Weaving", "Sean Bean"],
+    "options_ar": ["إيان ماكيلين", "كريستوفر لي", "هيوغو ويفنغ", "شون بين"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_296",
+    "questionText_en": "What is the name of Frodo's loyal friend?",
+    "questionText_ar": "ما اسم صديق فرودو الوفي؟",
+    "options_en": ["Samwise Gamgee", "Merry", "Pippin", "Boromir"],
+    "options_ar": ["ساموايز غامجي", "ميري", "بيبين", "بورومير"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_297",
+    "questionText_en": "What is the name of Frodo's sword?",
+    "questionText_ar": "ما اسم سيف فرودو؟",
+    "options_en": ["Sting", "Andúril", "Glamdring", "Narsil"],
+    "options_ar": ["ستينغ", "أندوريل", "غلامدرينغ", "نارسيل"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_298",
+    "questionText_en": "Who carries the One Ring for most of the journey?",
+    "questionText_ar": "من يحمل الخاتم الأوحد خلال معظم الرحلة؟",
+    "options_en": ["Frodo Baggins", "Samwise Gamgee", "Gandalf", "Aragorn"],
+    "options_ar": ["فرودو باغنز", "ساموايز غامجي", "غاندالف", "أراغورن"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_299",
+    "questionText_en": "What is the name of Gollum's former identity?",
+    "questionText_ar": "ما الاسم السابق لهوية غولوم؟",
+    "options_en": ["Sméagol", "Déagol", "Isildur", "Bilbo"],
+    "options_ar": ["سميغول", "دياغول", "إيسيلدور", "بيلبو"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_300",
+    "questionText_en": "Who played Aragorn in The Lord of the Rings?",
+    "questionText_ar": "من لعب دور أراغورن في سيد الخواتم؟",
+    "options_en": ["Viggo Mortensen", "Orlando Bloom", "Sean Astin", "Elijah Wood"],
+    "options_ar": ["فيغو مورتنسن", "أورلاندو بلوم", "شون أستن", "إيليا وود"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_301",
+    "questionText_en": "Who played Legolas?",
+    "questionText_ar": "من لعب دور ليغولاس؟",
+    "options_en": ["Orlando Bloom", "Lee Pace", "Hugo Weaving", "Viggo Mortensen"],
+    "options_ar": ["أورلاندو بلوم", "لي بيس", "هيوغو ويفنغ", "فيغو مورتنسن"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_302",
+    "questionText_en": "Which fictional city is home to Batman?",
+    "questionText_ar": "ما اسم المدينة الخيالية التي يعيش فيها باتمان؟",
+    "options_en": ["Gotham City", "Metropolis", "Star City", "Central City"],
+    "options_ar": ["مدينة غوثام", "متروبوليس", "ستار سيتي", "سنترال سيتي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_303",
+    "questionText_en": "What is Batman's real name?",
+    "questionText_ar": "ما الاسم الحقيقي لباتمان؟",
+    "options_en": ["Bruce Wayne", "Clark Kent", "Peter Parker", "Tony Stark"],
+    "options_ar": ["بروس واين", "كلارك كينت", "بيتر باركر", "توني ستارك"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_304",
+    "questionText_en": "What is Superman's real name?",
+    "questionText_ar": "ما الاسم الحقيقي لسوبرمان؟",
+    "options_en": ["Clark Kent", "Bruce Wayne", "Steve Rogers", "Barry Allen"],
+    "options_ar": ["كلارك كينت", "بروس واين", "ستيف روجرز", "باري ألين"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_305",
+    "questionText_en": "What planet is Superman from?",
+    "questionText_ar": "من أي كوكب ينحدر سوبرمان؟",
+    "options_en": ["Krypton", "Mars", "Asgard", "Vulcan"],
+    "options_ar": ["كريبتون", "المريخ", "أسغارد", "فولكان"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_306",
+    "questionText_en": "What is Spider-Man's real name?",
+    "questionText_ar": "ما الاسم الحقيقي لسبايدرمان؟",
+    "options_en": ["Peter Parker", "Miles Morales", "Harry Osborn", "Eddie Brock"],
+    "options_ar": ["بيتر باركر", "مايلز موراليس", "هاري أوزبورن", "إيدي بروك"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_307",
+    "questionText_en": "What is Iron Man's real name?",
+    "questionText_ar": "ما الاسم الحقيقي لآيرون مان؟",
+    "options_en": ["Tony Stark", "Steve Stark", "Bruce Banner", "James Rhodes"],
+    "options_ar": ["توني ستارك", "ستيف ستارك", "بروس بانر", "جيمس رودس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_308",
+    "questionText_en": "What is Captain America's real name?",
+    "questionText_ar": "ما الاسم الحقيقي لكابتن أمريكا؟",
+    "options_en": ["Steve Rogers", "Bucky Barnes", "Sam Wilson", "Peter Parker"],
+    "options_ar": ["ستيف روجرز", "باكي بارنز", "سام ويلسون", "بيتر باركر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_309",
+    "questionText_en": "What is Hulk's real name?",
+    "questionText_ar": "ما الاسم الحقيقي لهالك؟",
+    "options_en": ["Bruce Banner", "Bruce Wayne", "Tony Stark", "Hank Pym"],
+    "options_ar": ["بروس بانر", "بروس واين", "توني ستارك", "هانك بيم"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_310",
+    "questionText_en": "What is Thor's magical hammer called?",
+    "questionText_ar": "ما اسم مطرقة ثور السحرية؟",
+    "options_en": ["Mjolnir", "Stormbreaker", "Excalibur", "Gungnir"],
+    "options_ar": ["ميولنير", "ستورم بريكر", "إكسكاليبور", "غونغنير"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_311",
+    "questionText_en": "What is Black Panther's real name?",
+    "questionText_ar": "ما الاسم الحقيقي لبلاك بانثر؟",
+    "options_en": ["T'Challa", "M'Baku", "Erik Killmonger", "Shuri"],
+    "options_ar": ["تي تشالا", "إم باكو", "إريك كيلمونغر", "شوري"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_312",
+    "questionText_en": "What is Doctor Strange's profession before becoming a sorcerer?",
+    "questionText_ar": "ما مهنة دكتور سترينج قبل أن يصبح ساحرًا؟",
+    "options_en": ["Neurosurgeon", "Physicist", "Lawyer", "Detective"],
+    "options_ar": ["جراح أعصاب", "فيزيائي", "محامٍ", "محقق"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_313",
+    "questionText_en": "Which Marvel hero uses a shield as his signature weapon?",
+    "questionText_ar": "أي بطل من مارفل يستخدم الدرع كسلاح مميز؟",
+    "options_en": ["Captain America", "Iron Man", "Thor", "Hawkeye"],
+    "options_ar": ["كابتن أمريكا", "آيرون مان", "ثور", "هوك آي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_314",
+    "questionText_en": "What is Hawkeye's real name?",
+    "questionText_ar": "ما الاسم الحقيقي لهوك آي؟",
+    "options_en": ["Clint Barton", "Scott Lang", "Sam Wilson", "Bucky Barnes"],
+    "options_ar": ["كلينت بارتون", "سكوت لانغ", "سام ويلسون", "باكي بارنز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_315",
+    "questionText_en": "What is Ant-Man's real name in the MCU?",
+    "questionText_ar": "ما الاسم الحقيقي لآنت مان في عالم مارفل السينمائي؟",
+    "options_en": ["Scott Lang", "Hank Pym", "Hope van Dyne", "Eric O'Grady"],
+    "options_ar": ["سكوت لانغ", "هانك بيم", "هوب فان داين", "إريك أوغرادي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_316",
+    "questionText_en": "Which superhero is known as the Flash?",
+    "questionText_ar": "أي بطل خارق يُعرف باسم فلاش؟",
+    "options_en": ["Barry Allen", "Hal Jordan", "Oliver Queen", "Victor Stone"],
+    "options_ar": ["باري ألين", "هال جوردان", "أوليفر كوين", "فيكتور ستون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_317",
+    "questionText_en": "What is Green Lantern's power source called?",
+    "questionText_ar": "ما اسم مصدر قوة الفانوس الأخضر؟",
+    "options_en": ["Power Ring", "Mother Box", "Infinity Stone", "Arc Reactor"],
+    "options_ar": ["خاتم القوة", "الصندوق الأم", "حجر اللانهاية", "المفاعل القوسي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_318",
+    "questionText_en": "What is Wonder Woman's homeland called?",
+    "questionText_ar": "ما اسم موطن المرأة المعجزة؟",
+    "options_en": ["Themyscira", "Atlantis", "Asgard", "Wakanda"],
+    "options_ar": ["ثيميسكيرا", "أتلانتس", "أسغارد", "واكاندا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_319",
+    "questionText_en": "What is Aquaman's real name?",
+    "questionText_ar": "ما الاسم الحقيقي لأكوامان؟",
+    "options_en": ["Arthur Curry", "Arthur Dent", "Orm Curry", "Victor Stone"],
+    "options_ar": ["آرثر كاري", "آرثر دينت", "أورم كاري", "فيكتور ستون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_320",
+    "questionText_en": "Which villain is the archenemy of Batman?",
+    "questionText_ar": "من هو العدو اللدود لباتمان؟",
+    "options_en": ["Joker", "Lex Luthor", "Green Goblin", "Magneto"],
+    "options_ar": ["الجوكر", "ليكس لوثر", "غرين غوبلن", "ماغنيتو"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_321",
+    "questionText_en": "Which villain is Superman's famous enemy?",
+    "questionText_ar": "من هو عدو سوبرمان الشهير؟",
+    "options_en": ["Lex Luthor", "Joker", "Thanos", "Kingpin"],
+    "options_ar": ["ليكس لوثر", "الجوكر", "ثانوس", "كينغبين"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_322",
+    "questionText_en": "Which Marvel villain seeks the Infinity Stones?",
+    "questionText_ar": "أي شرير من مارفل يسعى وراء أحجار اللانهاية؟",
+    "options_en": ["Thanos", "Loki", "Ultron", "Red Skull"],
+    "options_ar": ["ثانوس", "لوكي", "ألترون", "ريد سكول"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_323",
+    "questionText_en": "How many Infinity Stones are there?",
+    "questionText_ar": "كم عدد أحجار اللانهاية؟",
+    "options_en": ["6", "5", "7", "8"],
+    "options_ar": ["6", "5", "7", "8"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_324",
+    "questionText_en": "Which stone controls time?",
+    "questionText_ar": "أي حجر يتحكم بالزمن؟",
+    "options_en": ["Time Stone", "Space Stone", "Mind Stone", "Power Stone"],
+    "options_ar": ["حجر الزمن", "حجر الفضاء", "حجر العقل", "حجر القوة"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_325",
+    "questionText_en": "Which stone is associated with Vision?",
+    "questionText_ar": "أي حجر يرتبط بشخصية فيجن؟",
+    "options_en": ["Mind Stone", "Soul Stone", "Reality Stone", "Power Stone"],
+    "options_ar": ["حجر العقل", "حجر الروح", "حجر الواقع", "حجر القوة"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_326",
+    "questionText_en": "Which superhero team includes Iron Man, Thor, and Hulk?",
+    "questionText_ar": "أي فريق أبطال خارقين يضم آيرون مان وثور وهالك؟",
+    "options_en": ["The Avengers", "Justice League", "X-Men", "Guardians"],
+    "options_ar": ["المنتقمون", "رابطة العدالة", "إكس-من", "الحراس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_327",
+    "questionText_en": "Which team includes Superman and Batman?",
+    "questionText_ar": "أي فريق يضم سوبرمان وباتمان؟",
+    "options_en": ["Justice League", "Avengers", "Fantastic Four", "X-Men"],
+    "options_ar": ["رابطة العدالة", "المنتقمون", "فانتاستك فور", "إكس-من"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_328",
+    "questionText_en": "Which Marvel team includes Wolverine?",
+    "questionText_ar": "أي فريق من مارفل يضم وولفرين؟",
+    "options_en": ["X-Men", "Avengers", "Guardians of the Galaxy", "Fantastic Four"],
+    "options_ar": ["إكس-من", "المنتقمون", "حراس المجرة", "فانتاستك فور"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_329",
+    "questionText_en": "Which actor played Deadpool?",
+    "questionText_ar": "من لعب دور ديدبول؟",
+    "options_en": ["Ryan Reynolds", "Ryan Gosling", "Chris Evans", "Chris Pine"],
+    "options_ar": ["رايان رينولدز", "رايان غوسلينغ", "كريس إيفانز", "كريس باين"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_330",
+    "questionText_en": "What is Deadpool's real name?",
+    "questionText_ar": "ما الاسم الحقيقي لديدبول؟",
+    "options_en": ["Wade Wilson", "Peter Parker", "Logan", "Scott Summers"],
+    "options_ar": ["وايد ويلسون", "بيتر باركر", "لوغان", "سكوت سامرز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_331",
+    "questionText_en": "Who played Black Widow in the MCU?",
+    "questionText_ar": "من لعبت دور بلاك ويدو في عالم مارفل السينمائي؟",
+    "options_en": ["Scarlett Johansson", "Emily Blunt", "Brie Larson", "Zoe Saldana"],
+    "options_ar": ["سكارليت جوهانسون", "إيميلي بلنت", "بري لارسون", "زوي سالدانا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_332",
+    "questionText_en": "What is Black Widow's real name?",
+    "questionText_ar": "ما الاسم الحقيقي لبلاك ويدو؟",
+    "options_en": ["Natasha Romanoff", "Wanda Maximoff", "Carol Danvers", "Hope van Dyne"],
+    "options_ar": ["ناتاشا رومانوف", "واندا ماكسيموف", "كارول دانفرز", "هوب فان داين"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_333",
+    "questionText_en": "What is Captain Marvel's real name?",
+    "questionText_ar": "ما الاسم الحقيقي لكابتن مارفل؟",
+    "options_en": ["Carol Danvers", "Natasha Romanoff", "Wanda Maximoff", "Shuri"],
+    "options_ar": ["كارول دانفرز", "ناتاشا رومانوف", "واندا ماكسيموف", "شوري"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_334",
+    "questionText_en": "Which actress played Captain Marvel?",
+    "questionText_ar": "من لعبت دور كابتن مارفل؟",
+    "options_en": ["Brie Larson", "Gal Gadot", "Elizabeth Olsen", "Scarlett Johansson"],
+    "options_ar": ["بري لارسون", "غال غادوت", "إليزابيث أولسن", "سكارليت جوهانسون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_335",
+    "questionText_en": "Which Marvel character can manipulate reality and magic?",
+    "questionText_ar": "أي شخصية من مارفل تستطيع التحكم بالواقع والسحر؟",
+    "options_en": ["Scarlet Witch", "Black Widow", "Gamora", "Shuri"],
+    "options_ar": ["الساحرة القرمزية", "بلاك ويدو", "غامورا", "شوري"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_336",
+    "questionText_en": "What is Scarlet Witch's real name?",
+    "questionText_ar": "ما الاسم الحقيقي للساحرة القرمزية؟",
+    "options_en": ["Wanda Maximoff", "Wanda Wilson", "Natasha Maximoff", "Maria Hill"],
+    "options_ar": ["واندا ماكسيموف", "واندا ويلسون", "ناتاشا ماكسيموف", "ماريا هيل"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_337",
+    "questionText_en": "Which Marvel character is known as Star-Lord?",
+    "questionText_ar": "أي شخصية من مارفل تُعرف باسم ستار لورد؟",
+    "options_en": ["Peter Quill", "Peter Parker", "Scott Lang", "Sam Wilson"],
+    "options_ar": ["بيتر كويل", "بيتر باركر", "سكوت لانغ", "سام ويلسون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_338",
+    "questionText_en": "What is the name of the talking raccoon in Guardians of the Galaxy?",
+    "questionText_ar": "ما اسم الراكون المتكلم في حراس المجرة؟",
+    "options_en": ["Rocket", "Groot", "Drax", "Yondu"],
+    "options_ar": ["روكيت", "غروت", "دراكس", "يوندو"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_339",
+    "questionText_en": "What phrase does Groot famously say?",
+    "questionText_ar": "ما العبارة الشهيرة التي يقولها غروت؟",
+    "options_en": ["I am Groot", "We are Groot", "Groot smash", "I am tree"],
+    "options_ar": ["أنا غروت", "نحن غروت", "غروت يحطم", "أنا شجرة"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_340",
+    "questionText_en": "Which actor plays Star-Lord?",
+    "questionText_ar": "من يلعب دور ستار لورد؟",
+    "options_en": ["Chris Pratt", "Chris Evans", "Chris Hemsworth", "Chris Pine"],
+    "options_ar": ["كريس برات", "كريس إيفانز", "كريس هيمسورث", "كريس باين"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_341",
+    "questionText_en": "Who is the lead singer of U2?",
+    "questionText_ar": "من هو المغني الرئيسي لفرقة U2؟",
+    "options_en": ["Bono", "Sting", "Axl Rose", "Jon Bon Jovi"],
+    "options_ar": ["بونو", "ستينغ", "أكسل روز", "جون بون جوفي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_342",
+    "questionText_en": "Which band recorded 'Bohemian Rhapsody'?",
+    "questionText_ar": "أي فرقة سجلت أغنية بوهيميان رابسودي؟",
+    "options_en": ["Queen", "The Beatles", "ABBA", "The Rolling Stones"],
+    "options_ar": ["كوين", "البيتلز", "آبا", "رولينغ ستونز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_343",
+    "questionText_en": "Who was the lead singer of Nirvana?",
+    "questionText_ar": "من كان المغني الرئيسي لفرقة نيرفانا؟",
+    "options_en": ["Kurt Cobain", "Eddie Vedder", "Chris Cornell", "Dave Grohl"],
+    "options_ar": ["كورت كوبين", "إدي فيدر", "كريس كورنيل", "ديف غرول"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_344",
+    "questionText_en": "Which band released 'Smells Like Teen Spirit'?",
+    "questionText_ar": "أي فرقة أصدرت أغنية 'Smells Like Teen Spirit'؟",
+    "options_en": ["Nirvana", "Metallica", "Pearl Jam", "Green Day"],
+    "options_ar": ["نيرفانا", "ميتاليكا", "بيرل جام", "غرين داي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_345",
+    "questionText_en": "Which band released 'Hotel California'?",
+    "questionText_ar": "أي فرقة أصدرت أغنية 'Hotel California'؟",
+    "options_en": ["Eagles", "The Doors", "Fleetwood Mac", "Bon Jovi"],
+    "options_ar": ["إيغلز", "ذا دورز", "فليتوود ماك", "بون جوفي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_346",
+    "questionText_en": "Who is known as the King of Rock and Roll?",
+    "questionText_ar": "من يُعرف بملك الروك أند رول؟",
+    "options_en": ["Elvis Presley", "Chuck Berry", "Little Richard", "Buddy Holly"],
+    "options_ar": ["إلفيس بريسلي", "تشاك بيري", "ليتل ريتشارد", "بادي هولي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_347",
+    "questionText_en": "Which singer released 'Purple Rain'?",
+    "questionText_ar": "أي مغنٍ أصدر أغنية 'Purple Rain'؟",
+    "options_en": ["Prince", "Michael Jackson", "David Bowie", "Elton John"],
+    "options_ar": ["برنس", "مايكل جاكسون", "ديفيد بوي", "إلتون جون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_348",
+    "questionText_en": "Which singer released the album 'Thriller'?",
+    "questionText_ar": "من أصدر ألبوم 'Thriller'؟",
+    "options_en": ["Michael Jackson", "Prince", "Stevie Wonder", "Usher"],
+    "options_ar": ["مايكل جاكسون", "برنس", "ستيفي وندر", "آشر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_349",
+    "questionText_en": "Who sang 'Like a Prayer'?",
+    "questionText_ar": "من غنت أغنية 'Like a Prayer'؟",
+    "options_en": ["Madonna", "Cher", "Cyndi Lauper", "Whitney Houston"],
+    "options_ar": ["مادونا", "شير", "سيندي لوبر", "ويتني هيوستن"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_350",
+    "questionText_en": "Who sang 'I Will Always Love You' in The Bodyguard?",
+    "questionText_ar": "من غنت 'I Will Always Love You' في فيلم ذا بودي غارد؟",
+    "options_en": ["Whitney Houston", "Mariah Carey", "Celine Dion", "Adele"],
+    "options_ar": ["ويتني هيوستن", "ماريا كاري", "سيلين ديون", "أديل"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_351",
+    "questionText_en": "Which singer is famous for the song 'My Way'?",
+    "questionText_ar": "أي مغنٍ اشتهر بأغنية 'My Way'؟",
+    "options_en": ["Frank Sinatra", "Dean Martin", "Elvis Presley", "Nat King Cole"],
+    "options_ar": ["فرانك سيناترا", "دين مارتن", "إلفيس بريسلي", "نات كينغ كول"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_352",
+    "questionText_en": "Which singer is known for the song 'Imagine'?",
+    "questionText_ar": "أي مغنٍ اشتهر بأغنية 'Imagine'؟",
+    "options_en": ["John Lennon", "Paul McCartney", "George Harrison", "Elton John"],
+    "options_ar": ["جون لينون", "بول مكارتني", "جورج هاريسون", "إلتون جون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_353",
+    "questionText_en": "Which member of The Beatles wrote 'Yesterday'?",
+    "questionText_ar": "أي عضو من البيتلز شارك في كتابة أغنية 'Yesterday'؟",
+    "options_en": ["Paul McCartney", "John Lennon", "George Harrison", "Ringo Starr"],
+    "options_ar": ["بول مكارتني", "جون لينون", "جورج هاريسون", "رينغو ستار"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_354",
+    "questionText_en": "What was the name of The Beatles' drummer?",
+    "questionText_ar": "ما اسم عازف الطبول في فرقة البيتلز؟",
+    "options_en": ["Ringo Starr", "George Harrison", "John Lennon", "Paul McCartney"],
+    "options_ar": ["رينغو ستار", "جورج هاريسون", "جون لينون", "بول مكارتني"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_355",
+    "questionText_en": "Which band was formed by Mick Jagger and Keith Richards?",
+    "questionText_ar": "أي فرقة ارتبط تأسيسها بميك جاغر وكيث ريتشاردز؟",
+    "options_en": ["The Rolling Stones", "The Beatles", "Queen", "The Who"],
+    "options_ar": ["رولينغ ستونز", "البيتلز", "كوين", "ذا هو"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_356",
+    "questionText_en": "Who is the lead singer of Aerosmith?",
+    "questionText_ar": "من هو المغني الرئيسي لفرقة إيروسميث؟",
+    "options_en": ["Steven Tyler", "Jon Bon Jovi", "Ozzy Osbourne", "Axl Rose"],
+    "options_ar": ["ستيفن تايلر", "جون بون جوفي", "أوزي أوزبورن", "أكسل روز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_357",
+    "questionText_en": "Who is the lead singer of Guns N' Roses?",
+    "questionText_ar": "من هو المغني الرئيسي لفرقة غنز آن روزز؟",
+    "options_en": ["Axl Rose", "Slash", "Kirk Hammett", "Steven Tyler"],
+    "options_ar": ["أكسل روز", "سلاش", "كيرك هاميت", "ستيفن تايلر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_358",
+    "questionText_en": "Which band released 'Enter Sandman'?",
+    "questionText_ar": "أي فرقة أصدرت أغنية 'Enter Sandman'؟",
+    "options_en": ["Metallica", "Megadeth", "Iron Maiden", "Black Sabbath"],
+    "options_ar": ["ميتاليكا", "ميغاديث", "آيرون ميدن", "بلاك ساباث"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_359",
+    "questionText_en": "Who is the lead singer of Metallica?",
+    "questionText_ar": "من هو المغني الرئيسي لفرقة ميتاليكا؟",
+    "options_en": ["James Hetfield", "Lars Ulrich", "Kirk Hammett", "Dave Mustaine"],
+    "options_ar": ["جيمس هيتفيلد", "لارس أولريش", "كيرك هاميت", "ديف موستين"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_360",
+    "questionText_en": "Which singer is known as the Queen of Soul?",
+    "questionText_ar": "من تُعرف بملكة السول؟",
+    "options_en": ["Aretha Franklin", "Diana Ross", "Tina Turner", "Donna Summer"],
+    "options_ar": ["أريثا فرانكلين", "ديانا روس", "تينا تيرنر", "دونا سمر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_361",
+    "questionText_en": "Which singer was known as the Queen of Tejano music?",
+    "questionText_ar": "من كانت تُعرف بملكة موسيقى تيجانو؟",
+    "options_en": ["Selena", "Shakira", "Jennifer Lopez", "Gloria Estefan"],
+    "options_ar": ["سيلينا", "شاكيرا", "جينيفر لوبيز", "غلوريا إستيفان"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_362",
+    "questionText_en": "Which singer released 'Hips Don't Lie'?",
+    "questionText_ar": "من غنت أغنية 'Hips Don't Lie'؟",
+    "options_en": ["Shakira", "Rihanna", "Beyoncé", "Jennifer Lopez"],
+    "options_ar": ["شاكيرا", "ريانا", "بيونسيه", "جينيفر لوبيز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_363",
+    "questionText_en": "Which singer released 'Umbrella'?",
+    "questionText_ar": "من غنت أغنية 'Umbrella'؟",
+    "options_en": ["Rihanna", "Beyoncé", "Lady Gaga", "Katy Perry"],
+    "options_ar": ["ريانا", "بيونسيه", "ليدي غاغا", "كاتي بيري"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_364",
+    "questionText_en": "Which singer released 'Poker Face'?",
+    "questionText_ar": "من غنت أغنية 'Poker Face'؟",
+    "options_en": ["Lady Gaga", "Katy Perry", "Rihanna", "Britney Spears"],
+    "options_ar": ["ليدي غاغا", "كاتي بيري", "ريانا", "بريتني سبيرز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_365",
+    "questionText_en": "Which singer released 'Firework'?",
+    "questionText_ar": "من غنت أغنية 'Firework'؟",
+    "options_en": ["Katy Perry", "Lady Gaga", "Ariana Grande", "Demi Lovato"],
+    "options_ar": ["كاتي بيري", "ليدي غاغا", "أريانا غراندي", "ديمي لوفاتو"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_366",
+    "questionText_en": "Which singer released 'Thank U, Next'?",
+    "questionText_ar": "من غنت أغنية 'Thank U, Next'؟",
+    "options_en": ["Ariana Grande", "Selena Gomez", "Dua Lipa", "Miley Cyrus"],
+    "options_ar": ["أريانا غراندي", "سيلينا غوميز", "دوا ليبا", "مايلي سايرس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_367",
+    "questionText_en": "Which singer released 'Flowers'?",
+    "questionText_ar": "من غنت أغنية 'Flowers'؟",
+    "options_en": ["Miley Cyrus", "Taylor Swift", "Ariana Grande", "Dua Lipa"],
+    "options_ar": ["مايلي سايرس", "تايلور سويفت", "أريانا غراندي", "دوا ليبا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_368",
+    "questionText_en": "Which singer released 'Levitating'?",
+    "questionText_ar": "من غنت أغنية 'Levitating'؟",
+    "options_en": ["Dua Lipa", "Adele", "Sia", "Halsey"],
+    "options_ar": ["دوا ليبا", "أديل", "سيا", "هالسي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_369",
+    "questionText_en": "Which singer released 'Chandelier'?",
+    "questionText_ar": "من غنت أغنية 'Chandelier'؟",
+    "options_en": ["Sia", "Lorde", "Adele", "P!nk"],
+    "options_ar": ["سيا", "لورد", "أديل", "بينك"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_370",
+    "questionText_en": "Which singer released 'Royals'?",
+    "questionText_ar": "من غنت أغنية 'Royals'؟",
+    "options_en": ["Lorde", "Sia", "Halsey", "Billie Eilish"],
+    "options_ar": ["لورد", "سيا", "هالسي", "بيلي إيليش"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_371",
+    "questionText_en": "Which singer released 'Bad Guy'?",
+    "questionText_ar": "من غنت أغنية 'Bad Guy'؟",
+    "options_en": ["Billie Eilish", "Olivia Rodrigo", "Dua Lipa", "Lorde"],
+    "options_ar": ["بيلي إيليش", "أوليفيا رودريغو", "دوا ليبا", "لورد"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_372",
+    "questionText_en": "Which singer released 'Drivers License'?",
+    "questionText_ar": "من غنت أغنية 'Drivers License'؟",
+    "options_en": ["Olivia Rodrigo", "Billie Eilish", "Sabrina Carpenter", "Dua Lipa"],
+    "options_ar": ["أوليفيا رودريغو", "بيلي إيليش", "سابرينا كاربنتر", "دوا ليبا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_373",
+    "questionText_en": "Which singer is famous for the album '21'?",
+    "questionText_ar": "أي مغنية اشتهرت بألبوم '21'؟",
+    "options_en": ["Adele", "Taylor Swift", "Beyoncé", "Rihanna"],
+    "options_ar": ["أديل", "تايلور سويفت", "بيونسيه", "ريانا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_374",
+    "questionText_en": "Which singer released 'Rolling in the Deep'?",
+    "questionText_ar": "من غنت أغنية 'Rolling in the Deep'؟",
+    "options_en": ["Adele", "Amy Winehouse", "Sia", "Duffy"],
+    "options_ar": ["أديل", "إيمي واينهاوس", "سيا", "دافي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_375",
+    "questionText_en": "Which singer was known for the song 'Rehab'?",
+    "questionText_ar": "من اشتهرت بأغنية 'Rehab'؟",
+    "options_en": ["Amy Winehouse", "Adele", "Duffy", "Lana Del Rey"],
+    "options_ar": ["إيمي واينهاوس", "أديل", "دافي", "لانا ديل راي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_376",
+    "questionText_en": "Which singer released 'Single Ladies'?",
+    "questionText_ar": "من غنت أغنية 'Single Ladies'؟",
+    "options_en": ["Beyoncé", "Rihanna", "Ciara", "Nicki Minaj"],
+    "options_ar": ["بيونسيه", "ريانا", "سيارا", "نيكي ميناج"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_377",
+    "questionText_en": "Which rapper released 'Lose Yourself'?",
+    "questionText_ar": "أي مغنٍ راب أصدر أغنية 'Lose Yourself'؟",
+    "options_en": ["Eminem", "Drake", "Jay-Z", "50 Cent"],
+    "options_ar": ["إمينيم", "دريك", "جاي زي", "50 سنت"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_378",
+    "questionText_en": "What is Eminem's real name?",
+    "questionText_ar": "ما الاسم الحقيقي لإمينيم؟",
+    "options_en": ["Marshall Mathers", "Curtis Jackson", "Shawn Carter", "Aubrey Graham"],
+    "options_ar": ["مارشال ماذرز", "كورتيس جاكسون", "شون كارتر", "أوبري غراهام"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_379",
+    "questionText_en": "What is 50 Cent's real name?",
+    "questionText_ar": "ما الاسم الحقيقي لـ50 سنت؟",
+    "options_en": ["Curtis Jackson", "Marshall Mathers", "Shawn Carter", "Calvin Broadus"],
+    "options_ar": ["كورتيس جاكسون", "مارشال ماذرز", "شون كارتر", "كالفين برودوس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_380",
+    "questionText_en": "What is Snoop Dogg's birth name?",
+    "questionText_ar": "ما اسم سنوب دوغ الحقيقي؟",
+    "options_en": ["Calvin Broadus", "Curtis Jackson", "Andre Young", "Shawn Carter"],
+    "options_ar": ["كالفين برودوس", "كورتيس جاكسون", "أندريه يونغ", "شون كارتر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_381",
+    "questionText_en": "What is Dr. Dre's real name?",
+    "questionText_ar": "ما الاسم الحقيقي للدكتور دري؟",
+    "options_en": ["Andre Young", "Calvin Broadus", "Marshall Mathers", "Kendrick Duckworth"],
+    "options_ar": ["أندريه يونغ", "كالفين برودوس", "مارشال ماذرز", "كيندريك داكوورث"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_382",
+    "questionText_en": "Which rapper is known as Jay-Z?",
+    "questionText_ar": "ما الاسم الحقيقي لمغني الراب جاي زي؟",
+    "options_en": ["Shawn Carter", "Kanye West", "Aubrey Graham", "Travis Scott"],
+    "options_ar": ["شون كارتر", "كانييه ويست", "أوبري غراهام", "ترافيس سكوت"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_383",
+    "questionText_en": "What is Drake's first name?",
+    "questionText_ar": "ما الاسم الأول لدريك؟",
+    "options_en": ["Aubrey", "Shawn", "Travis", "Kendrick"],
+    "options_ar": ["أوبري", "شون", "ترافيس", "كيندريك"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_384",
+    "questionText_en": "Which rapper released 'God's Plan'?",
+    "questionText_ar": "أي مغني راب أصدر أغنية 'God's Plan'؟",
+    "options_en": ["Drake", "Kanye West", "Eminem", "Future"],
+    "options_ar": ["دريك", "كانييه ويست", "إمينيم", "فيوتشر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_385",
+    "questionText_en": "Which rapper released 'HUMBLE.'?",
+    "questionText_ar": "أي مغني راب أصدر أغنية 'HUMBLE.'؟",
+    "options_en": ["Kendrick Lamar", "Drake", "J. Cole", "Eminem"],
+    "options_ar": ["كيندريك لامار", "دريك", "جاي كول", "إمينيم"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_386",
+    "questionText_en": "Which singer is known for the album '1989'?",
+    "questionText_ar": "أي مغنية اشتهرت بألبوم '1989'؟",
+    "options_en": ["Taylor Swift", "Katy Perry", "Selena Gomez", "Ariana Grande"],
+    "options_ar": ["تايلور سويفت", "كاتي بيري", "سيلينا غوميز", "أريانا غراندي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_387",
+    "questionText_en": "Which singer released 'Bad Blood'?",
+    "questionText_ar": "من غنت أغنية 'Bad Blood'؟",
+    "options_en": ["Taylor Swift", "Katy Perry", "Rihanna", "Beyoncé"],
+    "options_ar": ["تايلور سويفت", "كاتي بيري", "ريانا", "بيونسيه"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_388",
+    "questionText_en": "Which singer is famous for the album 'Lemonade'?",
+    "questionText_ar": "أي مغنية اشتهرت بألبوم 'Lemonade'؟",
+    "options_en": ["Beyoncé", "Rihanna", "Alicia Keys", "Nicki Minaj"],
+    "options_ar": ["بيونسيه", "ريانا", "أليشيا كيز", "نيكي ميناج"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_389",
+    "questionText_en": "Which singer released 'Wrecking Ball'?",
+    "questionText_ar": "من غنت أغنية 'Wrecking Ball'؟",
+    "options_en": ["Miley Cyrus", "Selena Gomez", "Demi Lovato", "Pink"],
+    "options_ar": ["مايلي سايرس", "سيلينا غوميز", "ديمي لوفاتو", "بينك"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_390",
+    "questionText_en": "Which singer released 'Toxic'?",
+    "questionText_ar": "من غنت أغنية 'Toxic'؟",
+    "options_en": ["Britney Spears", "Christina Aguilera", "Pink", "Avril Lavigne"],
+    "options_ar": ["بريتني سبيرز", "كريستينا أغيليرا", "بينك", "أفريل لافين"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_391",
+    "questionText_en": "Which singer is known for 'Genie in a Bottle'?",
+    "questionText_ar": "من غنت أغنية 'Genie in a Bottle'؟",
+    "options_en": ["Christina Aguilera", "Britney Spears", "Jessica Simpson", "Kelly Clarkson"],
+    "options_ar": ["كريستينا أغيليرا", "بريتني سبيرز", "جيسيكا سيمبسون", "كيلي كلاركسون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_392",
+    "questionText_en": "Which singer won the first season of American Idol?",
+    "questionText_ar": "من فاز بالموسم الأول من أمريكان آيدول؟",
+    "options_en": ["Kelly Clarkson", "Carrie Underwood", "Jennifer Hudson", "Adam Lambert"],
+    "options_ar": ["كيلي كلاركسون", "كاري أندروود", "جينيفر هدسون", "آدم لامبرت"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_393",
+    "questionText_en": "Which singer is famous for 'Complicated'?",
+    "questionText_ar": "من غنت أغنية 'Complicated'؟",
+    "options_en": ["Avril Lavigne", "Pink", "Alanis Morissette", "Kelly Clarkson"],
+    "options_ar": ["أفريل لافين", "بينك", "ألانيس موريسيت", "كيلي كلاركسون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_394",
+    "questionText_en": "Which singer released 'What Makes You Beautiful' with One Direction?",
+    "questionText_ar": "أي فرقة أصدرت أغنية 'What Makes You Beautiful'؟",
+    "options_en": ["One Direction", "Westlife", "Backstreet Boys", "NSYNC"],
+    "options_ar": ["وان دايركشن", "ويست لايف", "باك ستريت بويز", "إن سينك"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_395",
+    "questionText_en": "Which member of One Direction later became a solo star with 'Sign of the Times'?",
+    "questionText_ar": "أي عضو من وان دايركشن أصبح نجمًا منفردًا بأغنية 'Sign of the Times'؟",
+    "options_en": ["Harry Styles", "Niall Horan", "Liam Payne", "Louis Tomlinson"],
+    "options_ar": ["هاري ستايلز", "نايل هوران", "ليام باين", "لويس توملينسون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_396",
+    "questionText_en": "Which singer released 'Watermelon Sugar'?",
+    "questionText_ar": "من غنى أغنية 'Watermelon Sugar'؟",
+    "options_en": ["Harry Styles", "Ed Sheeran", "Shawn Mendes", "Bruno Mars"],
+    "options_ar": ["هاري ستايلز", "إد شيران", "شون مينديز", "برونو مارس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_397",
+    "questionText_en": "Which singer released 'Shape of You'?",
+    "questionText_ar": "من غنى أغنية 'Shape of You'؟",
+    "options_en": ["Ed Sheeran", "Sam Smith", "Justin Bieber", "Shawn Mendes"],
+    "options_ar": ["إد شيران", "سام سميث", "جاستن بيبر", "شون مينديز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_398",
+    "questionText_en": "Which singer released 'Uptown Funk' with Mark Ronson?",
+    "questionText_ar": "من غنى أغنية 'Uptown Funk' مع مارك رونسون؟",
+    "options_en": ["Bruno Mars", "Pharrell Williams", "Justin Timberlake", "The Weeknd"],
+    "options_ar": ["برونو مارس", "فاريل ويليامز", "جاستن تيمبرليك", "ذا ويكند"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_399",
+    "questionText_en": "Which singer released 'Blinding Lights'?",
+    "questionText_ar": "من غنى أغنية 'Blinding Lights'؟",
+    "options_en": ["The Weeknd", "Bruno Mars", "Post Malone", "Drake"],
+    "options_ar": ["ذا ويكند", "برونو مارس", "بوست مالون", "دريك"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_400",
+    "questionText_en": "What is The Weeknd's birth name?",
+    "questionText_ar": "ما الاسم الحقيقي لذا ويكند؟",
+    "options_en": ["Abel Tesfaye", "Abel Smith", "Theodore Tesfaye", "Abe Williams"],
+    "options_ar": ["أبيل تسفاي", "أبيل سميث", "ثيودور تسفاي", "أبي ويليامز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_401",
+    "questionText_en": "Which singer released 'Circles'?",
+    "questionText_ar": "من غنى أغنية 'Circles'؟",
+    "options_en": ["Post Malone", "The Weeknd", "Drake", "Travis Scott"],
+    "options_ar": ["بوست مالون", "ذا ويكند", "دريك", "ترافيس سكوت"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_402",
+    "questionText_en": "Which singer is known for 'Happy'?",
+    "questionText_ar": "من اشتهر بأغنية 'Happy'؟",
+    "options_en": ["Pharrell Williams", "Bruno Mars", "Justin Timberlake", "Will Smith"],
+    "options_ar": ["فاريل ويليامز", "برونو مارس", "جاستن تيمبرليك", "ويل سميث"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_403",
+    "questionText_en": "Which singer released 'SexyBack'?",
+    "questionText_ar": "من غنى أغنية 'SexyBack'؟",
+    "options_en": ["Justin Timberlake", "Usher", "Justin Bieber", "Bruno Mars"],
+    "options_ar": ["جاستن تيمبرليك", "آشر", "جاستن بيبر", "برونو مارس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_404",
+    "questionText_en": "Which singer released 'Yeah!' featuring Lil Jon and Ludacris?",
+    "questionText_ar": "من غنى أغنية 'Yeah!' بمشاركة ليل جون ولوداكريس؟",
+    "options_en": ["Usher", "Chris Brown", "Ne-Yo", "Trey Songz"],
+    "options_ar": ["آشر", "كريس براون", "ني-يو", "تري سونغز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_405",
+    "questionText_en": "Which singer is known for 'No Scrubs' with TLC?",
+    "questionText_ar": "أي فرقة اشتهرت بأغنية 'No Scrubs'؟",
+    "options_en": ["TLC", "Destiny's Child", "SWV", "En Vogue"],
+    "options_ar": ["تي إل سي", "ديستنيز تشايلد", "إس دبليو في", "إن فوغ"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_406",
+    "questionText_en": "Which girl group included Beyoncé before her solo career?",
+    "questionText_ar": "أي فرقة فتيات كانت بيونسيه عضوة فيها قبل مسيرتها الفردية؟",
+    "options_en": ["Destiny's Child", "TLC", "Spice Girls", "Little Mix"],
+    "options_ar": ["ديستنيز تشايلد", "تي إل سي", "سبايس غيرلز", "ليتل ميكس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_407",
+    "questionText_en": "Which group released 'Wannabe'?",
+    "questionText_ar": "أي فرقة أصدرت أغنية 'Wannabe'؟",
+    "options_en": ["Spice Girls", "Destiny's Child", "Little Mix", "Sugababes"],
+    "options_ar": ["سبايس غيرلز", "ديستنيز تشايلد", "ليتل ميكس", "سوجابيبس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_408",
+    "questionText_en": "Which singer was known as Sporty Spice?",
+    "questionText_ar": "من كانت تُعرف بلقب سبورتي سبايس؟",
+    "options_en": ["Melanie C", "Emma Bunton", "Geri Halliwell", "Mel B"],
+    "options_ar": ["ميلاني سي", "إيما بانتون", "غيري هاليويل", "ميل بي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_409",
+    "questionText_en": "Which singer was known as Baby Spice?",
+    "questionText_ar": "من كانت تُعرف بلقب بيبي سبايس؟",
+    "options_en": ["Emma Bunton", "Melanie C", "Geri Halliwell", "Victoria Beckham"],
+    "options_ar": ["إيما بانتون", "ميلاني سي", "غيري هاليويل", "فيكتوريا بيكهام"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_410",
+    "questionText_en": "Which singer was known as Posh Spice?",
+    "questionText_ar": "من كانت تُعرف بلقب بوش سبايس؟",
+    "options_en": ["Victoria Beckham", "Emma Bunton", "Mel B", "Geri Halliwell"],
+    "options_ar": ["فيكتوريا بيكهام", "إيما بانتون", "ميل بي", "غيري هاليويل"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_411",
+    "questionText_en": "Which actor played Jack in Titanic?",
+    "questionText_ar": "من لعب دور جاك في تايتانيك؟",
+    "options_en": ["Leonardo DiCaprio", "Matt Damon", "Brad Pitt", "Johnny Depp"],
+    "options_ar": ["ليوناردو دي كابريو", "مات ديمون", "براد بيت", "جوني ديب"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_412",
+    "questionText_en": "Which actress played Rose in Titanic?",
+    "questionText_ar": "من لعبت دور روز في تايتانيك؟",
+    "options_en": ["Kate Winslet", "Nicole Kidman", "Naomi Watts", "Rachel Weisz"],
+    "options_ar": ["كيت وينسلت", "نيكول كيدمان", "نعومي واتس", "راشيل وايز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_413",
+    "questionText_en": "Which actor played the lead in Top Gun: Maverick?",
+    "questionText_ar": "من لعب الدور الرئيسي في توب غان: مافريك؟",
+    "options_en": ["Tom Cruise", "Brad Pitt", "Chris Pine", "George Clooney"],
+    "options_ar": ["توم كروز", "براد بيت", "كريس باين", "جورج كلوني"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_414",
+    "questionText_en": "Which actress played Barbie in the 2023 Barbie movie?",
+    "questionText_ar": "من لعبت دور باربي في فيلم باربي لعام 2023؟",
+    "options_en": ["Margot Robbie", "Emma Stone", "Anne Hathaway", "Florence Pugh"],
+    "options_ar": ["مارغوت روبي", "إيما ستون", "آن هاثاواي", "فلورنس بيو"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_415",
+    "questionText_en": "Who played Ken in the 2023 Barbie movie?",
+    "questionText_ar": "من لعب دور كين في فيلم باربي لعام 2023؟",
+    "options_en": ["Ryan Gosling", "Ryan Reynolds", "Chris Evans", "Channing Tatum"],
+    "options_ar": ["رايان غوسلينغ", "رايان رينولدز", "كريس إيفانز", "تشانينغ تيتوم"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_416",
+    "questionText_en": "Which movie features a character named Elle Woods?",
+    "questionText_ar": "أي فيلم يتضمن شخصية إيلي وودز؟",
+    "options_en": ["Legally Blonde", "Mean Girls", "Clueless", "The Devil Wears Prada"],
+    "options_ar": ["شقراء قانونيًا", "فتيات لئيمات", "كلوليس", "الشيطان يرتدي برادا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_417",
+    "questionText_en": "Which actress played Regina George?",
+    "questionText_ar": "من لعبت دور ريجينا جورج؟",
+    "options_en": ["Rachel McAdams", "Lindsay Lohan", "Amanda Seyfried", "Emma Stone"],
+    "options_ar": ["راشيل ماكآدامز", "ليندسي لوهان", "أماندا سيفريد", "إيما ستون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_418",
+    "questionText_en": "Which movie features the Plastics?",
+    "questionText_ar": "أي فيلم يتضمن مجموعة الفتيات المعروفة باسم The Plastics؟",
+    "options_en": ["Mean Girls", "Clueless", "Easy A", "Bring It On"],
+    "options_ar": ["فتيات لئيمات", "كلوليس", "إيزي إيه", "برينغ إت أون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_419",
+    "questionText_en": "Who played Cher Horowitz in Clueless?",
+    "questionText_ar": "من لعبت دور شير هورويتز في كلوليس؟",
+    "options_en": ["Alicia Silverstone", "Sarah Michelle Gellar", "Drew Barrymore", "Cameron Diaz"],
+    "options_ar": ["أليسيا سيلفرستون", "سارة ميشيل غيلار", "درو باريمور", "كاميرون دياز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_420",
+    "questionText_en": "Which movie stars Meryl Streep as Miranda Priestly?",
+    "questionText_ar": "أي فيلم تلعب فيه ميريل ستريب دور ميراندا بريستلي؟",
+    "options_en": ["The Devil Wears Prada", "Mamma Mia!", "Julie & Julia", "The Iron Lady"],
+    "options_ar": ["الشيطان يرتدي برادا", "ماما ميا!", "جولي وجوليا", "المرأة الحديدية"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_421",
+    "questionText_en": "Which movie features the character Mia Wallace?",
+    "questionText_ar": "أي فيلم يتضمن شخصية ميا والاس؟",
+    "options_en": ["Pulp Fiction", "Kill Bill", "Reservoir Dogs", "Jackie Brown"],
+    "options_ar": ["بالب فيكشن", "كيل بيل", "كلاب الخزان", "جاكي براون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_422",
+    "questionText_en": "Who played Mia Wallace?",
+    "questionText_ar": "من لعبت دور ميا والاس؟",
+    "options_en": ["Uma Thurman", "Demi Moore", "Sandra Bullock", "Jodie Foster"],
+    "options_ar": ["أوما ثورمان", "ديمي مور", "ساندرا بولوك", "جودي فوستر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_423",
+    "questionText_en": "Which director created the Kill Bill films?",
+    "questionText_ar": "من أخرج أفلام كيل بيل؟",
+    "options_en": ["Quentin Tarantino", "Guy Ritchie", "Robert Rodriguez", "David Fincher"],
+    "options_ar": ["كوينتن تارانتينو", "غاي ريتشي", "روبرت رودريغيز", "ديفيد فينشر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_424",
+    "questionText_en": "Who played the Bride in Kill Bill?",
+    "questionText_ar": "من لعبت دور العروس في كيل بيل؟",
+    "options_en": ["Uma Thurman", "Lucy Liu", "Carrie-Anne Moss", "Michelle Yeoh"],
+    "options_ar": ["أوما ثورمان", "لوسي ليو", "كاري آن موس", "ميشيل يوه"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_425",
+    "questionText_en": "Which movie follows a group of criminals planning a diamond heist?",
+    "questionText_ar": "أي فيلم يتابع مجموعة مجرمين يخططون لسرقة ألماس؟",
+    "options_en": ["Reservoir Dogs", "Ocean's Eleven", "Heat", "The Italian Job"],
+    "options_ar": ["كلاب الخزان", "أوشن 11", "هيت", "الوظيفة الإيطالية"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_426",
+    "questionText_en": "Which movie stars George Clooney as Danny Ocean?",
+    "questionText_ar": "أي فيلم يلعب فيه جورج كلوني دور داني أوشن؟",
+    "options_en": ["Ocean's Eleven", "The Italian Job", "Heat", "Now You See Me"],
+    "options_ar": ["أوشن 11", "الوظيفة الإيطالية", "هيت", "الآن أنت تراني"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_427",
+    "questionText_en": "Which actor played Danny Ocean?",
+    "questionText_ar": "من لعب دور داني أوشن؟",
+    "options_en": ["George Clooney", "Brad Pitt", "Matt Damon", "Mark Wahlberg"],
+    "options_ar": ["جورج كلوني", "براد بيت", "مات ديمون", "مارك والبرغ"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_428",
+    "questionText_en": "Which movie features a group of magicians performing heists?",
+    "questionText_ar": "أي فيلم يتضمن مجموعة من السحرة الذين ينفذون عمليات سرقة؟",
+    "options_en": ["Now You See Me", "The Prestige", "The Illusionist", "Ocean's Eleven"],
+    "options_ar": ["الآن أنت تراني", "ذا بريستيج", "ذا إلوشنيست", "أوشن 11"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_429",
+    "questionText_en": "Which movie stars Christian Bale as a man with a mysterious identity?",
+    "questionText_ar": "أي فيلم يلعب فيه كريستيان بيل دور رجل بهوية غامضة؟",
+    "options_en": ["The Machinist", "American Psycho", "The Prestige", "Equilibrium"],
+    "options_ar": ["الميكانيكي", "أمريكان سايكو", "ذا بريستيج", "إكويليبروم"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_430",
+    "questionText_en": "Who played Patrick Bateman?",
+    "questionText_ar": "من لعب دور باتريك بيتمان؟",
+    "options_en": ["Christian Bale", "Jake Gyllenhaal", "Edward Norton", "Jude Law"],
+    "options_ar": ["كريستيان بيل", "جيك جيلنهال", "إدوارد نورتون", "جود لو"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_431",
+    "questionText_en": "Which film features the character Tyler Durden?",
+    "questionText_ar": "أي فيلم يتضمن شخصية تايلر دوردن؟",
+    "options_en": ["Fight Club", "Se7en", "Gone Girl", "The Game"],
+    "options_ar": ["نادي القتال", "سيفن", "غون غيرل", "ذا غيم"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_432",
+    "questionText_en": "Who played Tyler Durden?",
+    "questionText_ar": "من لعب دور تايلر دوردن؟",
+    "options_en": ["Brad Pitt", "Edward Norton", "Matt Damon", "Christian Bale"],
+    "options_ar": ["براد بيت", "إدوارد نورتون", "مات ديمون", "كريستيان بيل"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_433",
+    "questionText_en": "Which movie features the detective character Somerset?",
+    "questionText_ar": "أي فيلم يتضمن المحقق سومرست؟",
+    "options_en": ["Se7en", "Zodiac", "Heat", "Prisoners"],
+    "options_ar": ["سيفن", "زودياك", "هيت", "السجناء"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_434",
+    "questionText_en": "Who directed Se7en?",
+    "questionText_ar": "من أخرج فيلم سيفن؟",
+    "options_en": ["David Fincher", "Christopher Nolan", "Denis Villeneuve", "David Lynch"],
+    "options_ar": ["ديفيد فينشر", "كريستوفر نولان", "دينيس فيلنوف", "ديفيد لينش"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_435",
+    "questionText_en": "Which film follows two magicians competing against each other?",
+    "questionText_ar": "أي فيلم يتابع ساحرين يتنافسان ضد بعضهما؟",
+    "options_en": ["The Prestige", "The Illusionist", "Now You See Me", "Doctor Strange"],
+    "options_ar": ["ذا بريستيج", "ذا إلوشنيست", "الآن أنت تراني", "دكتور سترينج"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_436",
+    "questionText_en": "Who directed The Prestige?",
+    "questionText_ar": "من أخرج فيلم ذا بريستيج؟",
+    "options_en": ["Christopher Nolan", "David Fincher", "Tim Burton", "Steven Spielberg"],
+    "options_ar": ["كريستوفر نولان", "ديفيد فينشر", "تيم برتون", "ستيفن سبيلبرغ"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_437",
+    "questionText_en": "Which actor played Alfred Borden in The Prestige?",
+    "questionText_ar": "من لعب دور ألفريد بوردن في ذا بريستيج؟",
+    "options_en": ["Christian Bale", "Hugh Jackman", "Christian Slater", "Colin Farrell"],
+    "options_ar": ["كريستيان بيل", "هيو جاكمان", "كريستيان سلاتر", "كولين فاريل"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_438",
+    "questionText_en": "Which actor played Nikola Tesla in The Prestige?",
+    "questionText_ar": "من لعب دور نيكولا تسلا في ذا بريستيج؟",
+    "options_en": ["David Bowie", "Gary Oldman", "Ralph Fiennes", "Jeremy Irons"],
+    "options_ar": ["ديفيد بوي", "غاري أولدمان", "رالف فاينس", "جيريمي آيرونز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_439",
+    "questionText_en": "Which movie features a hotel called The Overlook?",
+    "questionText_ar": "أي فيلم يتضمن فندقًا اسمه ذا أوفرلوك؟",
+    "options_en": ["The Shining", "Psycho", "The Exorcist", "The Conjuring"],
+    "options_ar": ["ذا شاينينغ", "سايكو", "ذا إكزورسيست", "ذا كونجورينغ"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_440",
+    "questionText_en": "Who directed The Shining?",
+    "questionText_ar": "من أخرج فيلم ذا شاينينغ؟",
+    "options_en": ["Stanley Kubrick", "Alfred Hitchcock", "Wes Craven", "Roman Polanski"],
+    "options_ar": ["ستانلي كوبريك", "ألفريد هيتشكوك", "ويس كرافن", "رومان بولانسكي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_441",
+    "questionText_en": "Which horror movie features a killer named Ghostface?",
+    "questionText_ar": "أي فيلم رعب يتضمن قاتلًا يُعرف باسم غوست فيس؟",
+    "options_en": ["Scream", "Halloween", "Friday the 13th", "A Nightmare on Elm Street"],
+    "options_ar": ["سكريم", "هالوين", "الجمعة 13", "كابوس في شارع إلم"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_442",
+    "questionText_en": "Who is the killer associated with Halloween?",
+    "questionText_ar": "من هو القاتل المرتبط بسلسلة هالوين؟",
+    "options_en": ["Michael Myers", "Jason Voorhees", "Freddy Krueger", "Ghostface"],
+    "options_ar": ["مايكل مايرز", "جيسون فورهيس", "فريدي كروغر", "غوست فيس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_443",
+    "questionText_en": "Who is the killer in Friday the 13th?",
+    "questionText_ar": "من هو القاتل الشهير في سلسلة الجمعة 13؟",
+    "options_en": ["Jason Voorhees", "Michael Myers", "Freddy Krueger", "Leatherface"],
+    "options_ar": ["جيسون فورهيس", "مايكل مايرز", "فريدي كروغر", "ليذرفيس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_444",
+    "questionText_en": "Who is the villain in A Nightmare on Elm Street?",
+    "questionText_ar": "من هو الشرير في كابوس في شارع إلم؟",
+    "options_en": ["Freddy Krueger", "Jason Voorhees", "Michael Myers", "Pennywise"],
+    "options_ar": ["فريدي كروغر", "جيسون فورهيس", "مايكل مايرز", "بيني وايز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_445",
+    "questionText_en": "Which horror villain wears a mask made from human skin?",
+    "questionText_ar": "أي شرير رعب يرتدي قناعًا مصنوعًا من جلد بشري؟",
+    "options_en": ["Leatherface", "Ghostface", "Jason Voorhees", "Michael Myers"],
+    "options_ar": ["ليذرفيس", "غوست فيس", "جيسون فورهيس", "مايكل مايرز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_446",
+    "questionText_en": "Which horror film features Pennywise?",
+    "questionText_ar": "أي فيلم رعب يتضمن شخصية بيني وايز؟",
+    "options_en": ["It", "The Conjuring", "Insidious", "Annabelle"],
+    "options_ar": ["إت", "ذا كونجورينغ", "إنسيديوس", "أنابيل"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_447",
+    "questionText_en": "What form does Pennywise commonly take?",
+    "questionText_ar": "ما الشكل الذي يتخذه بيني وايز غالبًا؟",
+    "options_en": ["Clown", "Vampire", "Werewolf", "Ghost"],
+    "options_ar": ["مهرج", "مصاص دماء", "ذئب متحول", "شبح"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_448",
+    "questionText_en": "Which horror franchise features the doll Annabelle?",
+    "questionText_ar": "أي سلسلة رعب تتضمن الدمية أنابيل؟",
+    "options_en": ["The Conjuring", "Saw", "Insidious", "Scream"],
+    "options_ar": ["ذا كونجورينغ", "سو", "إنسيديوس", "سكريم"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_449",
+    "questionText_en": "Which horror franchise features a killer named Jigsaw?",
+    "questionText_ar": "أي سلسلة رعب تتضمن القاتل المعروف باسم جيغسو؟",
+    "options_en": ["Saw", "Scream", "Hostel", "Final Destination"],
+    "options_ar": ["سو", "سكريم", "هوستل", "الوجهة النهائية"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_450",
+    "questionText_en": "What is the real name of Jigsaw in Saw?",
+    "questionText_ar": "ما الاسم الحقيقي لشخصية جيغسو في سلسلة سو؟",
+    "options_en": ["John Kramer", "Mark Hoffman", "Lawrence Gordon", "Adam Stanheight"],
+    "options_ar": ["جون كرامر", "مارك هوفمان", "لورانس غوردون", "آدم ستانهَيت"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_451",
+    "questionText_en": "Which video game features the character Mario?",
+    "questionText_ar": "أي لعبة فيديو تتضمن شخصية ماريو؟",
+    "options_en": ["Super Mario", "Sonic", "Zelda", "Metroid"],
+    "options_ar": ["سوبر ماريو", "سونيك", "زيلدا", "ميترويد"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_452",
+    "questionText_en": "What is Mario's brother's name?",
+    "questionText_ar": "ما اسم شقيق ماريو؟",
+    "options_en": ["Luigi", "Wario", "Toad", "Yoshi"],
+    "options_ar": ["لويجي", "واريو", "تود", "يوشي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_453",
+    "questionText_en": "Which Nintendo character is a yellow electric mouse?",
+    "questionText_ar": "أي شخصية من نينتندو هي فأر أصفر كهربائي؟",
+    "options_en": ["Pikachu", "Kirby", "Yoshi", "Toad"],
+    "options_ar": ["بيكاتشو", "كيربي", "يوشي", "تود"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_454",
+    "questionText_en": "Which game series features Pikachu?",
+    "questionText_ar": "أي سلسلة ألعاب تتضمن بيكاتشو؟",
+    "options_en": ["Pokémon", "Digimon", "Final Fantasy", "Dragon Quest"],
+    "options_ar": ["بوكيمون", "ديجيمون", "فاينل فانتسي", "دراغون كويست"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_455",
+    "questionText_en": "What type of creature is Pikachu?",
+    "questionText_ar": "ما نوع الكائن الذي ينتمي إليه بيكاتشو؟",
+    "options_en": ["Pokémon", "Digimon", "Robot", "Animal"],
+    "options_ar": ["بوكيمون", "ديجيمون", "روبوت", "حيوان"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_456",
+    "questionText_en": "Which game features the character Link?",
+    "questionText_ar": "أي لعبة تتضمن شخصية لينك؟",
+    "options_en": ["The Legend of Zelda", "Super Mario", "Metroid", "Kirby"],
+    "options_ar": ["أسطورة زيلدا", "سوبر ماريو", "ميترويد", "كيربي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_457",
+    "questionText_en": "What is the name of the princess in The Legend of Zelda?",
+    "questionText_ar": "ما اسم الأميرة في أسطورة زيلدا؟",
+    "options_en": ["Zelda", "Peach", "Daisy", "Samus"],
+    "options_ar": ["زيلدا", "بيتش", "ديزي", "ساموس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_458",
+    "questionText_en": "Which video game character is known for collecting rings?",
+    "questionText_ar": "أي شخصية في ألعاب الفيديو تشتهر بجمع الحلقات؟",
+    "options_en": ["Sonic", "Mario", "Link", "Kirby"],
+    "options_ar": ["سونيك", "ماريو", "لينك", "كيربي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_459",
+    "questionText_en": "What color is Sonic the Hedgehog?",
+    "questionText_ar": "ما لون شخصية سونيك القنفذ؟",
+    "options_en": ["Blue", "Red", "Green", "Yellow"],
+    "options_ar": ["أزرق", "أحمر", "أخضر", "أصفر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_460",
+    "questionText_en": "Which game features the character Master Chief?",
+    "questionText_ar": "أي لعبة تتضمن شخصية ماستر تشيف؟",
+    "options_en": ["Halo", "Destiny", "Gears of War", "Doom"],
+    "options_ar": ["هالو", "ديستني", "غيرز أوف وور", "دووم"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_461",
+    "questionText_en": "Which video game series features Lara Croft?",
+    "questionText_ar": "أي سلسلة ألعاب تتضمن لارا كروفت؟",
+    "options_en": ["Tomb Raider", "Uncharted", "Resident Evil", "Assassin's Creed"],
+    "options_ar": ["تومب رايدر", "أنشارتد", "ريزدنت إيفل", "أساسنز كريد"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_462",
+    "questionText_en": "Which game series features Nathan Drake?",
+    "questionText_ar": "أي سلسلة ألعاب تتضمن ناثان دريك؟",
+    "options_en": ["Uncharted", "Tomb Raider", "Far Cry", "The Last of Us"],
+    "options_ar": ["أنشارتد", "تومب رايدر", "فار كراي", "ذا لاست أوف أس"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_463",
+    "questionText_en": "Which game series features Ezio Auditore?",
+    "questionText_ar": "أي سلسلة ألعاب تتضمن إيتسيو أوديتوري؟",
+    "options_en": ["Assassin's Creed", "Hitman", "Prince of Persia", "God of War"],
+    "options_ar": ["أساسنز كريد", "هيتمان", "برنس أوف بيرشيا", "غود أوف وور"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_464",
+    "questionText_en": "Which game series features Kratos?",
+    "questionText_ar": "أي سلسلة ألعاب تتضمن كريتوس؟",
+    "options_en": ["God of War", "Devil May Cry", "Dark Souls", "Doom"],
+    "options_ar": ["غود أوف وور", "ديفل ماي كراي", "دارك سولز", "دووم"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_465",
+    "questionText_en": "What is Kratos's weapon in the original God of War games?",
+    "questionText_ar": "ما سلاح كريتوس في ألعاب غود أوف وور الأصلية؟",
+    "options_en": ["Blades of Chaos", "Leviathan Axe", "Master Sword", "Energy Sword"],
+    "options_ar": ["شفرات الفوضى", "فأس ليفياثان", "السيف الرئيسي", "سيف الطاقة"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_466",
+    "questionText_en": "Which game features the world of Hyrule?",
+    "questionText_ar": "أي لعبة تتضمن عالم هايرول؟",
+    "options_en": ["The Legend of Zelda", "Final Fantasy", "Kingdom Hearts", "Pokémon"],
+    "options_ar": ["أسطورة زيلدا", "فاينل فانتسي", "كينغدوم هارتس", "بوكيمون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_467",
+    "questionText_en": "Which game features a battle royale mode with building?",
+    "questionText_ar": "أي لعبة تشتهر بنمط باتل رويال مع البناء؟",
+    "options_en": ["Fortnite", "PUBG", "Apex Legends", "Valorant"],
+    "options_ar": ["فورتنايت", "ببجي", "أبيكس ليجندز", "فالورانت"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_468",
+    "questionText_en": "Which game is known for its battle royale matches on an island?",
+    "questionText_ar": "أي لعبة تشتهر بمباريات باتل رويال على جزيرة؟",
+    "options_en": ["PUBG", "Minecraft", "FIFA", "The Sims"],
+    "options_ar": ["ببجي", "ماينكرافت", "فيفا", "ذا سيمز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_469",
+    "questionText_en": "Which game lets players build with blocks in a sandbox world?",
+    "questionText_ar": "أي لعبة تتيح للاعبين البناء بالكتل في عالم مفتوح؟",
+    "options_en": ["Minecraft", "Terraria", "Roblox", "Fortnite"],
+    "options_ar": ["ماينكرافت", "تيراريا", "روبلوكس", "فورتنايت"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_470",
+    "questionText_en": "Which game features creepers?",
+    "questionText_ar": "أي لعبة تتضمن مخلوقات الكريبر؟",
+    "options_en": ["Minecraft", "Terraria", "Roblox", "Don't Starve"],
+    "options_ar": ["ماينكرافت", "تيراريا", "روبلوكس", "دونت ستارف"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_471",
+    "questionText_en": "Which game series features the character Agent 47?",
+    "questionText_ar": "أي سلسلة ألعاب تتضمن العميل 47؟",
+    "options_en": ["Hitman", "Splinter Cell", "Metal Gear", "Max Payne"],
+    "options_ar": ["هيتمان", "سبلينتر سيل", "ميتال غير", "ماكس باين"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_472",
+    "questionText_en": "Which game series features Solid Snake?",
+    "questionText_ar": "أي سلسلة ألعاب تتضمن سوليد سنيك؟",
+    "options_en": ["Metal Gear", "Hitman", "Halo", "Splinter Cell"],
+    "options_ar": ["ميتال غير", "هيتمان", "هالو", "سبلينتر سيل"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_473",
+    "questionText_en": "Which game series features Leon S. Kennedy?",
+    "questionText_ar": "أي سلسلة ألعاب تتضمن ليون إس كينيدي؟",
+    "options_en": ["Resident Evil", "Silent Hill", "Dead Space", "Dying Light"],
+    "options_ar": ["ريزدنت إيفل", "سايلنت هيل", "ديد سبيس", "داينغ لايت"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_474",
+    "questionText_en": "Which game series is known for zombies and the Umbrella Corporation?",
+    "questionText_ar": "أي سلسلة ألعاب تشتهر بالزومبي وشركة أمبريلا؟",
+    "options_en": ["Resident Evil", "The Last of Us", "Left 4 Dead", "Dead Rising"],
+    "options_ar": ["ريزدنت إيفل", "ذا لاست أوف أس", "ليفت 4 ديد", "ديد رايزينغ"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_475",
+    "questionText_en": "Which game series features the character Geralt of Rivia?",
+    "questionText_ar": "أي سلسلة ألعاب تتضمن غيرالت من ريفيا؟",
+    "options_en": ["The Witcher", "Skyrim", "Dragon Age", "Dark Souls"],
+    "options_ar": ["ذا ويتشر", "سكاي ريم", "دراغون إيج", "دارك سولز"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_476",
+    "questionText_en": "Which game features the continent of Tamriel?",
+    "questionText_ar": "أي لعبة تتضمن قارة تامريل؟",
+    "options_en": ["The Elder Scrolls", "The Witcher", "World of Warcraft", "Final Fantasy"],
+    "options_ar": ["ذا إلدر سكرولز", "ذا ويتشر", "وورلد أوف ووركرافت", "فاينل فانتسي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_477",
+    "questionText_en": "Which game features the region of Skyrim?",
+    "questionText_ar": "أي لعبة تتضمن منطقة سكايرم؟",
+    "options_en": ["The Elder Scrolls V: Skyrim", "Fallout 4", "Oblivion", "Morrowind"],
+    "options_ar": ["ذا إلدر سكرولز 5: سكايرم", "فول أوت 4", "أوبليفيون", "مورويند"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_478",
+    "questionText_en": "Which game series features Vaults and a post-apocalyptic world?",
+    "questionText_ar": "أي سلسلة ألعاب تتضمن الخزائن وعالمًا ما بعد نهاية العالم؟",
+    "options_en": ["Fallout", "Borderlands", "Metro", "Wasteland"],
+    "options_ar": ["فول أوت", "بوردرلاندز", "مترو", "ويستلاند"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_479",
+    "questionText_en": "Which game series features the character Master Chief?",
+    "questionText_ar": "أي سلسلة ألعاب تتضمن ماستر تشيف؟",
+    "options_en": ["Halo", "Gears of War", "Destiny", "Mass Effect"],
+    "options_ar": ["هالو", "غيرز أوف وور", "ديستني", "ماس إيفكت"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_480",
+    "questionText_en": "Which game series features the Locust Horde?",
+    "questionText_ar": "أي سلسلة ألعاب تتضمن جحافل لوكست؟",
+    "options_en": ["Gears of War", "Halo", "Doom", "Quake"],
+    "options_ar": ["غيرز أوف وور", "هالو", "دووم", "كويك"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_481",
+    "questionText_en": "Which book series features the character Percy Jackson?",
+    "questionText_ar": "أي سلسلة كتب تتضمن شخصية بيرسي جاكسون؟",
+    "options_en": ["Percy Jackson & the Olympians", "Harry Potter", "The Hunger Games", "Divergent"],
+    "options_ar": ["بيرسي جاكسون والأولمبيون", "هاري بوتر", "ألعاب الجوع", "دايفرجنت"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_482",
+    "questionText_en": "Who wrote the Percy Jackson series?",
+    "questionText_ar": "من كتب سلسلة بيرسي جاكسون؟",
+    "options_en": ["Rick Riordan", "J.K. Rowling", "Suzanne Collins", "Stephen King"],
+    "options_ar": ["ريك ريوردان", "جي كي رولينغ", "سوزان كولينز", "ستيفن كينغ"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_483",
+    "questionText_en": "Who wrote The Chronicles of Narnia?",
+    "questionText_ar": "من كتب سجلات نارنيا؟",
+    "options_en": ["C.S. Lewis", "J.R.R. Tolkien", "Philip Pullman", "J.K. Rowling"],
+    "options_ar": ["سي إس لويس", "جي آر آر تولكين", "فيليب بولمان", "جي كي رولينغ"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_484",
+    "questionText_en": "What is the lion's name in Narnia?",
+    "questionText_ar": "ما اسم الأسد في نارنيا؟",
+    "options_en": ["Aslan", "Edmund", "Peter", "Caspian"],
+    "options_ar": ["أسلان", "إدموند", "بيتر", "كاسبيان"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_485",
+    "questionText_en": "Who wrote The Da Vinci Code?",
+    "questionText_ar": "من كتب رواية شيفرة دافنشي؟",
+    "options_en": ["Dan Brown", "John Grisham", "Stephen King", "Ken Follett"],
+    "options_ar": ["دان براون", "جون غريشام", "ستيفن كينغ", "كين فوليت"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_486",
+    "questionText_en": "Who wrote the novel The Shining?",
+    "questionText_ar": "من كتب رواية ذا شاينينغ؟",
+    "options_en": ["Stephen King", "Dean Koontz", "John Grisham", "Clive Barker"],
+    "options_ar": ["ستيفن كينغ", "دين كونتز", "جون غريشام", "كلايف باركر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_487",
+    "questionText_en": "Who wrote It?",
+    "questionText_ar": "من كتب رواية إت؟",
+    "options_en": ["Stephen King", "H.P. Lovecraft", "Edgar Allan Poe", "Clive Barker"],
+    "options_ar": ["ستيفن كينغ", "إتش بي لافكرافت", "إدغار آلان بو", "كلايف باركر"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_488",
+    "questionText_en": "Who wrote Pride and Prejudice?",
+    "questionText_ar": "من كتبت رواية كبرياء وتحامل؟",
+    "options_en": ["Jane Austen", "Emily Brontë", "Charlotte Brontë", "George Eliot"],
+    "options_ar": ["جين أوستن", "إيميلي برونتي", "شارلوت برونتي", "جورج إليوت"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_489",
+    "questionText_en": "Who wrote Jane Eyre?",
+    "questionText_ar": "من كتبت رواية جين آير؟",
+    "options_en": ["Charlotte Brontë", "Jane Austen", "Emily Brontë", "Virginia Woolf"],
+    "options_ar": ["شارلوت برونتي", "جين أوستن", "إيميلي برونتي", "فرجينيا وولف"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_490",
+    "questionText_en": "Who wrote Wuthering Heights?",
+    "questionText_ar": "من كتبت رواية مرتفعات ويذرينغ؟",
+    "options_en": ["Emily Brontë", "Charlotte Brontë", "Jane Austen", "George Eliot"],
+    "options_ar": ["إيميلي برونتي", "شارلوت برونتي", "جين أوستن", "جورج إليوت"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_491",
+    "questionText_en": "Who wrote Alice's Adventures in Wonderland?",
+    "questionText_ar": "من كتب مغامرات أليس في بلاد العجائب؟",
+    "options_en": ["Lewis Carroll", "Charles Dickens", "Mark Twain", "Robert Louis Stevenson"],
+    "options_ar": ["لويس كارول", "تشارلز ديكنز", "مارك توين", "روبرت لويس ستيفنسون"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_492",
+    "questionText_en": "What is the name of Alice's white rabbit?",
+    "questionText_ar": "ما اسم الأرنب الأبيض الذي تتبعه أليس؟",
+    "options_en": ["The White Rabbit", "Peter Rabbit", "Roger Rabbit", "Bugs Bunny"],
+    "options_ar": ["الأرنب الأبيض", "بيتر رابيت", "روجر رابيت", "باغز باني"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_493",
+    "questionText_en": "Who wrote The Adventures of Tom Sawyer?",
+    "questionText_ar": "من كتب مغامرات توم سوير؟",
+    "options_en": ["Mark Twain", "Charles Dickens", "Herman Melville", "Ernest Hemingway"],
+    "options_ar": ["مارك توين", "تشارلز ديكنز", "هيرمان ملفيل", "إرنست همنغواي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_494",
+    "questionText_en": "Who wrote The Three Musketeers?",
+    "questionText_ar": "من كتب رواية الفرسان الثلاثة؟",
+    "options_en": ["Alexandre Dumas", "Victor Hugo", "Jules Verne", "Gustave Flaubert"],
+    "options_ar": ["ألكسندر دوما", "فيكتور هوغو", "جول فيرن", "غوستاف فلوبير"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_495",
+    "questionText_en": "Who wrote Les Misérables?",
+    "questionText_ar": "من كتب رواية البؤساء؟",
+    "options_en": ["Victor Hugo", "Alexandre Dumas", "Honoré de Balzac", "Émile Zola"],
+    "options_ar": ["فيكتور هوغو", "ألكسندر دوما", "أونوريه دي بلزاك", "إميل زولا"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_496",
+    "questionText_en": "Who wrote The Little Prince?",
+    "questionText_ar": "من كتب الأمير الصغير؟",
+    "options_en": ["Antoine de Saint-Exupéry", "Jules Verne", "Albert Camus", "Victor Hugo"],
+    "options_ar": ["أنطوان دو سانت إكزوبيري", "جول فيرن", "ألبير كامو", "فيكتور هوغو"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_497",
+    "questionText_en": "Which fictional detective was created by Agatha Christie?",
+    "questionText_ar": "أي محقق خيالي ابتكرته أجاثا كريستي؟",
+    "options_en": ["Hercule Poirot", "Sherlock Holmes", "Philip Marlowe", "Sam Spade"],
+    "options_ar": ["هيركيول بوارو", "شيرلوك هولمز", "فيليب مارلو", "سام سبيد"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_498",
+    "questionText_en": "What is Miss Marple's first name?",
+    "questionText_ar": "ما الاسم الأول للآنسة ماربل؟",
+    "options_en": ["Jane", "Agatha", "Mary", "Emily"],
+    "options_ar": ["جين", "أجاثا", "ماري", "إيميلي"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_499",
+    "questionText_en": "Which fictional detective lives at 221B Baker Street?",
+    "questionText_ar": "أي محقق خيالي يعيش في 221B شارع بيكر؟",
+    "options_en": ["Sherlock Holmes", "Hercule Poirot", "Columbo", "Miss Marple"],
+    "options_ar": ["شيرلوك هولمز", "هيركيول بوارو", "كولومبو", "الآنسة ماربل"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": "ent_500",
+    "questionText_en": "Which fictional detective is famous for his Belgian background and distinctive mustache?",
+    "questionText_ar": "أي محقق خيالي يشتهر بأصوله البلجيكية وشاربه المميز؟",
+    "options_en": ["Hercule Poirot", "Sherlock Holmes", "Inspector Morse", "Columbo"],
+    "options_ar": ["هيركيول بوارو", "شيرلوك هولمز", "المفتش مورس", "كولومبو"],
+    "correctAnswerIndex": 0
+  },
+      "questionText_ar": "أي فيلم أخرجه Joel Coen ويشارك فيه Jeff Bridges بدور رئيسي؟",
+    "options_en": [
+      "Jaws",
+      "The Big Lebowski",
+      "The Iron Giant",
+      "Frozen II"
+    ],
+    "options_ar": [
+      "Jaws",
+      "The Big Lebowski",
+      "The Iron Giant",
+      "Frozen II"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "entertainment_996",
+    "questionText_en": "In which year was \"A Beautiful Mind\" released?",
+    "questionText_ar": "في أي عام صدر فيلم \"A Beautiful Mind\"؟",
+    "options_en": [
+      "1999",
+      "1991",
+      "1994",
+      "2001"
+    ],
+    "options_ar": [
+      "1999",
+      "1991",
+      "1994",
+      "2001"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "entertainment_997",
+    "questionText_en": "Who directed \"A Beautiful Mind\"?",
+    "questionText_ar": "من أخرج فيلم \"A Beautiful Mind\"؟",
+    "options_en": [
+      "George Miller",
+      "Ron Howard",
+      "Lee Unkrich",
+      "Ridley Scott"
+    ],
+    "options_ar": [
+      "George Miller",
+      "Ron Howard",
+      "Lee Unkrich",
+      "Ridley Scott"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "entertainment_998",
+    "questionText_en": "Which actor or performer is a lead star of \"A Beautiful Mind\"?",
+    "questionText_ar": "أي ممثل أو مؤدٍ يُعد من نجوم البطولة في فيلم \"A Beautiful Mind\"؟",
+    "options_en": [
+      "Jack Black",
+      "Russell Crowe",
+      "Tom Hardy",
+      "Gene Hackman"
+    ],
+    "options_ar": [
+      "Jack Black",
+      "Russell Crowe",
+      "Tom Hardy",
+      "Gene Hackman"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": "entertainment_999",
+    "questionText_en": "What is the primary genre of \"A Beautiful Mind\"?",
+    "questionText_ar": "ما التصنيف الرئيسي لفيلم \"A Beautiful Mind\"؟",
+    "options_en": [
+      "War",
+      "Sports drama",
+      "Mystery",
+      "Drama"
+    ],
+    "options_ar": [
+      "حرب",
+      "دراما رياضية",
+      "غموض",
+      "دراما"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": "entertainment_1000",
+    "questionText_en": "Which film was directed by Ron Howard and features Russell Crowe as a lead performer?",
+    "questionText_ar": "أي فيلم أخرجه Ron Howard ويشارك فيه Russell Crowe بدور رئيسي؟",
+    "options_en": [
+      "Howl's Moving Castle",
+      "A Beautiful Mind",
+      "Frozen II",
+      "Pulp Fiction"
+    ],
+    "options_ar": [
+      "Howl's Moving Castle",
+      "A Beautiful Mind",
+      "Frozen II",
+      "Pulp Fiction"
+    ],
+    "correctAnswerIndex": 1
+  }
+
 
 
   
