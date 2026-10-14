@@ -2941,7 +2941,7 @@
     "options_ar": ["شيرلوك هولمز", "هيركيول بوارو", "كولومبو", "الآنسة ماربل"],
     "correctAnswerIndex": 0
   },
-  {
+ {
     "id": "ent_500",
     "questionText_en": "Which fictional detective is famous for his Belgian background and distinctive mustache?",
     "questionText_ar": "أي محقق خيالي يشتهر بأصوله البلجيكية وشاربه المميز؟",
@@ -2949,7 +2949,10 @@
     "options_ar": ["هيركيول بوارو", "شيرلوك هولمز", "المفتش مورس", "كولومبو"],
     "correctAnswerIndex": 0
   },
-      "questionText_ar": "أي فيلم أخرجه Joel Coen ويشارك فيه Jeff Bridges بدور رئيسي؟",
+  {
+    "id": "ent_501",
+    "questionText_en": "Which film was directed by Joel Coen and stars Jeff Bridges in the lead role?",
+    "questionText_ar": "أي فيلم أخرجه Joel Coen ويشارك فيه Jeff Bridges بدور رئيسي؟",
     "options_en": [
       "Jaws",
       "The Big Lebowski",
