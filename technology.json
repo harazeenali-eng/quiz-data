@@ -1207,30 +1207,60 @@
     ],
     "correctAnswerIndex": 0
   },
-  {
+{
     "id": "tech_282",
     "questionText_en": "What does recall measure in classification?",
     "questionText_ar": "ماذا يقيس مقياس Recall في التصنيف؟",
-    "options_en": ["The number of files on a disk", "The proportion of actual positive cases that the model correctly identifies", "The screen's refresh rate", "The average length of passwords"],
-    "options_ar": ["عدد الملفات الموجودة على القرص", "نسبة الحالات الإيجابية الفعلية التي يكتشفها النموذج بشكل صحيح", "معدل تحديث الشاشة", "متوسط طول كلمات المرور"],
+    "options_en": [
+      "The number of files on a disk",
+      "The proportion of actual positive cases that the model correctly identifies",
+      "The screen's refresh rate",
+      "The average length of passwords"
+    ],
+    "options_ar": [
+      "عدد الملفات الموجودة على القرص",
+      "نسبة الحالات الإيجابية الفعلية التي يكتشفها النموذج بشكل صحيح",
+      "معدل تحديث الشاشة",
+      "متوسط طول كلمات المرور"
+    ],
     "correctAnswerIndex": 1
   },
   {
     "id": "tech_283",
     "questionText_en": "What is a hyperparameter in machine learning?",
     "questionText_ar": "ما هو المعامل الفائق Hyperparameter في تعلم الآلة؟",
-    "options_en": ["A value always learned directly as an ordinary model weight", "A type of physical processor", "A configuration value chosen to control the learning process", "A database table name"],
-    "options_ar": ["قيمة تُتعلم دائمًا مباشرةً كوزن عادي للنموذج", "نوع من المعالجات المادية", "قيمة إعداد تُختار للتحكم في عملية التعلم", "اسم جدول قاعدة بيانات"],
+    "options_en": [
+      "A value always learned directly as an ordinary model weight",
+      "A type of physical processor",
+      "A configuration value chosen to control the learning process",
+      "A database table name"
+    ],
+    "options_ar": [
+      "قيمة تُتعلم دائمًا مباشرةً كوزن عادي للنموذج",
+      "نوع من المعالجات المادية",
+      "قيمة إعداد تُختار للتحكم في عملية التعلم",
+      "اسم جدول قاعدة بيانات"
+    ],
     "correctAnswerIndex": 2
   },
   {
     "id": "tech_284",
     "questionText_en": "What is gradient descent used for in machine learning?",
     "questionText_ar": "فيمَ يُستخدم الانحدار المتدرج Gradient Descent في تعلم الآلة؟",
-    "options_en": ["Installing operating systems", "Creating network cables", "Sorting file folders alphabetically", "Adjusting parameters to reduce an objective or loss function"],
-    "options_ar": ["تثبيت أنظمة التشغيل", "إنشاء كابلات الشبكة", "ترتيب مجلدات الملفات أبجديًا", "تعديل المعاملات لتقليل دالة الهدف أو الخسارة"],
+    "options_en": [
+      "Installing operating systems",
+      "Creating network cables",
+      "Sorting file folders alphabetically",
+      "Adjusting parameters to reduce an objective or loss function"
+    ],
+    "options_ar": [
+      "تثبيت أنظمة التشغيل",
+      "إنشاء كابلات الشبكة",
+      "ترتيب مجلدات الملفات أبجديًا",
+      "تعديل المعاملات لتقليل دالة الهدف أو الخسارة"
+    ],
     "correctAnswerIndex": 3
-  },
+  }
   {
     "id": "tech_285",
     "questionText_en": "What is data augmentation?",
