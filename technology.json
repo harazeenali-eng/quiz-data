@@ -1189,14 +1189,24 @@
     "options_ar": ["تتبع درجات حرارة الحاسوب", "تخزين كلمات مرور المستخدمين", "تنظيم ملفات الصور", "تلخيص الفئات المتوقعة مقارنة بالفئات الفعلية في مهمة تصنيف"],
     "correctAnswerIndex": 3
   },
-  {
+ {
     "id": "tech_281",
     "questionText_en": "What does precision measure in classification?",
     "questionText_ar": "ماذا يقيس مقياس Precision في التصنيف؟",
-    "options_en": "The proportion of predicted positives that are actually positive", "The total size of the training dataset", "The number of processor cores", "The time needed to open a file"],
-    "options_ar": ["نسبة الحالات الإيجابية المتوقعة التي تكون إيجابية فعلًا", "الحجم الإجمالي لبيانات التدريب", "عدد أنوية المعالج", "الوقت اللازم لفتح ملف"],
+    "options_en": [
+      "The proportion of predicted positives that are actually positive", 
+      "The total size of the training dataset", 
+      "The number of processor cores", 
+      "The time needed to open a file"
+    ],
+    "options_ar": [
+      "نسبة الحالات الإيجابية المتوقعة التي تكون إيجابية فعلًا", 
+      "الحجم الإجمالي لبيانات التدريب", 
+      "عدد أنوية المعالج", 
+      "الوقت اللازم لفتح ملف"
+    ],
     "correctAnswerIndex": 0
-  },
+  }
   {
     "id": "tech_282",
     "questionText_en": "What does recall measure in classification?",
